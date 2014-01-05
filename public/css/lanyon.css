@@ -73,13 +73,15 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 32rem;
 }
+
 @media (min-width: 38rem) {
   .container {
-    max-width: 32rem;
+    max-width: 36rem;
   }
 }
+
 @media (min-width: 56rem) {
   .container {
     max-width: 38rem;
@@ -112,6 +114,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: #c0c0c0;
   letter-spacing: 0;
+}
+
+@media (min-width: 38rem) {
+ .masthead-title {
+    text-align: center;
+  }
+  .masthead-title small {
+    display: none;
+  }
 }
 
 @media (max-width: 48rem) {
