@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Miguel Carvajal
+tagline:          'Notas, enlaces y reflexiones sobre periodismo'
+description:      'Profesor en la <a href="http://periodismo.umh.es" target="_blank">UMH</a> y director del Máster de Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
+url:              http://miguelcarvajal.es
+
+author:
+  name:           'Miguel Carvajal'
+  url:            https://twitter.com/sintomatico
+
+paginate:        5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/miguelcarvajal

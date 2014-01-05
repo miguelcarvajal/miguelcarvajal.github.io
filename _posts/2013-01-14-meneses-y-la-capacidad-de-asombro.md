@@ -1,0 +1,19 @@
+---
+layout: post
+title: Meneses y la capacidad de asombro
+tags:
+- meneses
+- periodismo
+- profesión
+- reporteros
+type: text
+---
+Ir, ver y contarlo. Compartir hechos, sucesos e historias. Levantarse de la silla, coger el tren y adentrarse en mundos ajenos. Gastar suela de zapato. Viajar y descubrir los relatos escondidos. Un estudiante de Periodismo escucha estos consejos casi a diario, son enseñanzas que proceden de la experiencia de los grandes de este oficio. **Anton Chejov**, **Mark Twain**,** Hemingway**, **Orwell**, **Kapuscinski**, **Truman Capote**, **Gay Talese**, **Marie Colvin**… Hay algo común en la vida de estos geniales reporteros y maestros del periodismo, algo que sobrevuela sus anécdotas y sus crónicas o se percibe en sus memorias. Sabían mirar, prestaban atención a los detalles, tenían paciencia y contaban las cosas sin moverlas de su sitio, con un respeto sagrado.
+
+Ya fuera de paseo por la gran manzana, escuchando a los niños de una cárcel en la Isla de Sajalin, con el traqueteo de un tren por los pueblos de Castilla, compartiendo un vino en una taberna parisina, en una trinchera de la guerra civil española, de camino en lo más profundo de Kansas, al abrigo de una cabaña perdida de la estepa rusa o buscando refugio en Alepo. En cualquiera de esas situaciones, por épicas, insulsas o extravagantes que fueran, sabían fijarse en lo pequeño. </span>**Tenían una capacidad de asombro infinita**. Miraban las cosas como si fuera la primera vez, como lo haría un extraterrestre, escribió **Manuel Rivas** en El periodismo es un cuento.
+
+El domingo 6 de enero falleció otro de esos maestros en capacidad de asombro. **Enrique Meneses** murió a los 82 años y dejó un legado imborrable. Además de valor y ética, Meneses era un gran conversador, como señalan muchos de los [colegas](http://www.jotdown.es/2013/01/ramon-lobo-enrique-meneses-ya-es-rio/ "Enrique Meneses ya es río") que le conocieron. Era un reportero de la estirpe aventurera, de los que consagraron su vida a la profesión, a veces a costa de la familia o el hígado. En el [documental](http://www.rtve.es/alacarta/videos/el-documental/2-estrena-oxigeno-para-vivir-homenaje-reportero-enrique-meneses/1652840/ "Oxígeno para vivir") que emitió La2 el viernes pasado se retrata de forma cruda y delicada al mismo tiempo esa brecha que se abre entre el mundo y quien se dedica a contar cómo es el Mundo en una conversación entre padre e hija. Las fotos, reportajes, libros, revistas, vídeos o programas de radio atestiguan el compromiso de Meneses con el periodismo, un ejemplo valioso para las nuevas generaciones que asisten [desorientadas](http://miguelcarvajal.es/post/34228596947/apologia-del-periodismo "Apología del periodismo") a la “descolonización” empresarial del Periodismo. 
+
+![Enrique Meneses](http://www.jotdown.es/wp-content/uploads/2013/01/Enrique-Meneses-para-Jot-Down-fotograf%C3%ADa-de-Guadalupe-de-la-Vallina.jpg)
+
+(Foto de Guadulupe de la Vallina, [@Lupe_](https://twitter.com/Lupe_ "Twitter de Lupe").

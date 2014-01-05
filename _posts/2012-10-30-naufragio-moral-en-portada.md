@@ -1,0 +1,22 @@
+---
+layout: post
+title: Naufragio moral en portada
+tags:
+- criterios
+- inmigrantes
+- moral
+- noticiabilidad
+- pateras
+- periodismo
+- portada
+type: text
+---
+Algunos mueren en el mar peleando por una vida mejor, mientras otros se ahogan en la charca de su pueblo. La mayor parte de **la prensa anda enzarzada en batallas paletas de banderas**, que solo sirven para esconder la mala gestión de quienes las agitan. El jueves pasado murieron en la costa de Alhucemas 14 inmigrantes, Salvamento Marítimo rescató a 17. Son ya 23 los cadáveres de unos soñadores buscando su futuro en este país en declive moral. La pequeña o nula aparición de estas noticias en las portadas es un síntoma más de la pérdida de sensibilidad de algunos profesionales del periodismo. Con algunas excepciones, como [Ideal](http://kiosko.net/es/2012-10-26/np/ideal_almeria.html "Portada") (edición de Almería), [Diario de Navarra](http://www.diariodenavarra.es/ "Portada") y [La Vanguardia](http://kiosko.net/es/2012-10-26/np/lavanguardia.html "Portada"), casi todos los directores ignoraron el suceso o lo encerraron en un breve minúsculo en sus primeras. 
+
+Los reporteros cubren estos sucesos con cuidado, pero luego l**os editores no les otorgan el espacio que se merecen**. No se trata de demagogia. Es cierto que se publican. ¿Pero por qué se les da más o menos importancia? ¿Es la costumbre, la pérdida de sensibilidad? ¿El kilómetro sentimental, que **determina el nivel de interés por la cercanía del muerto**? Esos mismos días la prensa anduvo revuelta con el crimen de El Salobral. Los tintes morbosos provocaron que esta historia tuviera más espacio que otros casos de violencia machista, ya son 37 en 2013.
+
+Los medios tienen un espacio limitado para las noticias, deben seleccionar y jerarquizar, especialmente en las portadas o en la escaleta del informativo. Pero, ¿cómo evalúan la noticiabilidad? **Emplean un proceso rutinario** que, en general, **no está sometido a pruebas de calidad**. Los académicos han intentado agrupar los criterios determinantes, esa escala de elementos imprescindibles para que un hecho se considere noticia. Sin embargo, cuando se trata de otorgar prioridad y espacio, el consenso se rompe. Cada pueblo, cada sociedad tiene su cultura y su conciencia. Y, por supuesto, cada medio tiene, o no, unos valores. Pero la mayoría de las veces parece que **sólo juzgan con sus intereses políticos** y empresariales. 
+
+**Si las portadas de los periódicos**, la agenda de los informativos o la lista de las noticias más vistas de la web **fueran la conciencia de una sociedad**&#8230; De momento, durante esta semana un murciano, un alicantino o un manchego podrían pensar que tienen un apartamento en Brooklyn por el espacio que sus periódicos y sus telediarios otorgan al huracán Sandy. Claro, es la mayor inundación de la historia de Nueva York, hay millones de personas sin luz en la Costa Este y decenas de muertos. Sí. ¡Pero es una tormenta perfecta! Al menos queda nombrarlo, recordarlo, y que la conciencia no vuelva a naufragar.
+
+*Columna para el 3er programa REC de Radio UMH.
