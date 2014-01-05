@@ -82,6 +82,12 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+@media (min-width: 42rem) {
+  .container {
+    max-width: 38rem;
+  }
+}
+
 @media (min-width: 56rem) {
   .container {
     max-width: 38rem;
@@ -116,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (min-width: 38rem) {
+@media (max-width: 42rem) {
  .masthead-title {
     text-align: center;
   }
@@ -164,6 +170,7 @@ h1, h2, h3, h4, h5, h6 {
   color: rgba(255,255,255,.6);
   background-color: #202020;
 }
+
 @media (min-width: 30rem) {
   .sidebar {
     font-size: .75rem; /* 14px */
