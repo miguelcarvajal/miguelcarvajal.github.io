@@ -24,13 +24,13 @@ Durante los últimos años he estudiado cómo se organizan las empresas periodí
 
 ### Sobre este sitio
 
-Este sitio es el último intento de agrupar mis textos (colaboraciones, ideas y desahogos). Por si alguien tiene interés, este blog está diseñado sobre una tecnología llamada [Jekyll](http://jekyllrb.com). He abandonado por fin los CMS públicos como Wordpress o Tumblr por sus constantes limitaciones, su lentitud y la obligación de mantenerlos en bases de datos. Además, parece más ágil y con mayor legibilidad, ¿no?
+Este sitio está diseñado con un CMS ligero llamado [Jekyll](http://jekyllrb.com). 
 
 ### Puedes localizarme en:
 
 * **[Academia](http://umh-es.academia.edu/MiguelCarvajal)** - Pronto estará actualizado.
 * **[Facebook](http://facebook.com/carvajal.miguel)** - Perfil personal.
-* **[Twitter](http://twitter.com/sintomatico)** - Retuits, pensamientos y comentarios variados.
+* **[Twitter](http://twitter.com/sintomatico)** - Retuits y comentarios sobre periodismo.
 * **[Github](http://github.com/miguelcarvajal)** - Repositorio de diseño y desarrollo web.
 * **[Blog](http://mip.umh.es/blog)** - Blog del Máster de Innovación en Periodismo.
-* **[Periodismo UMH](http://periodismo.umh.es)** - Blog de Periodismo UMH.
+* **[Periodismo UMH](http://periodismo.umh.es)** - Periodismo UMH.
