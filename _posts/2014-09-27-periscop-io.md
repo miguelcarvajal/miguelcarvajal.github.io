@@ -11,8 +11,7 @@ Me gustaría sistematizar esa búsqueda y optimizar el tiempo de navegación **p
 
 ![alt text](https://dl.dropboxusercontent.com/u/3578704/fotos_blog_mcp/periscopio.png "Periscopio")
 
-
-He dicidido reunir a **un grupo de colegas que admiro** para ayudarme en esta misión. Este grupo de rastreadores pasan mucho tiempo por ahí fuera y que ven cosas que harían llorar de alegría a Pulitzer, ¿por qué no aprovecharlo?
+He dicidido reunir a **un grupo de colegas que admiro** para ayudarme en esta misión. Este grupo de rastreadores pasan mucho tiempo por ahí fuera y ven cosas que harían llorar de alegría a Pulitzer, ¿por qué no aprovecharlo?
 
 ### Cómo funciona
 
