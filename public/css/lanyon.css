@@ -595,3 +595,5 @@ a.pagination-item:hover {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Pagination items can be `span`s or `a`s */

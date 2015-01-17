@@ -8,7 +8,7 @@ layout: default
         {% else %}
           <h1 class="post-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
         {% endif %}
-  <span class="post-date">{{ page.date | date_to_string }}</span>
+<span class="post-date">{{ page.date | date_to_string }}</span>
 {% include tweet-button.html %}
 {{ content }}
 </div>
@@ -28,3 +28,6 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+<!-- Open external links in new tab -->
+<script type="text/javascript" src="/js/com.alybadawy.external_links.js"></script>
