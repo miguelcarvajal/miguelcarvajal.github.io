@@ -33,5 +33,5 @@ paginate:        5
 version:          2.1.0
 
 github:
-  repo:           miguelcarvajal/miguelcarvajal.github.com
+  repo:           miguelcarvajal/miguelcarvajal.github.io
   branch:         master
