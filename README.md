@@ -2,4 +2,4 @@ Hola, soy **Miguel Carvajal** y esta es la tercera versión de mi blog en [Jekyl
 
 #### Puedes localizarme en:
 * **[Blog](http://miguelcarvajal.es)** - Sitio donde recojo textos, colaboraciones e ideas.
-* **[Twitter](http://twitter.com/sintomatico)** - Mi cuenta personal.
+* **[Twitter](http://twitter.com/mcarvajal_)** - Mi cuenta personal.

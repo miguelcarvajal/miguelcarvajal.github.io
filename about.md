@@ -30,7 +30,7 @@ Este sitio está diseñado con un CMS ligero llamado [Jekyll](http://jekyllrb.co
 
 * **[Academia](http://umh-es.academia.edu/MiguelCarvajal)** - Pronto estará actualizado.
 * **[Facebook](http://facebook.com/carvajal.miguel)** - Perfil personal.
-* **[Twitter](http://twitter.com/sintomatico)** - Retuits y comentarios sobre periodismo.
+* **[Twitter](http://twitter.com/mcarvajal_)** - Retuits y comentarios sobre periodismo.
 * **[Github](http://github.com/miguelcarvajal)** - Repositorio de diseño y desarrollo web.
 * **[Blog](http://mip.umh.es/blog)** - Blog del Máster de Innovación en Periodismo.
 * **[Periodismo UMH](http://periodismo.umh.es)** - Periodismo UMH.
