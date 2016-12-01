@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+          <h3 class="masthead-title">
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+            {% include _cover.html %}
+      </div>    
+
+      <hr>
+      <div class="container content" syle="centered">
+
+        <a href="http://facebook.com/miguelcarvajal" title="Follow on Facebook" target="_blank" class="btn-social"><i class="fa fa-fw fa-facebook"></i></a>
+        <a href="https://plus.google.com/u/0/105651624538664882557/about" target="_blank" class="btn-social"><i class="fa fa-fw fa-google-plus"></i></a>
+        <a href="https://twitter.com/mcarvajal_" title="Follow on Twitter" target="_blank" class="btn-social"><i class="fa fa-fw fa-twitter"></i></a>
+      </div>    
+
+    </div>
+
+      <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+      
+  </body>
+</html>

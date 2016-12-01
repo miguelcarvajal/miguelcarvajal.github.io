@@ -1,0 +1,29 @@
+---
+layout: post
+title:  El periodismo más innovador nace fuera de la industria mediática tradicional  
+excerpt: "La Fundación Civio, El Confidencial, la revista Vis-à-Vis, eldiario.es y Acuerdo constituyen las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el Ranking de Innovación Periodística 2014 elaborado por el Grupo de Investigación de la Comunicación (GICOV) de la Universidad Miguel Hernández (UMH) de Elche, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional."
+author:
+  name: Alicia de Lara
+  twitter: porqueeeyo
+  gplus: 104274993391260139803 
+  bio: Coordinadora de Diseño Web
+  image: alicia.png
+  link: https://twitter.com/porqueeeyo
+---
+La [Fundación Civio](http://bit.ly/civio), [El Confidencial](http://bit.ly/confiden), [Vis-à-Vis](http://bit.ly/revvisavis), [eldiario.es](http://bit.ly/eldiarioes) y [Acuerdo](http://bit.ly/acuerdous) son las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el [Ranking de Innovación Periodística 2014](http://mip.umh.es/ranking/) elaborado por el Grupo de Investigación de la Comunicación ([GICOV](http://gicov.umh.es/)) de la **Universidad Miguel Hernández (UMH)**, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional. 
+
+<script id="infogram_0_ranking-innovacionperiodistica-2014" src="https://e.infogr.am/js/embed.js?XKi" type="text/javascript"></script><div style="width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;"><a target="_blank" href="https://infogr.am/ranking-innovacionperiodistica-2014" style="color:#acacac;text-decoration:none;">Ranking Innovación     Periodística 2014    </a> | <a style="color:#acacac;text-decoration:none;" href="https://infogr.am" target="_blank">Create infographics</a></div>
+
+El objetivo de esta investigación es estudiar las principales innovaciones en el sector periodístico español y reconocer además el trabajo de periodistas y editores. El primer puesto lo ocupa la **Fundación Civio**, una asociación sin ánimo de lucro que aglutina diferentes proyectos enfocados a la promoción de la transparencia informativa y el acceso libre a los datos. **El Confidencial**, en el segundo tramo, es un medio nativo digital que ha sido premiado recientemente por el británico The Guardian. El tercer lugar lo ocupa la revista creada exclusivamente para iPad **Vis-à-Vis**. Le sigue **eldiario.es**, que destaca por su extensa red de colaboradores y su política de socios, y Acuerdo, un proyecto de narrativas innovadoras apoyado e impulsado mediante crowdfunding. 
+
+En la lista aparecen también revistas de humor transgresoras como [Mongolia](http://bit.ly/revistamongolia) o la centrada en información futbolística de calidad [Panenka](http://bit.ly/revpanenka). En cuanto a modelo de financiación destaca [Infolibre](http://bit.ly/diarioinfolibre), que está participado por los propios lectores. El único medio de los considerados tradicionales que se ha colado en la clasificación ha sido el [Lab de RTVE](http://bit.ly/labtrve). 
+
+Para obtener la clasificación, el GICOV ha realizado un **análisis exhaustivo de 25 iniciativas periodísticas** previamente seleccionadas entre un total de 60 propuestas enviadas por expertos académicos y profesionales. Respecto a la metodología aplicada, tras la consulta a los expertos, se tuvo en cuenta el interés de la audiencia y el impacto social, es decir, el número de seguidores y fans y el grado de engagement de las cuentas de cada caso. Por último, se diseñó un motor de búsqueda para registrar el número de menciones de cada iniciativa en las webs y blogs de referencia del sector profesional y académico para evitar la sobreexposición de los casos más populares. De esta manera, se registraron **625 innovaciones**, entre los **25 casos seleccionados** que configuran el ranking completo. 
+
+**Cuatro investigadores** senior del equipo cribaron los datos para pulir redundancias, innovaciones poco consistentes o sin justificación. Tras esa discriminación, **el resultado final de innovaciones se redujo a 196**. En el análisis se ha tenido en cuenta la innovación desde cuatro áreas específicas: producto; producción y distribución; organización; y comercialización. Por ejemplo, se han registrado aspectos tan variados como la arquitectura web, el uso de narrativas transmedia, la innovación publicitaria o la distribución en iPads. 
+
+<iframe src="http://www.porcentual.es/backoffice/widget.html#/charts/qTw6gQdannyIEAv8SY-PPg/widget" frameborder="0" style="width:600px; height: 400px;"></iframe>
+
+Por una parte, se estudió el grado de innovación asociado a la base tecnológica o no tecnológica. Por ejemplo, la web centrada en visualización de datos [Vizzuality](http://bit.ly/vizzuality) destaca en innovación tecnológica por la creación de una tecnología propia denominada CartoDb que se ha convertido en una referencia mundial en visualización de datos. Así mismo, para cada innovación se midió su grado de ruptura, poniendo como referencia el mercado nacional y diferenciando entre innovaciones radicales e incrementales registradas entre julio de 2013 y julio de 2014. 
+
+La investigación se ha llevado a cabo por los profesores de Periodismo de la UMH **Alicia de Lara**, **Miguel Carvajal**, **Félix Ária*s*, **José Alberto García-Avilés** y **José Luis González Esteban**, y por los becarios **Miguel Palazón**, **Borja García** y **Chema Valero**. El ranking se enmarca en una línea de trabajo y experimentación que nace con motivo de la creación del Máster en Innovación en Periodismo. El informe completo, que se publicará el próximo 20 de enero, se puede solicitar a través de la propia web del ranking.

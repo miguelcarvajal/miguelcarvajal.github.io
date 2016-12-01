@@ -14,19 +14,17 @@ redcarpet:
       - footnotes
 
 # Permalinks
-relative_permalinks: true
+relative_permalinks: false
 
 # Setup
 title:            Miguel Carvajal
-tagline:          'Notas, enlaces y reflexiones sobre periodismo'
-description:      'Profesor en la <a href="http://periodismo.umh.es" target="_blank">UMH</a> y director del Máster en Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
+tagline:          'Profesor de Periodismo'
+description:      'Profesor en la Universidad Miguel Hernández (UMH) y director del Máster en Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
 url:              http://miguelcarvajal.es
 
 author:
   name:           'Miguel Carvajal'
   url:            https://twitter.com/mcarvajal_
-
-paginate:        5
 
 # Custom vars
 version:          2.1.0
