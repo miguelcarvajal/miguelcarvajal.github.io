@@ -32,4 +32,3 @@ version:          2.1.0
 github:
   repo:           miguelcarvajal/miguelcarvajal.github.io
   branch:         master
-theme: jekyll-theme-cayman
