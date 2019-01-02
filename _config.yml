@@ -19,7 +19,7 @@ relative_permalinks: false
 # Setup
 title:            Miguel Carvajal
 tagline:          'Profesor de Periodismo'
-description:      'Profesor en la Universidad Miguel Hernández (UMH) y director del Máster en Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
+description:      'Profesor en la Universidad Miguel Hernández y director del Máster en Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
 url:              http://miguelcarvajal.es
 
 author:
