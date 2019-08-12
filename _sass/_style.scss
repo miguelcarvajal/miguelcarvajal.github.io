@@ -1,0 +1,174 @@
+// Custom Vox Shadow Variables
+$box-shadow-lg-hover: 0 2.25rem 1.5rem -1.5rem fade-out($gray-900, 0.7), 0 0 1.5rem 0.5rem fade-out($gray-900, 0.95);
+
+/* Show it's not fixed to the top */
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'PT Serif', serif;
+  font-weight: 700;
+  color: #313131;
+  letter-spacing: -.025rem;
+}
+
+.container-fluid {
+  max-width: 1130px;
+  color: #4c4c4c;
+}
+
+.border-3 {
+    border-width: .75rem!important;
+}
+
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+// Loop Footer
+.after-loop {
+  padding: 2rem 0 2rem;
+  a.after-loop-item {
+    color: $white;
+    position: relative;
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    transition: 0.15s box-shadow ease, 0.15s transform ease;
+    -moz-transition: 0.15s box-shadow ease, 0.15s transform ease;
+    .card-body {
+      i {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        font-size: 4rem;
+        left: 1rem;
+        color: fade-out($white, 0.8);
+        transition: 0.15s all ease;
+      }
+      h4 {
+        font-weight: 700;
+      }
+      p {
+        color: fade-out($white, 0.3);
+        font-weight: 600;
+      }
+    }
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  @include media-breakpoint-up(lg) {
+    a.after-loop-item:hover {
+      transform: translateY(-0.25rem);
+      box-shadow: $box-shadow-lg-hover !important;
+      .card-body {
+        i {
+          left: 1.5rem;
+          font-size: 3rem;
+        }
+      }
+    }
+    a.after-loop-item:active {
+      transform: none;
+      box-shadow: $box-shadow-lg !important;
+    }
+  }
+}
+
+/**
+ 
+#markdown-toc {
+  padding-inline-start: 0px;
+}
+
+#markdown-toc ul {
+  padding-inline-start: 10px;
+  list-style-type: none;
+}
+
+#markdown-toc li {
+  padding-inline-start: 10px;
+  list-style-type: none;
+}
+* Lists
+ */
+
+blockquote {
+    border-left: .25em solid #dfe2e5;
+    color: #6a737d;
+    padding: 0 1em;
+}
+
+code {
+    background-color: rgba(27,31,35,.05);
+    border-radius: 3px;
+    font-size: 85%;
+    margin: 0;
+    padding: .2em .4em;
+}
+
+.note+p { /*next paragraph after <div class="note"></div>*/
+    position: relative;
+    padding: .75rem 1.25rem;
+    margin-bottom: 1rem;
+    border-color: #dc3545!important;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: .25rem;
+    font-size: medium;
+}
+
+.note+p:before { /*aditionally prepend `⚠ Note:` to message: */ 
+    content: "Nota importante para la comprobación documental";
+    font-weight: bold;
+    display: block;
+    font-size: 1.5rem;
+}
+
+.jumbotron {
+  padding: $jumbotron-padding ($jumbotron-padding / 2);
+  margin-bottom: $jumbotron-padding;
+  color: $jumbotron-color;
+  background-color: $jumbotron-bg;
+  @include border-radius($border-radius-lg);
+
+  @include media-breakpoint-up(sm) {
+    padding: ($jumbotron-padding * 2) $jumbotron-padding;
+  }
+}
+
+.jumbotron-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  @include border-radius(0);
+}
+
+.social-icons a {
+  display: inline-block;
+  height: 3.5rem;
+  width: 3.5rem;
+  background-color: #495057;
+  color: #fff !important;
+  border-radius: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
+
+.social-icons a:last-child {
+  margin-right: 0;
+}
+
+.social-icons a:hover {
+  background-color: #6c757d;
+}
+

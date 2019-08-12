@@ -3,31 +3,7 @@ layout: default
 ---
 
 <div class="post">
-        {% if page.link %}
-          <h3 class="linktitle"><a href="{{ page.link }}">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}<span class="link-arrow"> &rarr;</span></a></h3>
-        {% else %}
-          <h1 class="post-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
-        {% endif %}
-<span class="post-date">{{ page.date | date_to_string }}</span>
-{% include tweet-button.html %}
-{{ content }}
+  <h2 class="post-title">{{ page.title }}</h2>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
 </div>
-
-<div class="related">
-  <h2>Últimos posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
-
-<!-- Open external links in new tab -->
-<script type="text/javascript" src="/js/com.alybadawy.external_links.js"></script>

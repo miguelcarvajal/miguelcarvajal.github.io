@@ -1,32 +1,43 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+{% include header.html %}
 
-  {% include head.html %}
+<body class="bg-light" cz-shortcut-listen="true">
 
-  <body>
+{% include nav.html %}
 
-    {% include sidebar.html %}
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
-         content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">
-      <div class="masthead">
-        <div class="container">
-          <label for="sidebar-checkbox" class="sidebar-toggle"></label>
-
-          <h3 class="masthead-title">
-            <a href="/" title="Home">{{ site.title }}</a>
-            <small>{{ site.tagline }}</small>
-          </h3>
-        </div>
-      </div>
-
-      <div class="container content">
-        {{ content }}
-      </div>
+<div class="jumbotron jumbotron-fluid" style="background: linear-gradient(to left, rgba(1, 5, 14, 0.6) 26.48%, #737070 73.52%),url(coxer.jpg) no-repeat center center fixed; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover">
+    <div class="container">
+    <div class="col-9">	
+    <h1 class="bd-title text-white mb-4">Miguel Carvajal. <a class="text-warning" href="investigar.html">Investigar</a>, <a class="text-warning" href="enseñar.html">enseñar</a> y <a class="text-warning" href="transformar.html">transformar</a> el periodismo.</h1>
+  	<hr class="border-3 border-white my-4 ml-0 text-left w-25">
     </div>
+    </div>
+</div>
 
-      <script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-      
-  </body>
+<div class="container-fluid pt-3">
+
+{% include cover.html %}
+{% include social.html %}
+{% include cards.html %}
+
+<main class="col-12 col-md-12 col-xl-12 py-md-3 pl-md-5 pr-md-5 bd-content" role="main">
+
+{{ content }}
+
+</main>
+
+
+<div class="card">
+  <div class="card-body">
+  <strong>Oficina</strong>. Despacho 16 | Edificio Torreblanca | Avd. Universidad s/n, 03202 Elche (Alicante) · España | Teléfono + 00 34 965 222 415
+  </div>
+</div>
+
+</div>
+
+{% include pie.html %}
+
+</body>
+
+{% include footer.html %}
+
 </html>

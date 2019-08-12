@@ -1,34 +1,36 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      pygments
-
-redcarpet:
-    extensions: 
-      - no_intra_emphasis
-      - fenced_code_blocks
-      - tables
-      - strikethrough
-      - superscript
-      - autolink
-      - hard_wrap
-      - footnotes
-
-# Permalinks
-relative_permalinks: false
-
 # Setup
-title:            Miguel Carvajal
-tagline:          'Profesor de Periodismo'
-description:      'Profesor en la Universidad Miguel Hernández y director del Máster en Innovación en Periodismo <a href="http://mip.umh.es" target="_blank">(MIP)</a>.'
-url:              http://miguelcarvajal.es
+title: Miguel Carvajal
+email: mcarvajal@umh.es
+tagline: 'Profesor de Periodismo'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://miguelcarvajal.es" # the base hostname & protocol for your site, e.g. http://example.com
+future:         true
+authors: Miguel Carvajal
+# Build settings
+markdown: kramdown
+include: ["_pages"]
+permalink: /:title/
 
-author:
-  name:           'Miguel Carvajal'
-  url:            https://twitter.com/mcarvajal_
+# Sass converter configuration
+sass:
+    sass_dir: _sass
+    style: compressed
 
-# Custom vars
-version:          2.1.0
+# Local Server
+host:           localhost # same as default value '127.0.0.1' but reads better
 
-github:
-  repo:           miguelcarvajal/miguelcarvajal.github.io
-  branch:         master
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - .sass-cache
+  - .netlify
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - README.md
