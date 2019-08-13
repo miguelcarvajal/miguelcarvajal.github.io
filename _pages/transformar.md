@@ -5,6 +5,7 @@ layout: page
 subtitle: Proyectos, recursos y aplicaciones
 color: bg-dark
 ---
+
 {:.no_toc}
 ### Índice
 
