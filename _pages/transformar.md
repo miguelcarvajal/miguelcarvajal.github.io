@@ -66,6 +66,8 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
   </div>
 </section>
 
+**Periodistas de datos** reune la primera gran lista de profesionales que que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
+
 ### Local Data Lab
 
 <section class="after-loop">
@@ -81,6 +83,8 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
     </div>
   </div>
 </section>
+
+El **Local Data Lab** es un grupo de trabajo compuesto por profesionales, profesores y alumnos de Periodismo de la Universidad Miguel Hernández. Nació en febrero de 2019 impulsado por el profesor Félix Arias con el fin de descubrir y poner en práctica el potencial del periodismo de datos en el ámbito local.
 
 ### Edición · El País
 
@@ -98,6 +102,8 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
   </div>
 </section>
 
+El bot **elpaisdiff** es un programa desarrollado en Python ([código](https://github.com/DocNow/diffengine)) que analiza el trabajo de edición en la portada de El País. La herramienta compara versiones de los artículos principales del diario madrileño, captura las diferencias y las comparte en una imagen en Twitter de forma automática. También he instalado un [bot para el diario El Mundo](https://twitter.com/elmundodiff).
+
 ### Ministeditor
 
 <section class="after-loop">
@@ -113,3 +119,5 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
     </div>
   </div>
 </section>
+
+El bot **Ministeditor** es un programa ([código](https://github.com/edsu/anon)) que analiza tuitea cualquier edición anónimas de la Wikipedia realizada desde direcciones IP gubernamentales. El proyecto forma parte de una iniciativa global por el fomento de la transparencia en la actividad política y gubernamental.
