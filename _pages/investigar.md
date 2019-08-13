@@ -14,7 +14,7 @@ color: bg-dark
 
 * * *
 
-**Mi trayectoria investigadora** se ha centrado en la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y presentar los siguientes resultados:
+A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y presentar los siguientes resultados:
 
 - **40** publicaciones científicas
   - **16** artículos de revistas indexadas
@@ -54,6 +54,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {{ libros.autores }} (**{{ libros.ano }}**). _{{ libros.titulo }}_, publicado en editorial {{ libros.editorial }}, {{ libros.ciudad }}, {{ libros.paginas }} páginas, ISBN: {{ libros.ISBN }}, SPI: {{ libros.SPI }}.
 {% endfor %}
 
+**Capítulos** de libros:
 
 {% for capitulos in site.data.capitulos %}
 {{ capitulos.autores }} (**{{ capitulos.ano }}**). En _{{ capitulos.titulo }}_, publicado en editorial {{ capitulos.editorial }}, pp. {{ capitulos.paginas }}, ISBN: {{ capitulos.ISBN }}, SPI: {{ capitulos.SPI }}.
@@ -91,14 +92,14 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 
 ### Participación en congresos (8)
 
-1. **2010 - MODERADOR** en el I Congreso Internacional de Comunicación y Publicidad, celebrado en la Universidad Miguel Hernández de Elche. 
-2. **2018 - MODERADOR** en Comunica2: VIII Congreso Internacional sobre redes sociales, celebrado en la Universitat Politècnica de València. 
-3. **2014 - MODERADOR** en el "XV Congreso de Periodismo Digital", celebrado en Huesca y organizado por la Asociación de Prensa de Aragón. 
-4. **2009 - MODERADOR** en las XXII Jornadas de El Nuevo Lunes de la Asociación de Prensa de Alicante.
-5. **2000 - ASISTENCIA** a las "XV Jornadas Internacionales de Comunicación, celebradas en la Universidad de Navarra. 
-6. **2011 - ASISTENCIA** al "Seminario Humanidades Digitales" celebrado en la UMH.
-7. **2015 - ASISTENCIA** al "II Seminario de Periodismo Emprendedor", organizado por la FAPE. 
-8. **2016 - ASISTENCIA** en calidad de ponente a la actividad de trabajo del Proyecto MAPCOM en la Universitat Pompeu Fabra.
+- **2010 - MODERADOR** en el I Congreso Internacional de Comunicación y Publicidad, celebrado en la Universidad Miguel Hernández de Elche. 
+- **2018 - MODERADOR** en Comunica2: VIII Congreso Internacional sobre redes sociales, celebrado en la Universitat Politècnica de València. 
+- **2014 - MODERADOR** en el "XV Congreso de Periodismo Digital", celebrado en Huesca y organizado por la Asociación de Prensa de Aragón. 
+- **2009 - MODERADOR** en las XXII Jornadas de El Nuevo Lunes de la Asociación de Prensa de Alicante.
+- **2000 - ASISTENCIA** a las "XV Jornadas Internacionales de Comunicación, celebradas en la Universidad de Navarra. 
+- **2011 - ASISTENCIA** al "Seminario Humanidades Digitales" celebrado en la UMH.
+- **2015 - ASISTENCIA** al "II Seminario de Periodismo Emprendedor", organizado por la FAPE. 
+- **2016 - ASISTENCIA** en calidad de ponente a la actividad de trabajo del Proyecto MAPCOM en la Universitat Pompeu Fabra.
 
 ### Proyectos (9)
 
@@ -138,17 +139,17 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 
 **Premios relacionados con la calidad investigadora**. El Plan de Excelencia y Competitividad de la Universidad Miguel Hernández de Elche 2014-2018 pretende aumentar su capacidad formativa, mejorar del talento docente, incrementar la generación de conocimiento y la competitividad de sus recursos humanos, desarrollar su proyección internacional e acrecentar su impacto en el sector socio-económico. Por eso, reconoce la implicación a los profesores que alcancen la excelencia investigadora mediante la concesión de premios, que recibirán la denominación Premios UMH a la Productividad Investigadora. En esta categoría he recibido los siguientes: 
 
-   - 2014 - Premio UMH 2014 a la Productividad Investigadora.
-   - 2015 - Premio UMH 2015 a la Productividad Investigadora.
-   - 2016 - Premio UMH 2016 a la Productividad Investigadora.
-   - 2018 - Premio UMH 2018 a la Productividad Investigadora. 
+- 2014 - Premio UMH 2014 a la Productividad Investigadora.
+- 2015 - Premio UMH 2015 a la Productividad Investigadora.
+- 2016 - Premio UMH 2016 a la Productividad Investigadora.
+- 2018 - Premio UMH 2018 a la Productividad Investigadora. 
 
 **He sido miembro evaluador de 13 tribunales de Tesis Doctorales**. He participado además en los siguientes comités y tribunales científicos. 
 
-  - 2017 - (actualidad) MIEMBRO del Banco de Expertos de la AGENCIA ESTATAL DE INVESTIGACIÓN. 
-  - 2009 - (actualidad) MIEMBRO del GICOV (Grupo de Investigación de la Comunicación en la Universidad Miguel Hernández).
-  - 2008 - (actualidad) MIEMBRO de la Asociación Española de Investigación en Comunicación (AE - IC). 
-  - 2012 - (actualidad) MIEMBRO de comité científico de la revista polaca NAUKOWY PRZEGLAD DZIENNIKARSKI. 
-  - 2018 - PONENTE en la Comisión de la Promoción Cultural del Consell Valenciá de Cultura para la elaboración del "Informe sobre la prensa valenciana".
+- 2017 - (actualidad) MIEMBRO del Banco de Expertos de la AGENCIA ESTATAL DE INVESTIGACIÓN. 
+- 2009 - (actualidad) MIEMBRO del GICOV (Grupo de Investigación de la Comunicación en la Universidad Miguel Hernández).
+- 2008 - (actualidad) MIEMBRO de la Asociación Española de Investigación en Comunicación (AE - IC). 
+- 2012 - (actualidad) MIEMBRO de comité científico de la revista polaca NAUKOWY PRZEGLAD DZIENNIKARSKI. 
+- 2018 - PONENTE en la Comisión de la Promoción Cultural del Consell Valenciá de Cultura para la elaboración del "Informe sobre la prensa valenciana".
 
 **He evaluado artículos científicos en revistas indexadas**, como Comunicación y Sociedad (SCOPUS), Revista Latina (Scopus), Sphera (Latindex) y Revista Mediterránea (Latindex).
