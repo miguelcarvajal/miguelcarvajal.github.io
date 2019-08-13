@@ -22,7 +22,7 @@ color: bg-dark
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Ranking de Innovación Periodística</h2>
                     <p class="w-75 text-secondary">Trayectoria docente y gestión universitaria</p>
-          <i><img class="rounded-circle" src="mip.png" alt="" width="90" height="90"></i>        
+          <i><img class="rounded-circle" src="mip.png" alt="" width="60" height="60"></i>        
         </div>
       </a>
     </div>
@@ -40,7 +40,7 @@ color: bg-dark
       <a href="http://diccionariodelcliche.umh.es/" target="_blank" class="after-loop-item card bg-primary border-0 shadow-lg">       
         <div class="card-body d-flex align-items-end flex-column text-right">
         <h2 class="text-white">Diccionario del cliché</h2>  
-        <i><img class="rounded-circle" src="cliche.png" alt="" width="90" height="90"></i>
+        <i><img class="rounded-circle" src="cliche.png" alt="" width="60" height="60"></i>
         </div>
       </a>
     </div>
@@ -55,7 +55,7 @@ color: bg-dark
       <a href="http://periodistasdedatos.com/" target="_blank" class="after-loop-item card bg-secondary border-0 shadow-lg">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Periodistas de datos</h2>
-          <i><img class="rounded-circle" src="pd.png" alt="" width="90" height="90"></i>
+          <i><img class="rounded-circle" src="pd.png" alt="" width="60" height="60"></i>
         </div>
       </a>
     </div>
@@ -70,7 +70,7 @@ color: bg-dark
       <a href="https://localdatalab.umh.es/" target="_blank" class="after-loop-item card border-0 bg-warning shadow-lg" style="background-image: linear-gradient(45deg,#040505 0,#5cb85c94 100%),url(https://localdatalab.umh.es/assets/images/elx-background.gif)">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Local Data Lab</h2>
-          <i><img class="rounded-circle" src="local.png" alt="" width="90" height="90"></i>
+          <i><img class="rounded-circle" src="local.png" alt="" width="60" height="60"></i>
         </div>
       </a>
     </div>
@@ -85,7 +85,7 @@ color: bg-dark
       <a href="https://twitter.com/elpaisdiff" target="_blank" class="after-loop-item card border-0 bg-dark shadow-lg">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Edición · elpaisdiff</h2>
-          <i><img class="rounded-circle" src="elpaisdiff.jpg" alt="" width="90" height="90"></i>          
+          <i><img class="rounded-circle" src="elpaisdiff.jpg" alt="" width="60" height="60"></i>          
         </div>
       </a>
     </div>
@@ -100,7 +100,7 @@ color: bg-dark
       <a href="https://twitter.com/ministeditor" target="_blank"  class="after-loop-item card border-0 bg-info shadow-lg">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Ministeditor</h2>
-          <i><img class="rounded-circle" src="ministeditor.jpg" alt="" width="90" height="90"></i>          
+          <i><img class="rounded-circle" src="ministeditor.jpg" alt="" width="60" height="60"></i>          
         </div>
       </a>
     </div>

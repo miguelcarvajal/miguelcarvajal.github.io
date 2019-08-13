@@ -14,7 +14,7 @@ color: bg-dark
 
 * * *
 
-**Mi trayectoria investigadora** se ha centrado en la transformación de la industria periodística en general. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y presentar los siguientes resultados:
+**Mi trayectoria investigadora** se ha centrado en la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y presentar los siguientes resultados:
 
 - **40** publicaciones científicas
   - **16** artículos de revistas indexadas
