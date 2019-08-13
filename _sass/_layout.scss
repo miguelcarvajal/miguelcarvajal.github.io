@@ -3,6 +3,8 @@
      max-width: 46rem;
      margin-left: auto;
      margin-right: auto;
+     font-family: "PT Serif", Georgia, "Times New Roman", serif;
+     font-size: 1.1rem;
  }
 
 .article-post img {
@@ -15,6 +17,5 @@
 @media (min-width: 38rem) {
   .article-post {
     font-size: 20px;
-    font-family: "PT Serif", Georgia, "Times New Roman", serif;
   }
 }
