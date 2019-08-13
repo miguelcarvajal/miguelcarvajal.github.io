@@ -1,15 +1,23 @@
 ---
+title: El periodismo más innovador nace fuera de la industria mediática tradicional
+date: 2014-12-05 00:00:00 Z
 layout: post
-title:  El periodismo más innovador nace fuera de la industria mediática tradicional  
-excerpt: "La Fundación Civio, El Confidencial, la revista Vis-à-Vis, eldiario.es y Acuerdo constituyen las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el Ranking de Innovación Periodística 2014 elaborado por el Grupo de Investigación de la Comunicación (GICOV) de la Universidad Miguel Hernández (UMH) de Elche, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional."
+excerpt: La Fundación Civio, El Confidencial, la revista Vis-à-Vis, eldiario.es y
+  Acuerdo constituyen las cinco iniciativas periodísticas más innovadoras del año
+  2014 en España. Estos resultados, incluidos en el Ranking de Innovación Periodística
+  2014 elaborado por el Grupo de Investigación de la Comunicación (GICOV) de la Universidad
+  Miguel Hernández (UMH) de Elche, confirman que el caldo de cultivo de la innovación
+  y la experimentación en el panorama periodístico nacional se cuece fuera de la industria
+  mediática tradicional.
 author:
   name: Alicia de Lara
   twitter: porqueeeyo
-  gplus: 104274993391260139803 
+  gplus: '104274993391260139803'
   bio: Coordinadora de Diseño Web
   image: alicia.png
   link: https://twitter.com/porqueeeyo
 ---
+
 La [Fundación Civio](http://bit.ly/civio), [El Confidencial](http://bit.ly/confiden), [Vis-à-Vis](http://bit.ly/revvisavis), [eldiario.es](http://bit.ly/eldiarioes) y [Acuerdo](http://bit.ly/acuerdous) son las cinco iniciativas periodísticas más innovadoras del año 2014 en España. Estos resultados, incluidos en el [Ranking de Innovación Periodística 2014](http://mip.umh.es/ranking/) elaborado por el Grupo de Investigación de la Comunicación ([GICOV](http://gicov.umh.es/)) de la **Universidad Miguel Hernández (UMH)**, confirman que el caldo de cultivo de la innovación y la experimentación en el panorama periodístico nacional se cuece fuera de la industria mediática tradicional. 
 
 <script id="infogram_0_ranking-innovacionperiodistica-2014" src="https://e.infogr.am/js/embed.js?XKi" type="text/javascript"></script><div style="width:100%;border-top:1px solid #acacac;padding-top:3px;font-family:Arial;font-size:10px;text-align:center;"><a target="_blank" href="https://infogr.am/ranking-innovacionperiodistica-2014" style="color:#acacac;text-decoration:none;">Ranking Innovación     Periodística 2014    </a> | <a style="color:#acacac;text-decoration:none;" href="https://infogr.am" target="_blank">Create infographics</a></div>

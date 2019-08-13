@@ -1,10 +1,12 @@
 ---
-layout: post
 title: Diez síntomas de intolerancia al cambio en periodismo
+date: 2014-09-29 00:00:00 Z
 tags:
-  - innovacion
-  - periodismo
+- innovacion
+- periodismo
+layout: post
 ---
+
 Me encanta **Tom Wolfe**, admiro a [**Jon Lee Anderson**](http://www.newyorker.com/contributors/jon-lee-anderson), _Hiroshima_ es [mi libro de cabecera](http://www.casadellibro.com/libro-hiroshima/9788483468548/1249225), [el 'ciclista fracasado'](https://twitter.com/Ciclismo2005/status/491581303050207234) **Ander Izagirre** me dio clases de reporterismo, soy fan de [Libros del KO](http://librosdelko.com/), mis estudiantes de redacción periodística deben superar una prueba de ortografía diabólica, venero los fundamentos de esta profesión... pero voy a ser provocativo. 
 
 En congresos, seminarios, cafés con colegas [^1] o foros de periodistas he detectado **diez frases que, en general, esconden una intolerancia** al cambio e impiden acelerar la recuperación de la industria periodística:

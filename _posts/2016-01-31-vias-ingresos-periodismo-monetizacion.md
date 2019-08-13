@@ -1,15 +1,24 @@
 ---
+title: "¿Quieres hacer el favor de pagarme, por favor? 32 vías de ingresos para el
+  periodismo"
+date: 2016-01-31 00:00:00 Z
 layout: post
-title: ¿Quieres hacer el favor de pagarme, por favor? 32 vías de ingresos para el periodismo
-excerpt: "¿Cómo generar ingresos para sostener la actividad periodística?, la semana pasada planteamos esta pregunta como un ejercicio en la asignatura Nuevos Modelos de Negocio del Máster. Aquí recojo algunas propuestas de los estudiantes, añado otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes de los usuarios/lectores por el producto o servicio principal; b) ingresos procedentes de la publicidad o sucedáneos; c) ingresos procedentes por otros servicios o negocios secundarios."
+excerpt: "¿Cómo generar ingresos para sostener la actividad periodística?, la semana
+  pasada planteamos esta pregunta como un ejercicio en la asignatura Nuevos Modelos
+  de Negocio del Máster. Aquí recojo algunas propuestas de los estudiantes, añado
+  otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes
+  de los usuarios/lectores por el producto o servicio principal; b) ingresos procedentes
+  de la publicidad o sucedáneos; c) ingresos procedentes por otros servicios o negocios
+  secundarios."
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
-  gplus: 105651624538664882557 
+  gplus: '105651624538664882557'
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
+
 _¿Cómo generar ingresos para sostener la actividad periodística?_, la semana pasada planteamos esta pregunta como un ejercicio en la asignatura **Nuevos Modelos de Negocio** del [Máster online](http://mip.umh.es/online/). Aquí recojo algunas propuestas de los estudiantes, añado otras ideas que había registrado, y las agrupo en tres categorías: a) ingresos procedentes de los **usuarios/lectores**; b) ingresos procedentes de la **publicidad** o sucedáneos; c) ingresos por **otros servicios o negocios** secundarios.
 
 Antes de nada, un matiz académico: **las fuentes de ingresos** son un componente clave, pero **no son equivalentes al modelo de negocio**. El modelo de ingresos es una parte fundamental, pues aborda la manera en que una empresa **captura valor por su actividad**, pero no es el modelo de negocio. Éste va más allá, busca explicar [cómo se crea y se distribuye valor](http://mip.umh.es/blog/2015/10/12/seis-modelos-negocio-periodismo-plataformas/), no solo cómo se captura. 

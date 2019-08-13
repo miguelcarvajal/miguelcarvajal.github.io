@@ -1,13 +1,15 @@
 ---
-layout: post
 title: La historia de una inspiración
+date: 2013-06-01 00:00:00 Z
+tags:
+- inspiración
+- storytelling
+- periodismo
+- belén torregrosa
+layout: post
 type: text
-tags: 
-  - inspiración
-  - storytelling
-  - periodismo
-  - belén torregrosa
 ---
+
 El 20 de mayo vino a clase de redacción periodística [Belén Torregrosa](http://www.belentorregrosa.com/ "Página web") para presentar [Follow your own star](http://www.followyourownstar.org/), un **proyecto de storytelling colaborativo** dedicado al cultivo del talento y la creatividad. Su intervención era la penúltima sesión del curso y, por las caras de los presentes, fue lo mejor del año. 
 
 Belén y yo nos conocemos desde los doce años. En clase dijo algo que me ayudó a entender muy bien su nuevo proyecto: "No somos nadie sin la ayuda de otros; yo estoy hoy aquí gracias a Miguel", dijo Belén. Parece una tontería, por eso, porque lo parece, pero no lo es. En realidad, todos estamos donde estamos porque antes ha habido otros que se han acordado de nosotros. **Todos tenemos una estrella**, aunque sea pequeña, gris, sucia o apenas visible que ayuda a otros en algún momento de la vida.  

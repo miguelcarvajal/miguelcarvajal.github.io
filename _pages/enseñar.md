@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Enseñar
+permalink: "/enseñar.html"
+layout: page
 subtitle: Trayectoria docente y gestión universitaria
-permalink: /enseñar.html
 color: bg-dark
 ---
+
 {:.no_toc}
 ### Índice
 

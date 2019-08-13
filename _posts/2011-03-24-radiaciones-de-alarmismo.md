@@ -1,9 +1,15 @@
 ---
-layout: post
 title: Radiaciones de alarmismo en la prensa
-tags: [fotos, laverdad, malaprensa, retórica]
+date: 2011-03-24 00:00:00 Z
+tags:
+- fotos
+- laverdad
+- malaprensa
+- retórica
+layout: post
 type: text
 ---
+
 **Josu Mezo**, editor del blog Malaprensa, lo [recordaba](http://www.malaprensa.com/2011/03/de-hiroshima-fukushima-pasando-por-el.html "Fukushima e Hiroshima") ayer: una serie de imágenes generan conexiones mentales perniciosas en los lectores, inducen al error o falsean la realidad. Él señala dos casos de páginas publicadas en El País sobre el terremoto y la alarma nuclear en Japón.
 
 ![La Verdad](https://lh3.googleusercontent.com/-eQprv5iN68M/UaTvyALZihI/AAAAAAAADf0/VM15rd-aLog/w500-h373-no/laverdad.jpg)

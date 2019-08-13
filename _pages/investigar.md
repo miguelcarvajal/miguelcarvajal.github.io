@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Investigar
+permalink: "/investigar.html"
+layout: page
 subtitle: Artículos, libros, informes y otras publicaciones
-permalink: /investigar.html
 color: bg-dark
 ---
+
 {:.no_toc}
 ### Índice
 

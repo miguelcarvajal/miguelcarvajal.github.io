@@ -1,15 +1,23 @@
 ---
+title: Cómo innovan los medios para ser mejores soportes publicitarios frente al oligopolio
+  de Facebook y Google
+date: 2016-11-22 00:00:00 Z
 layout: post
-title: Cómo innovan los medios para ser mejores soportes publicitarios frente al oligopolio de Facebook y Google
-excerpt: "La inversión publicitaria digital se destina de manera mayoritaria a otros canales que son más efectivos en la segmentación y tienen la escala que demandan los anunciantes. Para resolver este problema, los medios introducen estrategias 'novedosas', crean equipos especializados y desarrollan formatos como el branded content que dan indicios de resultar eficaces. Aquí presentamos una galería de las soluciones más innovadoras en la comercialización publicitaria."
+excerpt: La inversión publicitaria digital se destina de manera mayoritaria a otros
+  canales que son más efectivos en la segmentación y tienen la escala que demandan
+  los anunciantes. Para resolver este problema, los medios introducen estrategias
+  'novedosas', crean equipos especializados y desarrollan formatos como el branded
+  content que dan indicios de resultar eficaces. Aquí presentamos una galería de las
+  soluciones más innovadoras en la comercialización publicitaria.
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
-  gplus: 105651624538664882557 
+  gplus: '105651624538664882557'
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
+
 La inversión publicitaria digital se destina de manera mayoritaria a otros canales que son más efectivos en la segmentación y tienen la escala que demandan los anunciantes. Para resolver este problema, los medios introducen estrategias "novedosas", crean equipos especializados y desarrollan formatos como el _branded content_ que dan indicios de resultar eficaces. 
 
 Otros renuncian a la publicidad, como el holandés [De Correspondent](https://decorrespondent.nl/home) o el francés [Mediapart](https://www.mediapart.fr/es/espanol), y apuestan por un modelo de ingresos centrado en los lectores. En la mayoría de los casos, se adopta una [estrategia de múltiples fuentes de monetización](http://mip.umh.es/blog/2016/01/31/vias-ingresos-periodismo-monetizacion/), porque resulta más difícil solo con el público generar suficientes recursos para sostener la actividad. 

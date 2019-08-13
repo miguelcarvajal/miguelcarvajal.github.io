@@ -1,8 +1,12 @@
 ---
-layout: post
 title: Hechos, ficción y juicios
+date: 2011-03-23 00:00:00 Z
+tags:
+- reportajes
+- escritura
+- textos
+layout: post
 type: text
-tags: [reportajes, escritura, textos]
 ---
 
 ![Un posado ficticio](http://www.elpais.com/recorte/20110118elpcat_1/XXLCO/Ies/Jovenes_embozados_ayer_calles_Salt.jpg)

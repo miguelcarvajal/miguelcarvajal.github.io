@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Transformar
+permalink: "/transformar.html"
+layout: page
 subtitle: Proyectos, recursos y aplicaciones
-permalink: /transformar.html
 color: bg-dark
 ---
+
 {:.no_toc}
 
 - The generated Toc will be an ordered list
