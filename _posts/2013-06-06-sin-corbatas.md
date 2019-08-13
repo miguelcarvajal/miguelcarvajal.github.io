@@ -1,12 +1,13 @@
 ---
-layout: post
 title: Periodismo sin corbatas
-tags: 
-  - la marea
-  - infolibre
-  - eldiario.es
-  - cooperativa
-  - Escolar
+date: 2013-06-06 00:00:00 Z
+tags:
+- la marea
+- infolibre
+- eldiario.es
+- cooperativa
+- Escolar
+layout: post
 ---
 
 Una de las pocas cosas buenas que la profesión periodística está recogiendo de la crisis económica es la **depuración del sector**. Ante la ausencia de beneficios, algunos editores, _antes comprometidos_, se muestran ahora implacables ejecutores de despidos o recortes en áreas clave del diario. Se han quitado la careta preocupados por el beneficio, rendidos ante los _poderes financieros_ que inflan sus sueldos millonarios. 

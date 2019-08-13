@@ -1,15 +1,23 @@
 ---
-layout: post
 title: Diez claves de la industria periodística en Estados Unidos que debes conocer
-excerpt: "Si no anticipamos el futuro, no podremos construir ninguno, dice Jeff Jarvis en la introducción de su último libro Geeks bearing gifts. La anticipación es básica en cualquier estratega: debe reconocer las tendencias, obtener datos sobre lo que ocurre en entornos similares y comprender cómo la tecnología está afectando al producto que desarrolla. En lo que llevamos de 2015 podemos identificar diez datos que afectan a la realidad del periodismo y de la industria que lo financia y que merece la pena conocer antes de lanzar o renovar un proyecto periodístico."
+date: 2015-05-11 00:00:00 Z
+layout: post
+excerpt: 'Si no anticipamos el futuro, no podremos construir ninguno, dice Jeff Jarvis
+  en la introducción de su último libro Geeks bearing gifts. La anticipación es básica
+  en cualquier estratega: debe reconocer las tendencias, obtener datos sobre lo que
+  ocurre en entornos similares y comprender cómo la tecnología está afectando al producto
+  que desarrolla. En lo que llevamos de 2015 podemos identificar diez datos que afectan
+  a la realidad del periodismo y de la industria que lo financia y que merece la pena
+  conocer antes de lanzar o renovar un proyecto periodístico.'
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
-  gplus: 105651624538664882557 
+  gplus: '105651624538664882557'
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
+
 _Si no anticipamos el futuro, no podremos construir ninguno_, dice **Jeff Jarvis** en la introducción de su último libro [Geeks bearing gifts](https://medium.com/geeks-bearing-gifts/new-relationships-forms-and-models-for-news-92ef9fd4758b). La anticipación es básica en cualquier estratega: debe reconocer las tendencias, obtener datos sobre lo que ocurre en entornos similares (como Estados Unidos) y comprender cómo la tecnología está afectando al producto que desarrolla. En lo que llevamos de 2015 podemos identificar **diez claves** que afectan a la industria que financia el periodismo y que merece la pena conocer **antes de lanzar o renovar un proyecto periodístico**.
 
 **1. _Mobile first_.** El **Pew Research Center** desvela que [los usuarios consumen más información mediante el móvil](http://miquelpellicer.com/2015/05/las-tendencias-sobre-medios-en-estados-unidos-segun-el-state-of-the-news-media-2015/) que mediante el ordenador [(informe completo en _pdf_)](http://www.journalism.org/files/2015/04/FINAL-STATE-OF-THE-NEWS-MEDIA1.pdf). En esta línea, [Google ya recibe más peticiones de búsqueda desde el smartphone](http://searchengineland.com/its-official-google-says-more-searches-now-on-mobile-than-on-desktop-220369#.VUkb97isSnk.twitter). Si entran más usuarios a los sitios de los medios desde dispositivos móviles que desde el _desktop_, habrá que acondicionar la usabilidad y la experiencia del móvil: ¿Qué hay de esos _interstitials_? Esto, como dicen los norteamericanos, es un _gamechanger_ para una industria en la ansiedad del cambio desde hacen quince años. ¿La web es el nuevo papel? Esta tendencia explica también [el auge de las _newsletters_](http://www.poynter.org/news/mediawire/332503/inside-the-new-york-times-newsletter-strategy/): una forma de colonizar el buzón de los usuarios; y [la desorientación general](http://techcrunch.com/2015/05/11/news-digest-app-nyt-now-drops-subscription-pricing-offers-brand-sponsorships-instead/) sobre la estrategia a seguir con las aplicaciones móviles.

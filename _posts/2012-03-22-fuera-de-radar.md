@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Fuera de radar
-tags: [universidad, jornadas, reflexiones]
+date: 2012-03-22 00:00:00 Z
+tags:
+- universidad
+- jornadas
+- reflexiones
+layout: post
 status: publish
 type: text
 ---
+
 Reflexiones rápidas tras algunas preguntas/comentarios escuchados en las [#jpumh](https://twitter.com/#!/search/%23jpumh "Jornadas de Periodismo UMH"):
 
 1. La Universidad no es una agencia de trabajo. Y si lo pretende, mal.

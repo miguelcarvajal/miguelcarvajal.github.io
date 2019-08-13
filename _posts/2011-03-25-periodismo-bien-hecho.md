@@ -1,9 +1,18 @@
 ---
-layout: post
 title: Periodismo bien hecho
-tags: [futuro, internet, nuevos medios, periodismo, politifact, Enlace, watchdog]
+date: 2011-03-25 00:00:00 Z
+tags:
+- futuro
+- internet
+- nuevos medios
+- periodismo
+- politifact
+- Enlace
+- watchdog
+layout: post
 type: text
 ---
+
 Imagínate que en una ciudad de Andalucía, Murcia o Valencia un periódico lanza **un soporte para medir la verdad o la falsedad** de las declaraciones **de los políticos** y para testar el grado de cumplimiento de sus promesas electorales.
 
 Imagina que un grupo de periodistas e investigadores **estudian **a diario las declaraciones salidas de parlamentos autonómicos, consejos de gobierno, ministerios, ruedas de prensa, notas de agencia y resto de altavoces del **poder político**.

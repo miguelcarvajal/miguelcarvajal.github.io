@@ -1,10 +1,12 @@
 ---
-layout: post
 title: A la caza de la innovación en periodismo
+date: 2014-09-27 00:00:00 Z
 tags:
-  - periscopio
-  - periodismo
+- periscopio
+- periodismo
+layout: post
 ---
+
 Siempre estoy **tras la pista de alguna iniciativa periodística innovadora**. Como profesor, me interesa saber cómo van a ser las cosas cuando mueran los dinosaurios. Muchas veces encuentro productos o sitios interesantes, los comparto, los conservo en un _favorito_ furtivo o me los envío por correo. 
 
 Me gustaría sistematizar esa búsqueda y optimizar el tiempo de navegación **para que otros conozcan también esas iniciativas** que ilustran las múltiples opciones y alternativas del periodismo en la economía digital. Por eso he creado [periscop.io](http://linkydink.io/groups/periscop-io).

@@ -1,15 +1,25 @@
 ---
+title: La pregunta no es qué hacer para resucitar la prensa, sino cómo hacer periodismo
+  sostenible
+date: 2016-05-29 00:00:00 Z
 layout: post
-title: La pregunta no es qué hacer para resucitar la prensa, sino cómo hacer periodismo sostenible
-excerpt: "Hace un par de semanas presenté un trabajo sobre modelos de negocio en el periodismo en un congreso de empresa informativa celebrado en Nueva York. Allí me entrevisté con colegas, expertos en la materia, visité algunos medios y, sobre todo, escuché y pensé mucho. De aquel viaje traigo unos cuantos souvenirs. El primero: puedes estar a la última en la industria periodística sin necesidad de irte a Nueva York, basta con seguir este boletín. El segundo: en general, seguimos haciendo diagnósticos equivocados sobre los diarios, porque seguimos intentando rescatar un modelo de negocio de una industria ya cadáver."
+excerpt: 'Hace un par de semanas presenté un trabajo sobre modelos de negocio en el
+  periodismo en un congreso de empresa informativa celebrado en Nueva York. Allí me
+  entrevisté con colegas, expertos en la materia, visité algunos medios y, sobre todo,
+  escuché y pensé mucho. De aquel viaje traigo unos cuantos souvenirs. El primero:
+  puedes estar a la última en la industria periodística sin necesidad de irte a Nueva
+  York, basta con seguir este boletín. El segundo: en general, seguimos haciendo diagnósticos
+  equivocados sobre los diarios, porque seguimos intentando rescatar un modelo de
+  negocio de una industria ya cadáver.'
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
-  gplus: 105651624538664882557 
+  gplus: '105651624538664882557'
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
+
 Hace un par de semanas presenté un trabajo sobre modelos de negocio en el periodismo en [un congreso de empresa informativa celebrado en Nueva York](http://www.wmemc.org/). Allí me entrevisté con colegas, expertos en la materia, visité algunos medios y, sobre todo, escuché y pensé mucho. De aquel viaje traigo unos cuantos souvenirs. El primero: puedes estar a la última en la industria periodística sin necesidad de irte a Nueva York, basta con [seguir este boletín](http://mediagazer.com/). El segundo: en general, seguimos haciendo diagnósticos equivocados sobre los diarios, porque seguimos intentando rescatar un modelo de negocio de una industria ya cadáver.
 
 Durante el viaje celebré el décimo aniversario de mi tesis doctoral sobre un grupo de prensa español. Y tan solo diez años después, cualquiera podría refutar bastantes de mis conclusiones. Pero no por falta de argumentos, escasez de datos o defecto en la metodología, simplemente porque la industria a la que se refería aquel trabajo ya casi no existe. Ahora es más un documento de historia que de economía del periodismo. En aquel entonces (2006) en [El Mundo iban con esto](http://www.elmundo.es/elmundo/2007/01/25/comunicacion/1169683033.html):

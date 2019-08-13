@@ -1,13 +1,15 @@
 ---
-layout: post
 title: Meneses y la capacidad de asombro
+date: 2013-01-14 00:00:00 Z
 tags:
 - meneses
 - periodismo
 - profesión
 - reporteros
+layout: post
 type: text
 ---
+
 Ir, ver y contarlo. Compartir hechos, sucesos e historias. Levantarse de la silla, coger el tren y adentrarse en mundos ajenos. Gastar suela de zapato. Viajar y descubrir los relatos escondidos. Un estudiante de Periodismo escucha estos consejos casi a diario, son enseñanzas que proceden de la experiencia de los grandes de este oficio. **Anton Chejov**, **Mark Twain**,** Hemingway**, **Orwell**, **Kapuscinski**, **Truman Capote**, **Gay Talese**, **Marie Colvin**… Hay algo común en la vida de estos geniales reporteros y maestros del periodismo, algo que sobrevuela sus anécdotas y sus crónicas o se percibe en sus memorias. Sabían mirar, prestaban atención a los detalles, tenían paciencia y contaban las cosas sin moverlas de su sitio, con un respeto sagrado.
 
 Ya fuera de paseo por la gran manzana, escuchando a los niños de una cárcel en la Isla de Sajalin, con el traqueteo de un tren por los pueblos de Castilla, compartiendo un vino en una taberna parisina, en una trinchera de la guerra civil española, de camino en lo más profundo de Kansas, al abrigo de una cabaña perdida de la estepa rusa o buscando refugio en Alepo. En cualquiera de esas situaciones, por épicas, insulsas o extravagantes que fueran, sabían fijarse en lo pequeño. </span>**Tenían una capacidad de asombro infinita**. Miraban las cosas como si fuera la primera vez, como lo haría un extraterrestre, escribió **Manuel Rivas** en El periodismo es un cuento.

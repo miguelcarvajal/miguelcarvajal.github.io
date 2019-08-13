@@ -1,10 +1,11 @@
 ---
-layout: page
 title: Curriculum
-subtitle: Resumen del CV normalizado
 permalink: curriculum.html
+layout: page
+subtitle: Resumen del CV normalizado
 color: bg-dark
 ---
+
 {:.no_toc}
 ### Índice
 

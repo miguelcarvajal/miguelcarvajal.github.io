@@ -1,14 +1,16 @@
 ---
-layout: post
 title: Apología del periodismo
+date: 2012-10-24 00:00:00 Z
 tags:
 - colegios
 - innovación
 - periodismo
 - profesionalización
 - universidad
+layout: post
 type: text
 ---
+
 ¿Por qué la prensa está perdiendo la batalla contra otros soportes más jóvenes, gratuitos y con menos marca? ¿Por qué _El País_ despide a más de un centenar de trabajadores o Newsweek cierra su edición impresa en diciembre? Son [muchas](http://inspirinas.com/el-futuro-del-periodismo-y-el-periodismo-del "El futuro de los periódicos") las razones, claro, y distintas para cada caso. Pero hay un factor que destaca en esa [crónica negra](http://www.fronterad.com/?q=node/4363 "Análisis del pesimismo"), ya casi cotidiana, sobre la muerte de la prensa: la innovación destructiva. **Los grandes éxitos** tecnológicos de la última década (Apple, Google, Facebook, Twitter) y también los periodísticos (The Daily Beast, el Hufftington Post americano, Político) tienen algo en común: **han resuelto una necesidad de la gente que otros no sabían o no querían resolver**. 
 
 Además fomentan **una cultura abierta, joven, flexible, despierta a la innovación**, todo lo contrario de las estructuras hiperjerarquizadas de la prensa. Los magnates se durmieron en los laureles pensando que las marcas de sus cabeceras les darían de comer eternamente. Como [señala](http://www.niemanlab.org/2012/10/clay-christensen-on-the-news-industry-we-didnt-quite-understand-how-quickly-things-fall-off-the-cliff/ "Be a disruptor") **Clayton Christensen**, profesor de la Escuela de Negocios de Harvard, la innovación destructiva permite introducirse en el mercado a un competidor más pequeño. Un emprendedor ágil que se adelanta a la gran empresa para satisfacer unas necesidades latentes o mal satisfechas. Poco a poco desplaza al líder establecido porque, lento y entumecido, no reacciona o **lo hace tarde y mal: precariedad, recortes, imitación barata **(medios zombies, como [dice](http://inspirinas.com/el-futuro-del-periodismo-y-el-periodismo-del "El futuro del periodismo"), Gustavo Entrala: publico.es, que.es, adn.es). Durante los noventa, los editores se despreocuparon de su tarea clave y se embarcaron en **aventuras empresariales, televisivas y políticas** (Digital +, Admira Media, Mediapro) que les han hipotecado. 

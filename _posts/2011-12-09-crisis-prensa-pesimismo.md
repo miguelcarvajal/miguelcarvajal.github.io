@@ -1,8 +1,12 @@
 ---
+title: La crisis de la prensa
+date: 2011-12-09 00:00:00 Z
+tags:
+- periodismo
+- ensayo
+- crisi
 layout: post
 type: text
-title: La crisis de la prensa
-tags: [periodismo, ensayo, crisi]
 ---
 
 [Publico](http://www.fronterad.com/?q=crisis-prensa-analisis-pesimismo) un ensayo en fronteraD sobre el excesivo pesimismo entorno al futuro de la profesión periodística:

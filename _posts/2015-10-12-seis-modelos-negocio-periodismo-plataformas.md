@@ -1,15 +1,24 @@
 ---
-layout: post
 title: Seis modelos de negocio para el periodismo en la era de las plataformas
-excerpt: "La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio de paradigma experimentado durante la última década, como señalan los informes, terminará con lo que queda del viejo modelo industrial (publicidad y atención). Por eso urge buscar nuevos modelos o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo seis modelos de negocio para el periodismo en la era de las plataformas."
+date: 2015-10-12 00:00:00 Z
+layout: post
+excerpt: La economía del periodismo es un tema de conversación recurrente en los foros
+  profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio
+  de paradigma experimentado durante la última década, como señalan los informes,
+  terminará con lo que queda del viejo modelo industrial (publicidad y atención).
+  Por eso urge buscar nuevos modelos o integrarse en las industrias más fuertes, con
+  sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que
+  pronto publicaré en un libro para nuestro Máster planteo seis modelos de negocio
+  para el periodismo en la era de las plataformas.
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
-  gplus: 105651624538664882557 
+  gplus: '105651624538664882557'
   bio: Director del Máster
   image: yo.png
   link: https://twitter.com/mcarvajal_
 ---
+
 La economía del periodismo es un tema de conversación recurrente en los foros profesionales. Hace veinte años preocupaban más otras cuestiones, pero **el cambio de paradigma** experimentado durante la última década, como señalan los informes, **terminará con lo que queda del viejo modelo industrial (publicidad y atención)**. Por eso **urge buscar nuevos modelos** o integrarse en las industrias más fuertes, con sus propias condiciones e hipotecas. En este pequeño adelanto de un capítulo que pronto publicaré en un libro para nuestro Máster planteo **seis modelos de negocio para el periodismo** en la era de las plataformas. 
 
 Como consecuencia de la convergencia tecnológica e industrial, el terreno de juego donde se desarrolla la actividad mediática y periodística lo controlan ahora grandes plataformas que compiten entre sí por una posición dominante (**Google, Facebook, Apple, Amazon, Twitter**). Los proveedores de tecnología antes estaban en el origen o en fases intermedias de la cadena de valor, ahora ellos **son la cadena de valor**. La tecnología ha dejado de ser una mera herramienta de producción o distribución para convertirse en _la plataforma donde ocurre la fiesta_: facilita la prestación de servicio, la creación del producto y, sobre todo, **el descubrimiento del contenido**. 

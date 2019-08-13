@@ -1,10 +1,12 @@
 ---
-layout: post
 title: La guerra de los diarios, no la del periodismo
+date: 2012-03-27 00:00:00 Z
 tags:
 - Enlace
+layout: post
 type: text
 ---
+
 "Los diarios online buscan audiencias globales". [Eso](http://www.economist.com/node/21550262) que dice _The Economist_ vale para unos cuantos diarios, no para todos, por supuesto, y menos para el periodismo. Como se explicó en este [ensayo](http://bit.ly/sJmzlY "La crisis de la prensa"), algunos editores están apostando por el modelo HuffPo (prensa opinativa de bajo coste), como [Prisa](http://sociedad.elpais.com/sociedad/2011/12/12/actualidad/1323644401_850215.html "La versión en castellano de la popular web estadounidense"), en España. No es de extrañar. Una de sus sacerdotisas [predica](http://www.jotdown.es/2012/03/soledad-gallego-diaz-el-pais-no-es-un-periodico-de-izquierdas-nunca-lo-ha-sido-y-nunca-ha-pretendido-serlo/ "Soledad Gallego-Díaz") por un lado que no es necesaria la carrera universitaria para ejercer el Periodismo:
 
 > El periodismo, sinceramente, no es una carrera universitaria. No contiene conocimientos teóricos suficientes para justificar cinco años de estudios.

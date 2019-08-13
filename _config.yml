@@ -1,36 +1,37 @@
-# Setup
+---
 title: Miguel Carvajal
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: mcarvajal@umh.es
-tagline: 'Profesor de Periodismo'
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://miguelcarvajal.es" # the base hostname & protocol for your site, e.g. http://example.com
-future:         true
+tagline: Profesor de Periodismo
+baseurl: ''
+url: http://miguelcarvajal.es
+future: true
 authors: Miguel Carvajal
-# Build settings
 markdown: kramdown
-include: ["_pages"]
-permalink: /:title/
-
-# Sass converter configuration
+include:
+- _pages
+permalink: "/:title/"
 sass:
-    sass_dir: _sass
-    style: compressed
-
-# Local Server
-host:           localhost # same as default value '127.0.0.1' but reads better
-
-# Gems
+  sass_dir: _sass
+  style: compressed
+host: localhost
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
+- jekyll-feed
+- jekyll-paginate
+- jekyll-redirect-from
+- jekyll-seo-tag
+- jekyll-sitemap
 exclude:
-  - .sass-cache
-  - .netlify
-  - vendor/
-  - Gemfile
-  - Gemfile.lock
-  - README.md
+- ".sass-cache"
+- ".netlify"
+- vendor/
+- Gemfile
+- Gemfile.lock
+- README.md
