@@ -2,7 +2,6 @@
 title: English Bio
 permalink: english-bio.html
 layout: page
-subtitle: English Bio Blurb
 color: bg-dark
 ---
 Miguel Carvajal, PhD, is Associate Professor at Social Sciences Department at the Miguel Hernández University (UMH), where he also is the head director of the Master Program in Journalism Innovation. Prof. Carvajal has carried out relevant research on the organizational transformation and the process of integration of news organizations since 2006. His current research focuses on journalism innovation and bussiness models. He is a member of the Network of Excellence in Digital Journalism (Spain).

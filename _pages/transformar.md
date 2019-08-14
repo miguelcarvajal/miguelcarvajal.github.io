@@ -48,7 +48,7 @@ color: bg-dark
   </div>
 </section>
 
-El **Diccionario del Cliché** es un proyecto de innovación docente coordinado por el profesor José Alberto García Avilés que recopila más 3.500 expresiones que, debido a un uso reiterado, se han convertido en clichés. Con la ayuda de un grupo de alumnos de Periodismo UMH, recogemos todas estas expresiones para detectarlas y a la vez aprender su uso adecuado. 
+El **Diccionario del Cliché** es un proyecto de innovación docente coordinado por el profesor José Alberto García Avilés que recopila más 3.500 clichés. Con la ayuda de un grupo de alumnos de Periodismo UMH, recogemos todas estas expresiones que se usan de forma reiterada en el periodismo para detectarlas, comprenderlas y evitar también su uso excesivo. 
 
 ### Periodistas de datos
 
@@ -66,7 +66,7 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
   </div>
 </section>
 
-**Periodistas de datos** reune la primera gran lista de profesionales que que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
+**Periodistas de datos** reune la primera gran lista de profesionales que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
 
 ### Local Data Lab
 
@@ -102,7 +102,7 @@ El **Local Data Lab** es un grupo de trabajo compuesto por profesionales, profes
   </div>
 </section>
 
-El bot **elpaisdiff** es un programa desarrollado en Python ([código](https://github.com/DocNow/diffengine)) que analiza el trabajo de edición en la portada de El País. La herramienta compara versiones de los artículos principales del diario madrileño, captura las diferencias y las comparte en una imagen en Twitter de forma automática. También he instalado un [bot para el diario El Mundo](https://twitter.com/elmundodiff).
+El bot **elpaisdiff** es un programa desarrollado en Python ([código](https://github.com/DocNow/diffengine)) que analiza el trabajo de edición en la portada de El País. La herramienta compara versiones de los artículos del diario madrileño, captura las diferencias y las comparte en una imagen en Twitter de forma automática. También he instalado un [bot para el diario El Mundo](https://twitter.com/elmundodiff) que realiza el mismo seguimiento.
 
 ### Ministeditor
 
@@ -120,4 +120,4 @@ El bot **elpaisdiff** es un programa desarrollado en Python ([código](https://g
   </div>
 </section>
 
-El bot **Ministeditor** es un programa ([código](https://github.com/edsu/anon)) que analiza tuitea cualquier edición anónimas de la Wikipedia realizada desde direcciones IP gubernamentales. El proyecto forma parte de una iniciativa global por el fomento de la transparencia en la actividad política y gubernamental.
+El bot **Ministeditor** es un programa ([código](https://github.com/edsu/anon)) que tuitea cualquier edición anónima de la Wikipedia realizada desde direcciones IP gubernamentales. El proyecto forma parte de una iniciativa global por el fomento de la transparencia en la actividad política y gubernamental.
