@@ -1,9 +1,31 @@
----
-layout: default
----
+{% include header.html %}
 
-<div class="post">
-  <h2 class="post-title">{{ page.title }}</h2>
-  <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+<body cz-shortcut-listen="true">
+
+{% include nav.html %}
+
+
+<div class="container-fluid pt-3">
+
+<main class="col-12 col-md-12 col-xl-12 bd-content px-1" role="main">
+
+  <h1 class="text-dark display-3 text-center pt-3">{{ page.title }}</h1>
+  <p class="small text-center">{{ page.date | date_to_string }}</p>
+
+	<div class="article-post py-5">
+
+{{ content }}
+
+	</div>
+	
+</main>
+
 </div>
+
+{% include pie.html %}
+
+</body>
+
+{% include footer.html %}
+
+</html>
