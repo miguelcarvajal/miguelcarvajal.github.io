@@ -17,7 +17,7 @@ authors: Miguel Carvajal
 markdown: kramdown
 include:
 - _pages
-permalink: "/:title/"
+permalink: pretty
 sass:
   sass_dir: _sass
   style: compressed
