@@ -1,6 +1,19 @@
 ---
 title: Miguel Carvajal
-timezone: UTC
+description: Página web de Miguel Carvajal, profesor de Periodismo y director del Máster en Innovación en Periodismo de la Universidad Miguel Hernández
+url: http://miguelcarvajal.es
+author: Miguel Carvajal
+twitter: 
+  username: mcarvajal_
+  card: summary
+social:
+  name: Miguel Carvajal
+  links:
+    - https://twitter.com/mcarvajal_
+    - https://www.facebook.com/miguelcarvajal
+    - https://github.com/miguelcarvajal
+
+timezone: ES
 collections:
   posts:
     title: Posts
@@ -11,9 +24,7 @@ collections:
 email: mcarvajal@umh.es
 tagline: Profesor de Periodismo
 baseurl: ''
-url: http://miguelcarvajal.es
 future: true
-authors: Miguel Carvajal
 markdown: kramdown
 include:
 - _pages
