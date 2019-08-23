@@ -1,6 +1,6 @@
 ---
 title: blog
-permalink: "/blog/"
+permalink: /blog/
 layout: blog
 subtitle: Proyectos, recursos y aplicaciones
 color: bg-dark
