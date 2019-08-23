@@ -1,8 +1,8 @@
 ---
-title: blog
+title: Apuntes
 permalink: /blog/
 layout: blog
-subtitle: Proyectos, recursos y aplicaciones
+subtitle: Periodismo, medios y economía de la atención
 color: bg-dark
 ---
 #### Miguel Carvajal

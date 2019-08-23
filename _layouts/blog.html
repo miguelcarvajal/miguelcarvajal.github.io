@@ -1,117 +1,121 @@
 {% include header.html %}
 
-<body cz-shortcut-listen="true">
+<body class="bg-light" cz-shortcut-listen="true">
 
 {% include nav.html %}
 
 <div class="jumbotron jumbotron-fluid mb-0 bg-dark pt-2 pb-2">
     <div class="container">
-      <h2 class="text-white display-3">{{ page.title }}</h2>
+      <h2 class="text-white display-3">{{ page.title }}</h2> 
+      <p class="lead text-white-50">{{ page.subtitle }}</p>
     </div>
+</div>
+
+<div class="nav-scroller bg-white shadow-sm">
+  <nav class="nav nav-underline justify-content-center">
+    <a class="nav-link active" href="#">Dashboard</a>
+    <a class="nav-link" href="#">
+      Friends
+      <span class="badge badge-pill bg-light align-text-bottom">27</span>
+    </a>
+    <a class="nav-link" href="#">Explore</a>
+    <a class="nav-link" href="#">Suggestions</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+    <a class="nav-link" href="#">Link</a>
+  </nav>
 </div>
 
 <div class="container-fluid">
 
-  <div class="nav-scroller py-1 mb-2">
-    <nav class="nav d-flex justify-content-between">
-      <a class="p-2 text-muted" href="#">World</a>
-      <a class="p-2 text-muted" href="#">U.S.</a>
-      <a class="p-2 text-muted" href="#">Technology</a>
-      <a class="p-2 text-muted" href="#">Design</a>
-      <a class="p-2 text-muted" href="#">Culture</a>
-      <a class="p-2 text-muted" href="#">Business</a>
-      <a class="p-2 text-muted" href="#">Politics</a>
-      <a class="p-2 text-muted" href="#">Opinion</a>
-      <a class="p-2 text-muted" href="#">Science</a>
-      <a class="p-2 text-muted" href="#">Health</a>
-      <a class="p-2 text-muted" href="#">Style</a>
-      <a class="p-2 text-muted" href="#">Travel</a>
-    </nav>
-  </div>
+	<main class="magazine pt-3" role="main">
+		<div class="row">
+			<div class="col-md-3 d-sm-none d-md-block">
+				<strong class="d-inline-block mb-2 text-black-50">World</strong>
+				<a href="#"><h5>
+					El País lanza su muro de pago en enero de 2020
+				</h5></a>
+				      <p class="text-muted">{{ page.subtitle }}</p>
 
-<main class="main pt-3" role="main">
+				<h5>
+					El País lanza su muro de pago en enero de 2020
+				</h5>
+				<strong class="d-inline-block mt-2 mb-2 text-black-50">Modelos de negocio</strong>
+				<h5>
+					El País lanza su muro de pago en enero de 2020
+				</h5>
+      <p class="text-muted">{{ page.subtitle }}</p>
 
-      <div class="row">
-        <div class="col-md-9">
-          <div class="row">
-            <div class="col-md-3 d-sm-none d-md-block">
-			<strong class="d-inline-block mb-2 text-primary">World</strong>
-                <h5>
-                        El País lanza su muro de pago en enero de 2020
-			      </h5>
-                <h5>
-                        El País lanza su muro de pago en enero de 2020
-			      </h5>
-			<strong class="d-inline-block mb-2 text-primary">World</strong>
-                <h5>
-                        El País lanza su muro de pago en enero de 2020
-			      </h5>
-                <h5>
-                        El País lanza su muro de pago en enero de 2020
-			      </h5>
-            </div>
-            <div class="col-md-9">
-                <h2 class="font-italic">
-                        El País lanza su muro de pago en enero de 2020
-			      </h2>
-					<div class="mb-1 text-muted">Nov 12</div>
-			        <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-                <h2 class="font-italic">
-                        El País lanza su muro de pago en enero de 2020
-			      </h2>
-			        <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-			        <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-                <h2 class="font-italic">
-                        El País lanza su muro de pago en enero de 2020
-			      </h2>
-			        <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-			        <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-                <h2 class="font-italic">
-                        El País lanza su muro de pago en enero de 2020
-			      </h2>
-			        <p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-			        <p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+				<h5>
+					El País lanza su muro de pago en enero de 2020
+				</h5>
+			</div>
 
-            </div>
-          </div>
-        </div>
+			<div class="col-md-6 my-3 p-3 bg-white rounded shadow-sm">
 
-        <div class="col-md-3 ml-auto">
-          <aside class="sidebar">
-			<strong class="d-inline-block mb-2 text-primary">World</strong>
-                <h4>
-                        El País lanza su muro de pago en enero de 2020
-			      </h4>
-<strong class="d-inline-block mb-2 text-primary">World</strong>			      
-                <h4>
-                        El País lanza su muro de pago en enero de 2020
-			      </h4>
-<strong class="d-inline-block mb-2 text-primary">World</strong>			      
-                <h4>
-                        El País lanza su muro de pago en enero de 2020
-			      </h4>
-<strong class="d-inline-block mb-2 text-primary">World</strong>			      
-                <h4>
-                        El País lanza su muro de pago en enero de 2020
-			      </h4>
-          </aside>
+<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
 
-          <aside class="sidebar sidebar-sticky">
-            <div class="card mb-4">
-              <div class="card-body">
-                <h4 class="card-title">Tags</h4>
-                <a class="btn btn-light btn-sm mb-1" href="page-category.html">Journey</a>
-                <a class="btn btn-light btn-sm mb-1" href="page-category.html">Work</a>
-                <a class="btn btn-light btn-sm mb-1" href="page-category.html">Lifestype</a>
-                <a class="btn btn-light btn-sm mb-1" href="page-category.html">Photography</a>
-                <a class="btn btn-light btn-sm mb-1" href="page-category.html">Food & Drinks</a>
-              </div>
-            </div><!-- /.card -->
-          </aside>
-        </div>
-      </div>
+				<strong class="d-inline-block mt-1 mb-2 text-black-50">World</strong>            	
+				<h2>
+					El País lanza su muro de pago en enero de 2020
+				</h2>
+				<div class="mb-1 text-muted">Nov 12</div>
+				<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+				<h2 class="font-italic">
+					El País lanza su muro de pago en enero de 2020
+				</h2>
+				<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+				<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+				<h2 class="font-italic">
+					El País lanza su muro de pago en enero de 2020
+				</h2>
+				<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+				<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+				<h2 class="font-italic">
+					El País lanza su muro de pago en enero de 2020
+				</h2>
+				<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
+				<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+			</div>
 
-  </main>
+			<div class="col-md-3 ml-auto">
+				<aside class="sidebar">
+					<strong class="d-inline-block mb-2 text-primary">World</strong>
+					<h4>
+						El País lanza su muro de pago en enero de 2020
+					</h4>
+					<strong class="d-inline-block mb-2 text-primary">World</strong>			      
+					<h4>
+						El País lanza su muro de pago en enero de 2020
+					</h4>
+					<strong class="d-inline-block mb-2 text-primary">World</strong>			      
+					<h4>
+						El País lanza su muro de pago en enero de 2020
+					</h4>
+					<strong class="d-inline-block mb-2 text-primary">World</strong>			      
+					<h4>
+						El País lanza su muro de pago en enero de 2020
+					</h4>
+				</aside>
+
+				<aside class="sidebar sidebar-sticky">
+					<div class="card mb-4">
+						<div class="card-body">
+							<h4 class="card-title">Tags</h4>
+							<a class="btn btn-light btn-sm mb-1" href="page-category.html">Journey</a>
+							<a class="btn btn-light btn-sm mb-1" href="page-category.html">Work</a>
+							<a class="btn btn-light btn-sm mb-1" href="page-category.html">Lifestype</a>
+							<a class="btn btn-light btn-sm mb-1" href="page-category.html">Photography</a>
+							<a class="btn btn-light btn-sm mb-1" href="page-category.html">Food & Drinks</a>
+						</div>
+					</div><!-- /.card -->
+				</aside>
+			</div>
+		</div>
+
+	</main>
 
 </div>
 
