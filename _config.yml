@@ -38,9 +38,11 @@ permalink: /:categories/:year/:month/:day/:title:output_ext
 jekyll-archives:
   enabled:
     - categories
+    - tags
   layout: archive
   permalinks:
     category: '/category/:name/'
+    tag: '/tag/:name/'
 
 # Compression
 sass:

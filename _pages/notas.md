@@ -4,7 +4,7 @@ permalink: /notas/
 layout: notas
 color: bg-dark
 ---
-
+<div class="row">
 <div class="col-sm-4 col-lg-3 my-3">
 			<strong class="d-inline-block mb-1 text-black-50">Modelo de negocio</strong>	
 			<h5>El País lanza su muro de pago en enero de 2020</h5>
@@ -63,23 +63,24 @@ color: bg-dark
 	<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
 </div>
 
-<div class="col-lg-3 ml-auto">
+<div class="col-sm-6 col-md-6 col-lg-3 ml-auto">
 	<aside class="sidebar">
 		<div class="p-3 mt-3 mb-3 bg-warning rounded">
 			<h4 class="font-italic">¿Qué es esto?</h4>
 			<p class="mb-0">Mi libreta de apuntes sobre periodismo, medios y economía de la atención. Un método para guardar enlaces, pistas y herramientas útiles para mi trabajo.</p>
 		</div>	
 		
-		<strong class="d-inline-block mt-2 mb-1 text-primary">Reporter · hacks</strong>	
+<strong class="d-inline-block mt-2 mb-1 text-primary">ReporterHacks</strong>	
 
-		<div class="card mb-4 shadow-sm small">
-			<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
-			<div class="card-body">
-				<p class="card-text"><strong>This is a wider card</strong>. With supporting text below as a natural lead-in to additional content. This content is a little bit longer longer longer. <a class="text-decoration-none" href="#"> Consultar herramienta</a>.</p>
-				<div class="d-flex justify-content-between align-items-center">
-				<a class="btn btn-light btn-sm mb-1" href="page-category.html">Work</a>
-				</div>
-			</div>
+<div class="card mb-4 shadow-sm small">
+	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
+	<div class="card-body">
+		<p class="card-text"><strong>This is a wider card</strong>. With supporting text below as a natural lead-in to additional content. This content is a little bit longer longer longer. <a class="text-decoration-none" href="#"> Consultar herramienta</a>.</p>
+		<div class="d-flex justify-content-between align-items-center">
+		<a class="btn btn-light btn-sm mb-1" href="page-category.html">Work</a>
 		</div>
-	</aside>
+	</div>
+</div>
+</aside>
+</div>
 </div>

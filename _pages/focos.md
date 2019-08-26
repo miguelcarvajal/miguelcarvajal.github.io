@@ -2,10 +2,10 @@
 layout: notas
 title: Notas
 subtitle: · focos
-permalink: /foco
+permalink: /notas/foco
 ---
 
-<div class="article-post mt-4">
+<div class="article-post my-3">
 {% for category in site.categories %}
 <h3 id="{{ category[0] | replace: " ","-" }}" class="font-weight-light">{{ category[0] }}</h3>
 {% assign pages_list = category[1] %}

@@ -1,11 +1,6 @@
 ---
 title: Radiaciones de alarmismo en la prensa
-date: 2011-03-24 00:00:00 Z
-tags:
-- fotos
-- laverdad
-- malaprensa
-- retórica
+tags: [ Fotos, malaprensa]
 layout: post
 type: text
 ---
