@@ -1,6 +1,6 @@
 ---
 title: Seis modelos de negocio para el periodismo en la era de las plataformas
-date: 2015-10-12 00:00:00 Z
+categories: [ Modelos de negocio ]
 layout: post
 excerpt: La economía del periodismo es un tema de conversación recurrente en los foros
   profesionales. Hace veinte años preocupaban más otras cuestiones, pero el cambio

@@ -1,6 +1,7 @@
 ---
 title: Diez claves de la industria periodística en Estados Unidos que debes conocer
-date: 2015-05-11 00:00:00 Z
+categories: [ Tendencias ]
+tags: [ Mobile ]
 layout: post
 excerpt: 'Si no anticipamos el futuro, no podremos construir ninguno, dice Jeff Jarvis
   en la introducción de su último libro Geeks bearing gifts. La anticipación es básica

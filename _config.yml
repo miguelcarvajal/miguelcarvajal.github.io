@@ -2,6 +2,12 @@
 title: Miguel Carvajal
 description: Profesor de Periodismo y director del Máster en Innovación en Periodismo de la Universidad Miguel Hernández
 url: http://miguelcarvajal.es
+email: mcarvajal@umh.es
+tagline: Profesor de Periodismo
+
+baseurl: ''
+future: true
+
 author: Miguel Carvajal
 twitter: 
   username: mcarvajal_
@@ -21,24 +27,37 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: mcarvajal@umh.es
-tagline: Profesor de Periodismo
-baseurl: ''
-future: true
+
 markdown: kramdown
+
 include:
 - _pages
 permalink: /:categories/:year/:month/:day/:title:output_ext
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Compression
 sass:
   sass_dir: _sass
   style: compressed
+
+# Host
 host: localhost
+
+# Plugins 
 plugins:
 - jekyll-feed
 - jekyll-paginate
 - jekyll-redirect-from
 - jekyll-seo-tag
 - jekyll-sitemap
+
 exclude:
 - ".sass-cache"
 - ".netlify"
@@ -46,3 +65,6 @@ exclude:
 - Gemfile
 - Gemfile.lock
 - README.md
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "enabled"

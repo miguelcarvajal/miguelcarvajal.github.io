@@ -1,7 +1,7 @@
 ---
 title: Rumores, bulos, contenido viral y otras formas de cargarse la credibilidad
   del periodismo
-date: 2015-02-11 00:00:00 Z
+categories: [ Verificación ]
 layout: post
 cover_image: silverman.jpeg
 excerpt: 'Una usuaria tuitea una noticia falsa de El Confidencial. En esta ocasión

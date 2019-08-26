@@ -1,6 +1,6 @@
 ---
 title: Open source + periodismo&#58 vía rápida a la innovación (1)
-date: 2015-06-24 00:00:00 Z
+categories: [ Open Source ]
 layout: post
 cover_image: srcc.png
 excerpt: Asistimos a una eclosión de proyectos periodísticos que se han beneficiado
