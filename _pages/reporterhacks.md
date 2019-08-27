@@ -9,13 +9,13 @@ subtitle: · ReporterHacks
 
 <div class="col-sm-6 col-md-6 col-lg-4">
 	<div class="card mb-4 shadow-sm">
-     {% if post.image %} 
+   {% if post.image %} 
      {% if site.lazyimages == "enabled" %}
-	<img class="img-fluid lazyimg" src="{{ post.image }}" alt="{{ post.title }}">
+	<img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
 	  {% else %}
+	<img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
       {% endif %}
-	<img class="img-fluid" src="{{ post.image }}" alt="{{ post.title }}">
-      {% endif %}
+   {% endif %}
     <div class="card-body">
 		<p class="card-text"><strong>{{ post.title }}</strong>. {{ post.excerpt | strip_html | truncatewords:30 }}. <a class="text-decoration-none" href="{{ post.enlace }}"> Consultar herramienta</a>.</p>
               <div class="d-flex justify-content-start align-items-center">

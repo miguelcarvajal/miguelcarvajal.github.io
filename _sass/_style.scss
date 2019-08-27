@@ -209,3 +209,18 @@ code {
 }
 
 .text-black-50 { color: rgba(0,0,0,0.3) !important; }
+
+/** Lazy img **/
+.lazyimg {
+    display: block;
+    border: 0 none;
+    opacity: 1;
+    transition: opacity .25s;
+    background: #f2f2f2;
+    outline: 0 none;
+}
+.lazyimg[data-src],
+.lazyimg[data-srcset] {
+  opacity: 0;
+  transition: opacity .25s;
+}
