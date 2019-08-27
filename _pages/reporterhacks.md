@@ -9,7 +9,13 @@ subtitle: · ReporterHacks
 
 <div class="col-sm-6 col-md-6 col-lg-4">
 	<div class="card mb-4 shadow-sm">
-	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
+     {% if post.image %} 
+     {% if site.lazyimages == "enabled" %}
+	<img class="img-fluid lazyimg" src="{{ post.image }}" alt="{{ post.title }}">
+	  {% else %}
+      {% endif %}
+	<img class="img-fluid" src="{{ post.image }}" alt="{{ post.title }}">
+      {% endif %}
     <div class="card-body">
 		<p class="card-text"><strong>{{ post.title }}</strong>. {{ post.excerpt | strip_html | truncatewords:30 }}. <a class="text-decoration-none" href="{{ post.enlace }}"> Consultar herramienta</a>.</p>
               <div class="d-flex justify-content-start align-items-center">
