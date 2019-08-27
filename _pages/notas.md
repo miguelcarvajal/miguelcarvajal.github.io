@@ -72,15 +72,24 @@ color: bg-dark
 		
 <strong class="d-inline-block mt-2 mb-1 text-primary">ReporterHacks</strong>	
 
+{% for post in site.categories.Reporterhacks limit: 3 %}
+
 <div class="card mb-4 shadow-sm small">
 	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
-	<div class="card-body">
-		<p class="card-text"><strong>This is a wider card</strong>. With supporting text below as a natural lead-in to additional content. This content is a little bit longer longer longer. <a class="text-decoration-none" href="#"> Consultar herramienta</a>.</p>
-		<div class="d-flex justify-content-between align-items-center">
-		<a class="btn btn-light btn-sm mb-1" href="page-category.html">Work</a>
-		</div>
+    <div class="card-body">
+		<p class="card-text"><strong>{{ post.title }}</strong>. {{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.enlace }}"> Consultar herramienta</a>.</p>
+              <div class="d-flex justify-content-start align-items-center">
+              	{% assign sortedTags = post.tags %}
+                {% for tag in sortedTags limit:2 %}
+				<a class="btn btn-light btn-sm mb-1 mr-1" href="{{site.baseurl}}/notas/reporterhacks#{{ tag | replace: " ","-" }}">{{ tag }}</a>
+                 {% endfor %}
+              </div>
+     </div>
 	</div>
-</div>
+
+{% endfor %}
+
+
 </aside>
 </div>
 </div>

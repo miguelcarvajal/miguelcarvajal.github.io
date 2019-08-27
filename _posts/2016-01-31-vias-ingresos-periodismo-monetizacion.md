@@ -1,7 +1,7 @@
 ---
 title: "¿Quieres hacer el favor de pagarme, por favor? 32 vías de ingresos para el
   periodismo"
-categories: [ Negocio, Ingresos ]
+categories: [ Negocio, Ingresos, Reporterhacks ]
 layout: post
 excerpt: "¿Cómo generar ingresos para sostener la actividad periodística?, la semana
   pasada planteamos esta pregunta como un ejercicio en la asignatura Nuevos Modelos

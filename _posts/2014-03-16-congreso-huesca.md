@@ -1,6 +1,6 @@
 ---
 title: Diez reflexiones tras el Congreso de Periodismo Digital en Huesca
-date: 2014-03-16 00:00:00 Z
+categories: [ Negocio, Reporterhacks ]
 layout: post
 excerpt: El viernes cogí el coche rumbo a Alicante desde Huesca, mientras tarareaba
   la canción Al este del Edén de La Unión y maduraba muchas de las cosas que escuché

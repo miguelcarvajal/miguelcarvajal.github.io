@@ -1,6 +1,6 @@
 ---
 title: Ser transparente es más importante que ser independiente
-date: 2013-09-17 00:00:00 Z
+categories: [ Reporterhacks ]
 tags:
 - periodismo
 - futuro

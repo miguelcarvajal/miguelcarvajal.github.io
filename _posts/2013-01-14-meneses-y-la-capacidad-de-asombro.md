@@ -1,6 +1,6 @@
 ---
 title: Meneses y la capacidad de asombro
-date: 2013-01-14 00:00:00 Z
+categories: [ Reporterhacks ]
 tags:
 - meneses
 - periodismo

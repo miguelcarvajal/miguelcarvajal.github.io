@@ -15,7 +15,7 @@
 		<nav class="nav nav-underline">
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
-                {% for category in categories_list %}
+            {% for category in categories_list %}
                    	<a class="nav-link" href="{{site.baseurl}}/notas/foco#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ site.tags[category].size }}</span></a>
                 {% endfor %}
             {% else %}

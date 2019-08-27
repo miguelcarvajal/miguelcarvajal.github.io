@@ -5,11 +5,8 @@ layout: notas
 subtitle: · ReporterHacks
 ---
 <div class="row my-3">
-{% for tag in site.tags %}     
-{% assign pages_list = tag[1] %}
-{% for post in pages_list %}
-{% if post.title != null %}
-{% if group == null or group == post.group %}
+{% for post in site.categories.Reporterhacks %}
+
 <div class="col-sm-6 col-md-6 col-lg-4">
 	<div class="card mb-4 shadow-sm">
 	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
@@ -24,10 +21,6 @@ subtitle: · ReporterHacks
      </div>
 	</div>
 </div>
-{% endif %}
-{% endif %}
-{% endfor %}
-{% assign pages_list = nil %}
-{% assign group = nil %}
+
 {% endfor %}
 </div>
