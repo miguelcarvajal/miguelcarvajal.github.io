@@ -1,6 +1,7 @@
 ---
 title: Periodismo de lectura reposada
 date: 2011-03-28 00:00:00 Z
+categories: [ Noticias, Calidad ]
 tags:
 - atavist
 - carr

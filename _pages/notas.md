@@ -5,62 +5,35 @@ layout: notas
 color: bg-dark
 ---
 <div class="row">
-<div class="col-sm-4 col-lg-3 my-3">
-			<strong class="d-inline-block mb-1 text-black-50">Modelo de negocio</strong>	
-			<h5>El País lanza su muro de pago en enero de 2020</h5>
-			<p class="font-weight-normal mb-1">El País lanza su muro de pago en enero de 2020. Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam, aenean eu leo quam.</p>
-			<a class="text-decoration-none" href="#"><p class="small text-black-50">24 julio</p></a>
-			<hr class="mb-0">						
-			<strong class="d-inline-block mt-2 mb-1 text-black-50">Modelo de negocio</strong>	
-			<h5>El País lanza su muro de pago en enero de 2020</h5>
-			<p class="font-weight-normal mb-1">El País lanza su muro de pago en enero de 2020. Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam.</p>
-			<a class="text-decoration-none" href="#"><p class="small text-black-50">24 julio</p></a>
-			<hr class="strong mb-0">						
-			<ul class="list-unstyled">
-				<li class="media my-3">
-					<div class="media-body">
-						<strong>Cras sit amet nibh libero</strong>, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. <a class="text-decoration-none" href="#"> Leer más</a>.
-						<a class="text-decoration-none" href="#"><p class="small text-black-50 mt-1">24 julio</p></a>
-						<hr class="mb-0">						
-					</div>
-				</li>
-				<li class="media my-3">
-					<div class="media-body">
-						<strong>Cras sit amet nibh libero</strong>, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. <a class="text-decoration-none" href="#"> Leer más</a>.
-						<hr class="mb-0">						
-					</div>
-				</li>
-				<li class="media my-3">
-					<div class="media-body">
-						<strong>Cras sit amet nibh libero</strong>, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus. <a class="text-decoration-none" href="#"> Leer más</a>.
-					</div>
-				</li>
-			</ul>
-		</div>
+<div class="col-sm-4 col-lg-3 my-2">
+	{% for post in site.categories.Noticias limit: 5 %}
+           	{% assign sortedCategories = post.categories %}
+            {% for category in sortedCategories offset: 1 limit: 1 %}
+			<a class="" href="{{site.baseurl}}/notas/foco#{{ category | replace: " ","-" }}"><strong class="d-inline-block mt-2 mb-1 text-primary">{{ category }}</strong></a>	
+			{% endfor %}
+			<h5>{{ post.title }}</h5>
+			<p class="font-weight-normal mb-1">{{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más</a></p>
+			<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">24 julio</p></a>
+			<hr class="mb-0">
+{% endfor %}
+</div>
 
 <div class="col-sm-8 col-lg-6 my-3">
-	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
-	<strong class="d-inline-block mt-1 mb-2 text-black-50">World</strong>            	
-	<h2>
-		El País lanza su muro de pago en enero de 2020
-	</h2>
-	<div class="mb-1 text-muted">Nov 12</div>
-	<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-	<h2 class="font-italic">
-		El País lanza su muro de pago en enero de 2020
-	</h2>
-	<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-	<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-	<h2 class="font-italic">
-		El País lanza su muro de pago en enero de 2020
-	</h2>
-	<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-	<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
-	<h2 class="font-italic">
-		El País lanza su muro de pago en enero de 2020
-	</h2>
-	<p class="blog-post-meta">January 1, 2014 by <a href="#">Mark</a></p>
-	<p>Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.</p>
+	{% for post in site.categories.Analisis limit: 5 %}
+
+   {% if post.image %} 
+     {% if site.lazyimages == "enabled" %}
+	<img class="img-fluid rounded lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+	  {% else %}
+	<img class="img-fluid rounded" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+      {% endif %}
+   {% endif %}
+	<h2 class="mt-1">{{ post.title }}</h2>
+	<p>{{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más.</a></p>
+	<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">{{ post.date | date: "%B, %Y" }}</p></a>
+
+{% endfor %}
+
 </div>
 
 <div class="col-sm-6 col-md-6 col-lg-3 ml-auto">
@@ -75,10 +48,16 @@ color: bg-dark
 {% for post in site.categories.Reporterhacks limit: 3 %}
 
 <div class="card mb-4 shadow-sm small">
-	<img class="img-fluid" src="https://static01.nyt.com/images/2019/08/08/t-magazine/05tmag-neale-slide-TIM5-copy/05tmag-neale-slide-TIM5-threeByTwoMediumAt2X.jpg" alt="Miguel Carvajal">  
-    <div class="card-body">
+   {% if post.image %} 
+     {% if site.lazyimages == "enabled" %}
+	<img class="img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+	  {% else %}
+	<img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
+      {% endif %}
+   {% endif %}
+       <div class="card-body">
 		<p class="card-text"><strong>{{ post.title }}</strong>. {{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.enlace }}"> Consultar herramienta</a>.</p>
-              <div class="d-flex justify-content-start align-items-center">
+             <div class="d-flex justify-content-start align-items-center">
               	{% assign sortedTags = post.tags %}
                 {% for tag in sortedTags limit:2 %}
 				<a class="btn btn-light btn-sm mb-1 mr-1" href="{{site.baseurl}}/notas/reporterhacks#{{ tag | replace: " ","-" }}">{{ tag }}</a>

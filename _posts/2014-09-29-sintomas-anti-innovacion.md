@@ -1,6 +1,7 @@
 ---
 title: Diez síntomas de intolerancia al cambio en periodismo
 date: 2014-09-29 00:00:00 Z
+categories: [ Analisis, Inmovilismo ]
 tags:
 - innovacion
 - periodismo

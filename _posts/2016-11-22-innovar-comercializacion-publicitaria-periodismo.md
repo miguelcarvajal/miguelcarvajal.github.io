@@ -1,9 +1,10 @@
 ---
 title: Cómo innovan los medios para ser mejores soportes publicitarios frente al oligopolio
   de Facebook y Google
-categories: [ Publicidad, Negocio ]
+categories: [ Analisis, Innovación ]
 tags: [ Fotos, malaprensa]
 layout: post
+image: https://cdn.vox-cdn.com/thumbor/pmhvgQRG7ABMzsAikBcrRoDMBEw=/2x0:1015x675/1820x1213/filters:focal(2x0:1015x675):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49016893/nytimes-logo-headquarters-stock_1020.0.jpg
 excerpt: La inversión publicitaria digital se destina de manera mayoritaria a otros
   canales que son más efectivos en la segmentación y tienen la escala que demandan
   los anunciantes. Para resolver este problema, los medios introducen estrategias

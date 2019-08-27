@@ -1,7 +1,7 @@
 ---
 title: La pregunta no es qué hacer para resucitar la prensa, sino cómo hacer periodismo
   sostenible
-categories: [ Negocio ]
+categories: [ Analisis, Modelo de negocio ]
 layout: post
 excerpt: 'Hace un par de semanas presenté un trabajo sobre modelos de negocio en el
   periodismo en un congreso de empresa informativa celebrado en Nueva York. Allí me

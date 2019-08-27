@@ -1,6 +1,7 @@
 ---
 title: Ocho medidas del New York Times para mejorar su audiencia
 date: 2014-10-05 00:00:00 Z
+categories: [ Analisis, Innovación ]
 layout: post
 cover_image: nyt.png
 excerpt: El informe sobre innovación del New York Times es uno de los documentos clave

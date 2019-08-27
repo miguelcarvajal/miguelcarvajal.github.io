@@ -1,6 +1,6 @@
 ---
 title: Diez claves de la industria periodística en Estados Unidos que debes conocer
-categories: [ Tendencias ]
+categories: [ Analisis, Tendencias ]
 tags: [ Mobile ]
 layout: post
 excerpt: 'Si no anticipamos el futuro, no podremos construir ninguno, dice Jeff Jarvis

@@ -1,6 +1,7 @@
 ---
 title: Contenido de-generado por los usuarios
 date: 2011-07-26 00:00:00 Z
+categories: [ Noticias, Social ]
 tags:
 - brand journalism
 - crisis
