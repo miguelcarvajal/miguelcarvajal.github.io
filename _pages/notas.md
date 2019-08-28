@@ -20,6 +20,7 @@ color: bg-dark
 
 <div class="col-sm-8 col-lg-6 my-3">
 	{% for post in site.categories.Analisis limit: 5 %}
+   {% if post.image %} 
      {% if site.lazyimages == "enabled" %}
 	<img class="img-fluid rounded lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
 	  {% else %}
@@ -28,6 +29,7 @@ color: bg-dark
 	<h2 class="mt-1">{{ post.title }}</h2>
 	<p>{{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más.</a></p>
 	<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">{{ post.date | date: "%B, %Y" }}</p></a>
+   {% endif %}
 {% endfor %}
 
 </div>

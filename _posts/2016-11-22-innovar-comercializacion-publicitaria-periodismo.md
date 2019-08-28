@@ -4,7 +4,7 @@ title: Cómo innovan los medios para ser mejores soportes publicitarios frente a
 categories: [ Analisis, Innovación ]
 tags: [ Fotos, malaprensa]
 layout: post
-image: https://cdn.vox-cdn.com/thumbor/pmhvgQRG7ABMzsAikBcrRoDMBEw=/2x0:1015x675/1820x1213/filters:focal(2x0:1015x675):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/49016893/nytimes-logo-headquarters-stock_1020.0.jpg
+image: https://www.niemanlab.org/images/3007250280_ed628580f5_b.jpg
 excerpt: La inversión publicitaria digital se destina de manera mayoritaria a otros
   canales que son más efectivos en la segmentación y tienen la escala que demandan
   los anunciantes. Para resolver este problema, los medios introducen estrategias
