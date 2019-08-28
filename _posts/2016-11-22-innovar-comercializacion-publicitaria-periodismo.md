@@ -2,7 +2,7 @@
 title: Cómo innovan los medios para ser mejores soportes publicitarios frente al oligopolio
   de Facebook y Google
 categories: [ Analisis, Innovación ]
-tags: [ Fotos, malaprensa]
+tags: [ Fotos, malaprensa ]
 layout: post
 image: https://www.niemanlab.org/images/3007250280_ed628580f5_b.jpg
 excerpt: La inversión publicitaria digital se destina de manera mayoritaria a otros

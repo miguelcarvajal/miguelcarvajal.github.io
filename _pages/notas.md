@@ -26,10 +26,10 @@ color: bg-dark
 	  {% else %}
 	<img class="img-fluid rounded" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
       {% endif %}
-	<h2 class="mt-1">{{ post.title }}</h2>
-	<p>{{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más.</a></p>
-	<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">{{ post.date | date: "%B, %Y" }}</p></a>
    {% endif %}
+	<h2 class="mt-1">{{ post.title }}</h2>
+	<p>{{ post.excerpt | strip_html | truncatewords:35 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más.</a></p>
+	<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">{{ post.date | date: "%B, %Y" }}</p></a>
 {% endfor %}
 
 </div>
