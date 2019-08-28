@@ -1,5 +1,6 @@
 ---
 layout: post
+name: removeBG
 title: "Borra el fondo de una imagen"
 date: 2019-08-27 11:43
 enlace: https://www.remove.bg/
