@@ -4,15 +4,37 @@
 
 {% include nav.html %}
 
+	<div class="jumbotron jumbotron-fluid mb-0 bg-dark pt-2 pb-2">
+		<div class="container">
+			<h2 class="display-3"><a class="text-decoration-none text-warning" href="/notas/">Notas</a></h2>
+
+		</div>
+	</div>
+
+	<div class="nav-scroller shadow-sm mb-2" style="background-color: #fdf9f3">
+		<nav class="nav nav-underline">
+            {% assign categories_list = site.categories %}
+            {% if categories_list.first[0] == null %}
+            {% for category in categories_list %}
+                   	<a class="nav-link" href="{{site.baseurl}}/notas/foco#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ site.tags[category].size }}</span></a>
+                {% endfor %}
+            {% else %}
+                {% for category in categories_list %}                        
+                    <a class="nav-link" href="{{site.baseurl}}/notas/foco#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ category[1].size }}</span></a>
+                {% endfor %}
+            {% endif %}
+            {% assign categories_list = nil %}
+		</nav>
+	</div>
 
 <div class="container-fluid pt-3">
 
-<main class="col-12 col-md-12 col-xl-12 bd-content px-1" role="main">
+<main class="col-12 col-md-12 col-xl-12 px-1" role="main">
 
-  <h1 class="text-dark display-3 text-center pt-3">{{ page.title }}</h1>
-  <p class="small text-center">{{ page.date | date_to_string }}</p>
+  <h1 class="text-dark display-4 text-center pt-3">{{ page.title }}</h1>
+  <p class="small text-center mt-3">{{ page.date | date_to_string }}</p>
 
-	<div class="article-post py-5">
+	<div class="article-post py-4">
 
 {{ content }}
 
