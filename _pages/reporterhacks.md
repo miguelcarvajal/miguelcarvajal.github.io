@@ -23,6 +23,8 @@ subtitle: · ReporterHacks
   </div>
 </div>
 
+{% include search.html %}
+
 {% for tag in site.tags %}     
 <div class="col-md-12">
 <h2 id="{{ tag[0] | replace: " ","-" }}"><span class="text-capitalize">{{ tag[0] }}</span></h2>

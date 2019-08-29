@@ -1,16 +1,14 @@
 ---
 layout: null
-permalink: /notas/reporterhacks/search.json
 ---
 [
   {% for post in site.posts %}
     {
       "name"     : "{{ post.name }}",
       "title"    : "{{ post.title }}",
-      "content"  : "{{ post.content }}",
+      "image"    : "{{ post.image }}",
       "url"      : "{{ site.baseurl }}{{ post.url }}",
       "date"     : "{{ post.date }}"
-
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
