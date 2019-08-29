@@ -10,7 +10,7 @@
 var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  json: '/search.json',
+  json: 'search.json',
   searchResultTemplate:'<a href="/#{modal}"><div class="media text-muted pt-3 border-bottom border-gray"><div class="media-body pb-3 mb-0"><div class="d-flex justify-content-between align-items-center w-100"><strong class="text-gray-dark">{name}</strong></div><p>{content}</p></div></div></a>',
   noResultsText: '<p class="lead">Vaya, ese nombre no está registrado, <a href="{{ site.baseurl }}/nuevo.html">¿quieres añadirlo?</a></p>',
   limit: 10,

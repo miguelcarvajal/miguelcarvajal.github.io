@@ -1,6 +1,6 @@
 ---
 title: Notas
-permalink: /notas/reporterhacks
+permalink: /notas/reporterhacks/
 layout: notas
 subtitle: · ReporterHacks
 ---
@@ -22,8 +22,6 @@ subtitle: · ReporterHacks
               </div>
   </div>
 </div>
-
-{% include search.html %}
 
 {% for tag in site.tags %}     
 <div class="col-md-12">
