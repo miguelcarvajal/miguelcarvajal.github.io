@@ -1,10 +1,6 @@
 ---
 title: Fuera de radar
 date: 2012-03-22 00:00:00 Z
-tags:
-- universidad
-- jornadas
-- reflexiones
 layout: post
 status: publish
 type: text

@@ -1,12 +1,6 @@
 ---
 title: Apología del periodismo
 date: 2012-10-24 00:00:00 Z
-tags:
-- colegios
-- innovación
-- periodismo
-- profesionalización
-- universidad
 layout: post
 type: text
 ---

@@ -1,12 +1,7 @@
 ---
 title: Periodismo sin corbatas
 date: 2013-06-06 00:00:00 Z
-tags:
-- la marea
-- infolibre
-- eldiario.es
-- cooperativa
-- Escolar
+tags: [ la marea, infolibre ]
 layout: post
 ---
 

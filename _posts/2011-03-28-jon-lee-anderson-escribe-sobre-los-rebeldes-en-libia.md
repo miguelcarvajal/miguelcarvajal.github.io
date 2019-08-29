@@ -2,12 +2,6 @@
 title: Jon Lee Anderson escribe sobre los rebeldes en Libia
 date: 2011-03-28 00:00:00 Z
 categories: [ Noticias, Crónicas ]
-tags:
-- Libia
-- new yorker
-- periodismo
-- Enlace
-- reporteros
 layout: post
 link: http://www.newyorker.com/talk/comment/2011/04/04/110404taco_talk_anderson
 ---

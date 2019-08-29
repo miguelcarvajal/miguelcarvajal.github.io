@@ -1,9 +1,6 @@
 ---
 title: A la caza de la innovación en periodismo
 date: 2014-09-27 00:00:00 Z
-tags:
-- periscopio
-- periodismo
 layout: post
 ---
 

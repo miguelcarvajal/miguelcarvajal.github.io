@@ -2,13 +2,6 @@
 title: Las expansión de Reuters
 date: 2011-06-16 00:00:00 Z
 categories: [ Noticias, Agencias ]
-tags:
-- economía
-- Estados Unidos
-- innovación
-- periodismo
-- Enlace
-- reuters
 layout: post
 type: text
 ---

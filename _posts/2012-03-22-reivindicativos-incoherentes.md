@@ -1,10 +1,6 @@
 ---
 title: Reivindicativos incoherentes
 date: 2012-03-22 00:00:00 Z
-tags:
-- universidad
-- docencia
-- bolonia
 layout: post
 status: publish
 type: text

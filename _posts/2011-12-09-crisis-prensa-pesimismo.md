@@ -1,10 +1,6 @@
 ---
 title: La crisis de la prensa
 date: 2011-12-09 00:00:00 Z
-tags:
-- periodismo
-- ensayo
-- crisi
 layout: post
 type: text
 ---

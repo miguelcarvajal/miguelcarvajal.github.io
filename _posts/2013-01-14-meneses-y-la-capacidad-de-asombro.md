@@ -1,11 +1,6 @@
 ---
 title: Meneses y la capacidad de asombro
 categories: [ Reporterhacks ]
-tags:
-- meneses
-- periodismo
-- profesión
-- reporteros
 layout: post
 type: text
 ---

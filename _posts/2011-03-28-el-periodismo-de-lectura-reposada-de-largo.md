@@ -2,17 +2,6 @@
 title: Periodismo de lectura reposada
 date: 2011-03-28 00:00:00 Z
 categories: [ Noticias, Calidad ]
-tags:
-- atavist
-- carr
-- ipad
-- lectura
-- long form journalism
-- multimedia
-- periodismo
-- Vídeo
-- storytelling
-- vídeo
 layout: post
 video_url: http://www.youtube.com/watch?v=_oB3084mFiU
 ---

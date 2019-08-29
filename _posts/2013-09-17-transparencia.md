@@ -1,11 +1,7 @@
 ---
 title: Ser transparente es más importante que ser independiente
 categories: [ Reporterhacks ]
-tags:
-- periodismo
-- futuro
-- ética
-- fuentes
+tags: [ felix salmon, futuro, prensa ]
 layout: post
 link: http://bit.ly/14eKJhS
 ---

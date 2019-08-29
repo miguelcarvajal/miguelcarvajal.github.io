@@ -2,11 +2,6 @@
 title: La entrevista maltratada
 date: 2011-03-23 00:00:00 Z
 categories: [ Noticias, Entrevistas ]
-tags:
-- entrevistas
-- malaprensa
-- redacción
-- cuestionarios
 layout: post
 type: text
 ---

@@ -2,11 +2,6 @@
 title: Límites del periodismo de investigación
 date: 2011-03-28 00:00:00 Z
 categories: [ Noticias, Investigación ]
-tags:
-- arcadi espada
-- disfraz
-- falsedad
-- bolonia
 layout: post
 type: text
 ---

@@ -1,14 +1,6 @@
 ---
 title: Naufragio moral en portada
 date: 2012-10-30 00:00:00 Z
-tags:
-- criterios
-- inmigrantes
-- moral
-- noticiabilidad
-- pateras
-- periodismo
-- portada
 layout: post
 type: text
 ---

@@ -1,10 +1,7 @@
 ---
 title: La economía de los contenidos, por Felix Salmon
 date: 2014-02-11 00:00:00 Z
-tags:
-- felix salmon
-- futuro
-- prensa
+tags: [ felix salmon, futuro, prensa ]
 layout: post
 link: http://blogs.reuters.com/felix-salmon/2014/02/11/content-economics-part-5-news
 ---

@@ -1,11 +1,6 @@
 ---
 title: La historia de una inspiración
 date: 2013-06-01 00:00:00 Z
-tags:
-- inspiración
-- storytelling
-- periodismo
-- belén torregrosa
 layout: post
 type: text
 ---

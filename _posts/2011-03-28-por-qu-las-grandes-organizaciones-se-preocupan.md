@@ -2,14 +2,6 @@
 title: Muros de pago
 date: 2011-03-28 00:00:00 Z
 categories: [ Noticias, Muros de pago ]
-tags:
-- financiación
-- modelos de negocio
-- muro de pago
-- new york times
-- paywall
-- periodismo
-- Cita
 layout: post
 type: text
 ---

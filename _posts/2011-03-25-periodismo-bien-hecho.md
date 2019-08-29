@@ -2,14 +2,6 @@
 title: Periodismo bien hecho
 date: 2011-03-25 00:00:00 Z
 categories: [ Noticias, Calidad ]
-tags:
-- futuro
-- internet
-- nuevos medios
-- periodismo
-- politifact
-- Enlace
-- watchdog
 layout: post
 type: text
 ---

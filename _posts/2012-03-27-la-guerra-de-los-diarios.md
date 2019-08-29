@@ -1,8 +1,6 @@
 ---
 title: La guerra de los diarios, no la del periodismo
 date: 2012-03-27 00:00:00 Z
-tags:
-- Enlace
 layout: post
 type: text
 ---

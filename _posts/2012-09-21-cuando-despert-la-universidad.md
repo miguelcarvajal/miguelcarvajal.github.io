@@ -1,13 +1,6 @@
 ---
 title: Cuando despertó, la universidad seguía allí
 date: 2012-09-21 00:00:00 Z
-tags:
-- economicismo
-- georgetown university
-- innovación
-- recesión
-- steve jobs
-- universidad
 layout: post
 type: text
 ---
