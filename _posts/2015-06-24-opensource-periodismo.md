@@ -37,8 +37,6 @@ El mix periodismo y _tech world_ ha impulsado también el nacimiento de laborato
 
 El _adn_ del open source está en los programadores (defensores o simples usuarios) de las organizaciones periodísticas más innovadores de todo el mundo. **Ellos crean y diseñan aplicaciones y sitios web** con lenguajes como _ruby on rails_ o _php_. Los **periodistas trabajan con herramientas gratuitas para extraer y filtrar datos o para presentarlos en mapas**. Hay _coders_ que escriben programas en _python_ que se ejecutan desde su terminal para _scrapear_ la web (navegarla y obtener datos útiles y relevantes). A diario **los desarrolladores emplean librerías de _javascript_, _html_ y _css_ gratuitas para diseñar las webs o las aplicaciones o de sus medios**.  
 
-![](https://dl.dropboxusercontent.com/u/3578704/shots/shot_2015-06-24_23-51-40.png)
-
 El open source no solo debe aportar al periodismo herramientas gratuitas (lenguajes y aplicaciones), puede ayudar a transmitir una cultura _pirata_, [como plantea Pau Llop](http://www.eldiario.es/colaboratorio/Periodismo-pirata_6_109249075.html), y "conquistar nuevos territorios para la democracia y una organización social más justa". [Seth Lewis y Nikki Usher señalan que el periodismo](http://mcs.sagepub.com/content/35/5/602.abstract) podría beneficiarse del ethos del open source de cuatro modos:
 
 * La **transparencia** para abrir el proceso de trabajo desde el inicio y estar dispuestos a someterse al control, mediante cambios documentados y con la voluntad de resolver vicios y errores de la producción periodística. 
@@ -52,8 +50,6 @@ El open source no solo debe aportar al periodismo herramientas gratuitas (lengua
 La tribu open source también tiene publicaciones, licencias abiertas, redes sociales. Una gran mayoría de estos proyectos están alojados en [Github](https://github.com/), una plataforma de servicios para programadores y desarrolladores web que **permite almacenar gratuitamente repositorios de código y facilita el trabajo colaborativo** porque funciona con el sistema de control de versiones [_git_](https://git-scm.com/). 
 
 Esto que escribo quizá está ya en _la frontera de matrix_ para un periodista medio. Solo como detalle: [el blog está alojado en Github](https://github.com/mipumh/blog) y se sostiene por el módulo (gema) _jekyll_ escrito en el lenguaje _ruby_. Lo que ves ahora no tiene detrás el popular CMS (_content management system_) de **Wordpress** (otro proyecto open source, por cierto). 
-
-![](https://dl.dropboxusercontent.com/u/3578704/shots/shot_2015-06-25_00-35-56.png)
 
 En Github se encuentran los principales frutos del binomio open source y periodismo: aplicaciones, herramientas y programas gratuitos que pueden servir para mejorar la producción o el aspecto de cualquier proyecto periodístico. Todos ellos se desgranarán próximamente en [este blog](http://mip.umh.es/blog/ "Web inicial de este proyecto").
 
