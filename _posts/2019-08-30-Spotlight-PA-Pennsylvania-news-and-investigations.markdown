@@ -3,7 +3,7 @@ layout: post
 title: "Nace Spotlight PA, una cooperativa de medios locales para cubrir asuntos de interés público"
 date: 2019-08-30 10:33
 enlace: https://www.spotlightpa.org/
-categories: [ Reporterhacks, Noticias, Lecturas, Cooperativas]
+categories: [ Noticias, Lecturas, Cooperativas]
 tags: []
 image: https://d33wubrfki0l68.cloudfront.net/7fcbe0e59c0a6e7aadfda44869da47fc83d88c3a/54d9f/img/bgs/capitol-moody_hud25b485332e1c808f36c0eabf429b5b4_5982453_1200x0_resize_q75_box.3b1d0d311306017e1ab0e1017a90f08886c53aee27da2477b8f1763eeccf3b5e.jpeg
 ---
