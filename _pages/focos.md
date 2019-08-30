@@ -17,7 +17,7 @@ permalink: /notas/foco
 	<li class="media my-3">
 		<div class="media-body">
 			<strong>{{ post.title }}</strong>. {{ post.excerpt | strip_html | truncatewords:30 }} <a class="text-decoration-none" href="{{ post.url | absolute_url }}"> Leer más</a>.
-			<a class="text-decoration-none" href="#"><p class="small text-black-50 mt-1">{{ post.date | date_to_string }}</p></a>
+			<p class="small text-black-50" style="font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;">{{ post.date | date: "%d/%m/%Y" }}</p>
 			<hr class="mb-0">						
 		</div>
 	</li>

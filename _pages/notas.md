@@ -13,7 +13,7 @@ color: bg-dark
 			{% endfor %}
 			<h5><a class="text-decoration-none text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
 			<p class="font-weight-normal mb-1">{{ post.excerpt | strip_html | truncatewords:33 }}.</p>
-			<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">24 julio</p></a>
+			<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">{{ post.date | date: "%d/%m/%Y" }}</p></a>
 		   {% if post.image %} 
 		     {% if site.lazyimages == "enabled" %}
 			<img class="img-fluid rounded lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">

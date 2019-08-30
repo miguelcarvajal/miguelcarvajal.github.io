@@ -31,11 +31,18 @@
 
 <main class="col-12 col-md-12 col-xl-12 px-1" role="main">
 
-  <h1 class="text-dark display-4 text-center pt-3">{{ page.title }}</h1>
-  <p class="small text-center mt-3">{{ page.date | date_to_string }}</p>
+  <h1 class="text-dark display-4 text-center pt-2">{{ page.title }}</h1>
+  <p class="small font-weight-bolder text-center mt-4">{{ page.date | date: "%d/%m/%Y" }} — Por Miguel Carvajal</p>
 
-	<div class="article-post py-4">
+	<div class="article-post py-3">
 
+   {% if page.image %} 
+     {% if site.lazyimages == "enabled" %}
+  <img class="img-fluid rounded lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ page.image | absolute_url }}{% endif %}" alt="{{ page.title }}">
+    {% else %}
+  <img class="img-fluid rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
+      {% endif %}
+   {% endif %}
 {{ content }}
 
 	</div>
