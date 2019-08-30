@@ -1,6 +1,6 @@
 ---
 title: Nueve razones para matricularte en el Máster en Innovación en Periodismo
-categories: [ Noticias, Máster ]
+categories: [ Noticias, Universidad ]
 layout: post
 excerpt: La Universidad Miguel Hernández ha abierto el primer plazo de preinscripción
   al Máster en Innovación en Periodismo para el curso 2016/17. Si nos sueles leer

@@ -2,6 +2,7 @@
 title: A la caza de la innovación en periodismo
 date: 2014-09-27 00:00:00 Z
 layout: post
+categories: [ Analisis, Universidad ]
 ---
 
 Siempre estoy **tras la pista de alguna iniciativa periodística innovadora**. Como profesor, me interesa saber cómo van a ser las cosas cuando mueran los dinosaurios. Muchas veces encuentro productos o sitios interesantes, los comparto, los conservo en un _favorito_ furtivo o me los envío por correo. 

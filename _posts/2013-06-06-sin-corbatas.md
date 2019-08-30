@@ -1,10 +1,9 @@
 ---
 title: Periodismo sin corbatas
 date: 2013-06-06 00:00:00 Z
-tags: [ la marea, infolibre ]
+categories: [ Analisis, Industria ]
 layout: post
 ---
-
 Una de las pocas cosas buenas que la profesión periodística está recogiendo de la crisis económica es la **depuración del sector**. Ante la ausencia de beneficios, algunos editores, _antes comprometidos_, se muestran ahora implacables ejecutores de despidos o recortes en áreas clave del diario. Se han quitado la careta preocupados por el beneficio, rendidos ante los _poderes financieros_ que inflan sus sueldos millonarios. 
 
 Es una buena noticia ver que muchos periodistas creen realmente en el periodismo y buscan nuevas fórmulas para seguir haciéndolo. Han colgado la [corbata](http://pbs.twimg.com/media/BLd7JU_CEAATWXW.png) y con ella la presión de trabajar con un modelo anquilosado. Ahora buscan alternativas, como la **cooperativa de trabajadores** de [La Marea](http://www.lamarea.com/ "Revista La Marea"), una revista orientada hacia un _público de izquierdas_ que salió adelante gracias a una decena de periodistas despedidos de Público, pero “con ganas de hacer un periodismo libre de intereses empresariales y políticos y de masas”. A través de una **campaña de crowdfunding**, recogieron el impulso necesario para fundar la cooperativa. 

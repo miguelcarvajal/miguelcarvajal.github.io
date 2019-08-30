@@ -1,7 +1,6 @@
 ---
 title: Radiaciones de alarmismo en la prensa
-categories: [ Noticias, Malaprensa ]
-tags: [ Fotos, malaprensa]
+categories: [ Lecturas, Malaprensa ]
 layout: post
 type: text
 ---

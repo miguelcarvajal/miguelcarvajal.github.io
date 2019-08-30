@@ -11,8 +11,8 @@ color: bg-dark
             {% for category in sortedCategories offset: 1 limit: 1 %}
 			<a class="" href="{{site.baseurl}}/notas/foco#{{ category | replace: " ","-" }}"><strong class="d-inline-block mt-2 mb-1 text-primary">{{ category }}</strong></a>	
 			{% endfor %}
-			<h5>{{ post.title }}</h5>
-			<p class="font-weight-normal mb-1">{{ post.excerpt | strip_html | truncatewords:25 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más</a></p>
+			<h5><a class="text-decoration-none text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
+			<p class="font-weight-normal mb-1">{{ post.excerpt | strip_html | truncatewords:33 }}.</p>
 			<a class="text-decoration-none" href="{{ post.link }}"><p class="small text-black-50">24 julio</p></a>
 		   {% if post.image %} 
 		     {% if site.lazyimages == "enabled" %}
@@ -44,7 +44,7 @@ color: bg-dark
 <div class="col-sm-6 col-md-6 col-lg-3 ml-auto">
 	<aside class="sidebar">
 		<div class="p-3 mt-3 mb-3 bg-warning rounded">
-			<p class="mb-0"><strong>Notas</strong> es mi libreta de apuntes, enlaces, pistas y herramientas útiles para periodistas. Sígueme <a href="https://twitter.com/mcarvajal_"><i class="fab fa-twitter"></i></a></p>
+			<p class="mb-0"><strong>Notas</strong> es mi libreta de apuntes, enlaces, pistas y herramientas útiles para periodistas. <a href="https://twitter.com/mcarvajal_"><i class="fab fa-twitter"></i></a></p>
 			  <footer class="blockquote-footer">Miguel Carvajal</footer>
 		</div>
 

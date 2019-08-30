@@ -1,6 +1,7 @@
 ---
 title: La crisis de la prensa
 date: 2011-12-09 00:00:00 Z
+categories: [ Lecturas, Industria ]
 layout: post
 type: text
 ---

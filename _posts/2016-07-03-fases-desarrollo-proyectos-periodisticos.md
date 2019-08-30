@@ -1,6 +1,6 @@
 ---
 title: Algunas claves sobre el desarrollo de proyectos periodísticos
-categories: [ Analisis, Emprender ]
+categories: [ Analisis, Innovación ]
 layout: post
 excerpt: Desde que empezamos la aventura del Máster en Innovación en Periodismo hemos
   tenido claro que idear, desarrollar y lanzar un proyecto periodístico es la mejor

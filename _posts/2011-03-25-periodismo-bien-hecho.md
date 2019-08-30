@@ -1,7 +1,7 @@
 ---
 title: Periodismo bien hecho
 date: 2011-03-25 00:00:00 Z
-categories: [ Noticias, Calidad ]
+categories: [ Analisis, Verificación ]
 layout: post
 type: text
 ---

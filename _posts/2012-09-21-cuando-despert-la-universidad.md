@@ -2,7 +2,7 @@
 title: Cuando despertó, la universidad seguía allí
 date: 2012-09-21 00:00:00 Z
 layout: post
-type: text
+categories: [ Analisis, Universidad ]
 ---
 
 Hace un par de meses la Universidad de Georgetown en Estados Unidos publicó un [estudio ](http://cew.georgetown.edu/unemployment/ "Hard Times")sobre las carreras que generaban mejores salarios y mayores índices de empleabilidad entre recién graduados. Más allá de los resultados, que darían para otra reflexión, la decisión de pagar por una Universidad particular se medía en términos de inversión. La conclusión fundamental era, por supuesto, que es rentable estudiar una carrera, pero más si se elige bien dónde y qué.

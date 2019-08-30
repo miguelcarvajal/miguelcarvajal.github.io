@@ -2,7 +2,7 @@
 title: Naufragio moral en portada
 date: 2012-10-30 00:00:00 Z
 layout: post
-type: text
+categories: [ Analisis, Malaprensa ]
 ---
 
 Algunos mueren en el mar peleando por una vida mejor, mientras otros se ahogan en la charca de su pueblo. La mayor parte de **la prensa anda enzarzada en batallas paletas de banderas**, que solo sirven para esconder la mala gestión de quienes las agitan. El jueves pasado murieron en la costa de Alhucemas 14 inmigrantes, Salvamento Marítimo rescató a 17. Son ya 23 los cadáveres de unos soñadores buscando su futuro en este país en declive moral. La pequeña o nula aparición de estas noticias en las portadas es un síntoma más de la pérdida de sensibilidad de algunos profesionales del periodismo. Con algunas excepciones, como [Ideal](http://kiosko.net/es/2012-10-26/np/ideal_almeria.html "Portada") (edición de Almería), [Diario de Navarra](http://www.diariodenavarra.es/ "Portada") y [La Vanguardia](http://kiosko.net/es/2012-10-26/np/lavanguardia.html "Portada"), casi todos los directores ignoraron el suceso o lo encerraron en un breve minúsculo en sus primeras. 

@@ -2,7 +2,7 @@
 title: Meneses y la capacidad de asombro
 categories: [ Reporterhacks ]
 layout: post
-type: text
+categories: [ Analisis, Reporterismo ]
 ---
 
 Ir, ver y contarlo. Compartir hechos, sucesos e historias. Levantarse de la silla, coger el tren y adentrarse en mundos ajenos. Gastar suela de zapato. Viajar y descubrir los relatos escondidos. Un estudiante de Periodismo escucha estos consejos casi a diario, son enseñanzas que proceden de la experiencia de los grandes de este oficio. **Anton Chejov**, **Mark Twain**,** Hemingway**, **Orwell**, **Kapuscinski**, **Truman Capote**, **Gay Talese**, **Marie Colvin**… Hay algo común en la vida de estos geniales reporteros y maestros del periodismo, algo que sobrevuela sus anécdotas y sus crónicas o se percibe en sus memorias. Sabían mirar, prestaban atención a los detalles, tenían paciencia y contaban las cosas sin moverlas de su sitio, con un respeto sagrado.

@@ -2,7 +2,7 @@
 title: Fuera de radar
 date: 2012-03-22 00:00:00 Z
 layout: post
-status: publish
+categories: [ Analisis, Universidad ]
 type: text
 ---
 

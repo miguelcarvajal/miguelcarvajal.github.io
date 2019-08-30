@@ -2,7 +2,7 @@
 title: La historia de una inspiración
 date: 2013-06-01 00:00:00 Z
 layout: post
-type: text
+categories: [ Analisis, Universidad ]
 ---
 
 El 20 de mayo vino a clase de redacción periodística [Belén Torregrosa](http://www.belentorregrosa.com/ "Página web") para presentar [Follow your own star](http://www.followyourownstar.org/), un **proyecto de storytelling colaborativo** dedicado al cultivo del talento y la creatividad. Su intervención era la penúltima sesión del curso y, por las caras de los presentes, fue lo mejor del año. 
