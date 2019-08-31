@@ -6,7 +6,7 @@ enlace: https://whatsnewinpublishing.com/the-new-york-times-is-the-latest-publis
 categories: [ Noticias, Suscripción ]
 image: "https://whatsnewinpublishing.com/wp-content/uploads/2019/08/NYT-login-page.png"
 ---
-El diario neoyorquino, como han hecho Boston Globe o Washington Post, ha levantado un muro de registro "obligatorio" para acceder a sus contenidos, también los gratuitos. Esta medida evitará las rendijas que el _modo incógnito_ de los navegadores debaja abiertas. 
+El diario neoyorquino, como han hecho Boston Globe o Washington Post, ha levantado un muro de registro "obligatorio" para acceder a sus contenidos, también los gratuitos. Esta medida evitará las rendijas que el _modo incógnito_ de los navegadores dejaba abiertas. 
 
 **Background**. Google recomendó a los editores de medios que implantaran este sistema de registro gratuito para evitar que los usuarios sortearan los muros de pago con el modo incógnito. 
 
