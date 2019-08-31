@@ -15,5 +15,5 @@ El diario neoyorquino, como han hecho Boston Globe o Washington Post, ha levanta
 **Pistas**. Hace un mes El País implantó el registro gratuito "obligatorio" para el acceso a Opinión. Con ese movimiento valiente se prepara para un posible lanzamiento del muro de pago en 2020.   
 
 
-[Fuente](https://whatsnewinpublishing.com/the-new-york-times-is-the-latest-publisher-to-put-up-a-registration-wall/)
+[Fuente](https://whatsnewinpublishing.com/the-new-york-times-is-the-latest-publisher-to-put-up-a-registration-wall/).
 
