@@ -1,8 +1,8 @@
 ---
 layout: notas
 title: Notas
-subtitle: · focos
-permalink: /notas/foco
+subtitle: · archivo
+permalink: /notas/archivo/
 ---
 
 <div class="article-post my-3">

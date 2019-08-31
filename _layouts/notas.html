@@ -16,11 +16,11 @@
             {% assign categories_list = site.categories %}
             {% if categories_list.first[0] == null %}
             {% for category in categories_list %}
-                   	<a class="nav-link" href="{{site.baseurl}}/notas/foco#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ site.tags[category].size }}</span></a>
+                   	<a class="nav-link" href="{{site.baseurl}}/notas/archivo/#{{ category | url_escape | strip | replace: ' ', '-' }}">{{ category | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ site.tags[category].size }}</span></a>
                 {% endfor %}
             {% else %}
                 {% for category in categories_list %}                        
-                    <a class="nav-link" href="{{site.baseurl}}/notas/foco#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ category[1].size }}</span></a>
+                    <a class="nav-link" href="{{site.baseurl}}/notas/archivo/#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ category[1].size }}</span></a>
                 {% endfor %}
             {% endif %}
             {% assign categories_list = nil %}

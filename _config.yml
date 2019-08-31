@@ -31,7 +31,8 @@ markdown: kramdown
 
 include:
 - _pages
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
+permalink: notas/:year/:month/:day/:title:output_ext
 
 # Archives
 jekyll-archives:

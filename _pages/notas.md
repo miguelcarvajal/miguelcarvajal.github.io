@@ -9,7 +9,7 @@ color: bg-dark
 	{% for post in site.categories.Noticias limit: 5 %}
            	{% assign sortedCategories = post.categories %}
             {% for category in sortedCategories offset: 1 limit: 1 %}
-			<a class="" href="{{site.baseurl}}/notas/foco#{{ category | replace: " ","-" }}"><strong class="d-inline-block mt-2 mb-1 text-primary">{{ category }}</strong></a>	
+			<a class="" href="{{site.baseurl}}/notas/archivo/#{{ category | replace: " ","-" }}"><strong class="d-inline-block mt-2 mb-1 text-primary">{{ category }}</strong></a>	
 			{% endfor %}
 			<h5><a class="text-decoration-none text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h5>
 			<p class="font-weight-normal mb-1">{{ post.excerpt | strip_html | truncatewords:33 }}.</p>
