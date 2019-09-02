@@ -10,9 +10,9 @@ image: https://images.pexels.com/photos/2574326/pexels-photo-2574326.jpeg?auto=c
 ---
 Este repositorio te ayuda a localizar fotografías libres de derechos y gratuitas que podrás emplear para tus diseños, contenidos, ilustraciones. Es un recurso muy útil para crear contenidos atractivos en redes o ilustrar artículos en tu medio. Cuenta con un buscador rápido que rastrea cientos de fuentes y cuentas en busca de este tipo de imágenes.
 
-- Todas las fotos de Pexels son gratuis. 
-- No se requiere la atribución del autor, pero se aprecia, y así se valor el trabajo del fotógrafo.
-- Pueden editarse, modificarse, etc. 
+- Todas las fotos de Pexels son gratis. 
+- No se requiere la atribución del autor, pero se aprecia, y así se valora el trabajo del fotógrafo.
+- Las imágenes pueden editarse y modificarse libremente. 
 
 [Fuente](https://www.pexels.com/).
 
