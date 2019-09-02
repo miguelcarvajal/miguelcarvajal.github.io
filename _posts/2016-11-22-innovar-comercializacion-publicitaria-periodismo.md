@@ -3,7 +3,7 @@ title: Cómo innovan los medios para ser mejores soportes publicitarios frente a
   de Facebook y Google
 categories: [ Analisis, Innovación ]
 layout: post
-image: /assets/images/adbock.jpg
+image: /assets/images/adblock.jpg
 author:
   name: Miguel Carvajal
   twitter: mcarvajal_
