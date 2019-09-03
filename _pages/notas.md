@@ -37,6 +37,7 @@ color: bg-dark
 	<h2 class="mt-1"><a class="text-decoration-none text-dark" href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 	<p>{{ post.excerpt | strip_html | truncatewords:35 }}. <a class="text-decoration-none" href="{{ post.url | absolute_url }}">Leer más.</a></p>
 	<a class="text-decoration-none" href="{{ post.url | absolute_url }}"><p class="small text-black-50">{{ post.date | date: "%B, %Y" }}</p></a>
+<hr class="mb-3">
 {% endfor %}
 
 </div>

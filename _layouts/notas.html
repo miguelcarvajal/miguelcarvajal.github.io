@@ -13,7 +13,7 @@
 
 	<div class="nav-scroller shadow-sm mb-2" style="background-color: #fdf9f3">
 		<nav class="nav nav-underline">
-            {% for category in site.categories.Reporterhacks %}
+            {% for category in site.categories.Reporterhacks limit: 1 %}
                    	<a class="nav-link font-weight-bolder" href="{{site.baseurl}}/notas/reporterhacks/">Reporterhacks <span class="badge badge-pill bg-white align-text-bottom">{{ site.categories.Reporterhacks | size }}</span></a>
                 {% endfor %}                   	
                 {% for category in site.categories %}                        
