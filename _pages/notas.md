@@ -26,7 +26,7 @@ color: bg-dark
 </div>
 
 <div class="col-sm-8 col-lg-6 my-3">
-{% for post in site.categories.Analisis limit: 5 %}
+{% for post in site.categories.Analisis limit: 4 %}
    {% if post.image %} 
      {% if site.lazyimages == "enabled" %}
 	<img class="img-fluid rounded lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ post.image | absolute_url }}{% endif %}" alt="{{ post.title }}">
@@ -51,7 +51,7 @@ color: bg-dark
 
 <a href="{{site.baseurl}}/notas/reporterhacks"><strong class="d-inline-block mt-2 mb-1 text-primary">ReporterHacks</strong></a>
 
-{% for post in site.categories.Reporterhacks limit: 3 %}
+{% for post in site.categories.Reporterhacks limit: 5 %}
 
 <div class="card mb-4 shadow-sm">
    {% if post.image %} 
