@@ -7,7 +7,7 @@ enlace: https://medium.com/we-are-the-european-journalism-centre/four-steps-to-f
 categories: [ Analisis, Modelos de negocio ]
 image: https://miro.medium.com/max/1600/0*CUpmiN5iL2R3DJd5
 ---
-Ganar dinero con el trabajo periodístico para hacerlo sostenible. Nada más, y nada menos. Con ese objetivo em mente, el European Jornalism Centre nos recuerda estas pistas para lograrlo:
+Ganar dinero con el trabajo periodístico para hacerlo sostenible. Nada más, y nada menos. Con ese objetivo en mente, el European Jornalism Centre recuerda estas **pistas para lograrlo**:
 
 Conoce a tu **audiencia**. Si todo lo que propones está basado en asunciones sin fundamento, será difícil que puedas obtener algo a cambio. En un contexto débil para el mercado publicitario y con la saturación de suscripciones, ¿qué otros dolores tienen los clientes desatendidos? ¿Qué les pasa, quiénes son, qué necesitan? 
 

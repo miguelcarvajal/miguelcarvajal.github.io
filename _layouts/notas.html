@@ -16,7 +16,7 @@
             {% for category in site.categories.Reporterhacks limit: 1 %}
                    	<a class="nav-link font-weight-bolder" href="{{site.baseurl}}/notas/reporterhacks/">Reporterhacks <span class="badge badge-pill bg-white align-text-bottom">{{ site.categories.Reporterhacks | size }}</span></a>
                 {% endfor %}                   	
-                {% for category in site.categories %}                        
+                {% for category in site.categories offset: Lecturas %}                        
                     <a class="nav-link" href="{{site.baseurl}}/notas/archivo/#{{ category[0] | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }} <span class="badge badge-pill bg-white align-text-bottom">{{ category[1].size }}</span></a>
             {% endfor %}
 		</nav>
