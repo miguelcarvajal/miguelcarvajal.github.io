@@ -44,7 +44,17 @@
       {% endif %}
    {% endif %}
 
+   {% if page.test %} 
+<div id="quiz_container"></div>
+<script type="text/javascript">
+var quiz = jQuery('#quiz_container').quiz('{{ page.test }}');
+</script>
+    {% else %}
+
 {{ content }}
+
+      {% endif %}
+
 
 <div class="card mt-3">
               <div class="card-body">
