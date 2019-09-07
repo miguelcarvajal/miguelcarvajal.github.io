@@ -7,7 +7,7 @@ enlace: https://dircomfidencial.com/medios/vocento-amplia-su-diversificacion-por
 categories: [ Noticias, Marketing, Producto ]
 image: https://static1.lasprovincias.es/www/multimedia/201909/06/media/cortadas/vocento-kXBH-U9069686641DxE-624x385@RC.jpg
 ---
-Vocento, líder en difusión y del mercado de la prensa regional, profundiza su  estrategia de diversificación en el ámbito de la comunicación y la creación de contenidos, según informa Dicomfindencial.
+Vocento, líder en difusión y del mercado de la prensa regional, profundiza su estrategia de diversificación en el ámbito de la comunicación y la creación de contenidos, según informa Dircomfindencial.
 
 El grupo editor vasco ha adquirido Tango Comunicación Estratégica y Pro Comunicación Integral. Estas operaciones reflejan el compromiso que Vocento adquirió con sus inversores de potenciar "el área de servicios de marketing, estrategia digital y generación de contenidos, ejecución de campañas y eventos para marcas, en la que Vocento ya opera desde 2017", indican.
 
