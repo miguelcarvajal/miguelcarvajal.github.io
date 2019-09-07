@@ -1,9 +1,9 @@
 .quiz_container {
-    list-style: none;
+    list-style-type: none;
 	color: #21252E;
 }
 
-ul {
+.quiz_container, .ul {
  	padding-inline-start: 0px;
 }
 
@@ -45,14 +45,14 @@ ul {
 }
 
 .quiz_container .possible_answer {
-    list-style: none;
-	background: rgba(254, 231, 88, .2);
+    list-style-type: none;
+	background: #eaf2f9;
 	margin-left: 0 !important;
 	border-radius: 2px;
 }
 
 .quiz_container .possible_answer:hover {
-	background: rgba(254, 231, 88, 1);
+	background: #96c8f5;
 	cursor: pointer;
 	color: #000;
 }
@@ -60,7 +60,7 @@ ul {
 /*more styling for answers*/
 
 .quiz_container .revealed_answer p {
-    list-style: none;
+    list-style-type: none;
 	padding: 0 1em;
 }
 
@@ -77,14 +77,14 @@ ul {
 	background: #62DA97;
 	opacity: .5;
 	cursor: pointer;
-	list-style: none;
+	list-style-type: none;
 }
 
 .quiz_container .wrong_answer {
 	background: #FF8362;	
 	opacity: .5;
 	cursor: pointer;
-	list-style: none;
+	list-style-type: none;
 }
 
 .quiz_container .selected {
