@@ -1,13 +1,13 @@
 ---
 layout: post
 name: "Byers Market"
-title: "Facebook negocia ya con 40 medios contratos millonarios por usar su contenido en la pestaña de noticias"
+title: "Facebook negocia con 40 medios contratos millonarios por usar su contenido en la pestaña de noticias"
 date: 2019-09-06 23:43
 enlace: https://link.nbcnews.com/view/5bce135891d15c20e738dc05apb2d.3ty/e094a132
 categories: [ Noticias, Modelos de negocio, Plataformas ]
 image: https://sailthru-media.s3.amazonaws.com/composer/images/sailthru-prod-5cj/GettyImages-962171226.jpg
 ---
-Esta semana han comenzado las negociaciones de Facebook con 40 medios (EEUU) para incluir su contenido en la nueva pestaña de noticias de la plataforma (_News Tab_). Según se desprende del informe en la newsletter de **Dylan Byers**, la oferta ha sido recibida con entusiasmo por diarios pequeños o medianos; algunos han firmado ya.
+Esta semana han salido a la luz las negociaciones de Facebook con 40 medios (EEUU) para incluir su contenido en la nueva pestaña de noticias de la plataforma (_News Tab_). Según se desprende del informe en la newsletter de **Dylan Byers**, la oferta ha sido recibida con entusiasmo por diarios pequeños o medianos; algunos han firmado ya.
 
 Los contratos entre la tecnológica y los medios durarían 3 años. FB les pagaría cerca de 2.5 millones al año por tener la licencia de su contenido. ¿Dinero gratis? La plataforma no les pide que gasten ni un dolar en producir; es más, les paga por distribuir a su antojo lo que ya producen. "100% margen de beneficios", indica Byers.
 

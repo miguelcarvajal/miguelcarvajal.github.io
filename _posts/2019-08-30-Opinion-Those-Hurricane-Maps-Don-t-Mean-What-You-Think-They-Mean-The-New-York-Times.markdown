@@ -3,7 +3,7 @@ layout: post
 title: "Alberto Cairo examina los mapas de los huracanes en The New York Times"
 date: 2019-08-30 10:50
 enlace: https://www.nytimes.com/interactive/2019/08/29/opinion/hurricane-dorian-forecast-map.html
-categories: [ Noticias, Infografía ]
+categories: [ Noticias, Producto ]
 tags: []
 image: assets/images/ezgif.com-video-to-gif.gif
 ---

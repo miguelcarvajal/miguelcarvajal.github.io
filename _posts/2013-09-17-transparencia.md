@@ -1,6 +1,6 @@
 ---
 title: Ser transparente es más importante que ser independiente
-categories: [ Lecturas, Ética ]
+categories: [ Lecturas, Producto ]
 layout: post
 link: http://bit.ly/14eKJhS
 ---
