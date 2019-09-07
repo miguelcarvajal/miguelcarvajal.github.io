@@ -44,10 +44,10 @@
       {% endif %}
    {% endif %}
 
-   {% if page.test %} 
+   {% if page.categories contains 'Test' %}
 <div id="quiz_container"></div>
 <script type="text/javascript">
-var quiz = jQuery('#quiz_container').quiz('{{ page.test }}');
+var quiz = jQuery('#quiz_container').quiz('{{ page.enlace }}');
 </script>
     {% else %}
 
