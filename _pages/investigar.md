@@ -146,4 +146,4 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 - 2012 - (actualidad) MIEMBRO de comité científico de la revista polaca NAUKOWY PRZEGLAD DZIENNIKARSKI. 
 - 2018 - PONENTE en la Comisión de la Promoción Cultural del Consell Valenciá de Cultura para la elaboración del "Informe sobre la prensa valenciana".
 
-**He evaluado artículos científicos en revistas indexadas**, como Comunicación y Sociedad (SCOPUS), Revista Latina (Scopus), Sphera (Latindex) y Revista Mediterránea (Latindex).
+**He evaluado artículos científicos en revistas indexadas**, como Comunicación y Sociedad (SCOPUS), Revista Latina (Scopus), Sphera (Latindex), Revista Mediterránea (Latindex), CUADERNOS.INFO, Journalism Practice (JCR), y Revista de Comunicación.

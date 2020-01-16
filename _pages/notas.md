@@ -1,8 +1,8 @@
 ---
-title: Notas
-permalink: /notas/
-layout: notas
-color: bg-dark
+#title: Notas
+#permalink: /notas/
+#layout: notas
+#color: bg-dark
 ---
 <div class="row">
 <div class="col-sm-4 col-lg-3 my-2">
