@@ -14,16 +14,16 @@ color: bg-dark
 
 * * *
 
-A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y presentar los siguientes resultados:
+A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y uno de transferencia (2013-2018), y presentar los siguientes resultados:
 
-- Más de **40** publicaciones científicas
-  - **19** artículos de revistas indexadas
-      - **11** en revistas situadas en los niveles 1 y 2 **(JCR y SJR)** 
+- Más de **50** publicaciones científicas
+  - **23** artículos de revistas indexadas
+      - **18** en revistas situadas en los niveles 1 y 2 **(JCR y SJR)** 
       - **5** en niveles 3 y 4 **(SJR, Latindex, CIRCE)**
-  - **26** publicaciones en libros o capítulos
+  - **28** publicaciones en libros o capítulos
       - **8** en editoriales recogidas en **Scholarly Publishers Indicators (SPI)**  
 
-**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (11) en Google Académico, con un total de 857 citas y un índice H en SCOPUS (5) de un total de 9 publicaciones con 164 citas desde 2009 a 2019. De las 40 publicaciones, 19 son artículos de revistas de referencia: 11 en los "niveles 1 y 2" y 5 en "niveles 3 y 4". 
+**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (13) en Google Académico, con un total de 1249 citas recibidas y un índice H en SCOPUS (7) de un total de 16 publicaciones con 290 citas desde 2009 a 2021. De las 50 publicaciones, 23 son artículos de revistas de referencia: 18 en los "niveles 1 y 2" y 5 en "niveles 3 y 4". 
 
 **Además, he presentado comunicaciones a 23 congresos** (13 nacionales y 10 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional (4) y europeo (2). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
 
@@ -33,10 +33,10 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 * * *
 
-### Artículos en revistas científicas indexadas (21) 
+### Artículos en revistas científicas indexadas (23) 
 
 {% for articulos in site.data.articulos %}
-{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [DOI ↗️]({{ articulos.doi }}){:target="_blank"}.
+{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
 {% endfor %}
 
 
