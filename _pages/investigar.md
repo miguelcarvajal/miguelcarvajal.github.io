@@ -16,16 +16,18 @@ color: bg-dark
 
 A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y uno de transferencia (2013-2018), y presentar los siguientes resultados:
 
-- Más de **50** publicaciones científicas
-  - **23** artículos de revistas indexadas
-      - **18** en revistas situadas en los niveles 1 y 2 **(JCR y SJR)** 
-      - **5** en niveles 3 y 4 **(SJR, Latindex, CIRCE)**
-  - **28** publicaciones en libros o capítulos
-      - **8** en editoriales recogidas en **Scholarly Publishers Indicators (SPI)**  
+- Más de **63** publicaciones científicas
+  - **31** artículos de revistas indexadas
+      - **25** en revistas situadas en los niveles 1 y 2 **(JCR y SJR)** 
+      - **6** en niveles 3 y 4 **(SJR, Latindex, CIRCE)**
+  - **32** publicaciones en libros o capítulos
+      - **14** en editoriales recogidas en **Scholarly Publishers Indicators (SPI)**  
 
-**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (13) en Google Académico, con un total de 1249 citas recibidas y un índice H en SCOPUS (7) de un total de 16 publicaciones con 290 citas desde 2009 a 2021. De las 50 publicaciones, 23 son artículos de revistas de referencia: 18 en los "niveles 1 y 2" y 5 en "niveles 3 y 4". 
+**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (16) en Google Académico, con un total de 1613 citas. En Clarivate presento un índice H en WOS de 7 de un total de 23 publicaciones con 227 citas desde 2008 a 2023. En Scopus, tengo indexados 19 publicaciones, con un índice H de 8. 
 
-**Además, he presentado comunicaciones a 23 congresos** (13 nacionales y 10 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional (4) y europeo (2). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
+**Además, he presentado comunicaciones a 28 congresos** (5 nacionales y 23 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 9 han sido en concurrencia competitiva en instituciones de ámbito nacional (5) y europeo (4). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
+
+**Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH.
 
 Aparte, soy miembro de la **Red de Excelencia del Ciberperiodismo**, evaluador de ANEP y pertenezco a la Asociación Española de Investigación en la Comunicación (AE-IC) y a la Association for Education in Journalism and Mass Communication (AEJMC).
 
@@ -33,10 +35,10 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 * * *
 
-### Artículos en revistas científicas indexadas (23) 
+### Artículos en revistas científicas indexadas (31) 
 
 {% for articulos in site.data.articulos %}
-{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
+{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, DOI: [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
 {% endfor %}
 
 
@@ -64,7 +66,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {% endfor %}
 </ol>
 
-### Comunicaciones en congresos científicos (25)
+### Comunicaciones en congresos científicos (28)
 
 <ol>
 {% for congresos in site.data.congresos %}
@@ -74,7 +76,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {% endfor %}
 </ol>
 
-### Conferencias y seminarios impartidas (9)
+### Conferencias y ponencias impartidos (13)
 
 <ol>
 {% for seminarios in site.data.seminarios %}
@@ -95,9 +97,9 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 - **2015 - ASISTENCIA** al "II Seminario de Periodismo Emprendedor", organizado por la FAPE. 
 - **2016 - ASISTENCIA** en calidad de ponente a la actividad de trabajo del Proyecto MAPCOM en la Universitat Pompeu Fabra.
 
-### Proyectos (9)
+### Proyectos (11)
 
-**Participación en proyectos de investigación competitivos del Plan Nacional I+D+i o similar**. He participado en 9 proyectos de investigación, de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional y/o europeo correspondientes al Plan Nacional de I+D+i (4) o similar a nivel europeo (2). 
+**Participación en proyectos de investigación competitivos del Plan Nacional I+D+i o similar**. He participado en 9 proyectos de investigación, de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional y/o europeo correspondientes al Plan Nacional de I+D+i (5) o similar a nivel europeo (4). 
 
 <ol>
 {% for proyectos in site.data.proyectos %}
@@ -138,7 +140,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 - 2016 - Premio UMH 2016 a la Productividad Investigadora.
 - 2018 - Premio UMH 2018 a la Productividad Investigadora. 
 
-**He sido miembro evaluador de 13 tribunales de Tesis Doctorales**. He participado además en los siguientes comités y tribunales científicos. 
+**He sido miembro evaluador de 16 tribunales de Tesis Doctorales**. He participado además en los siguientes comités y tribunales científicos. 
 
 - 2017 - (actualidad) MIEMBRO del Banco de Expertos de la AGENCIA ESTATAL DE INVESTIGACIÓN. 
 - 2009 - (actualidad) MIEMBRO del GICOV (Grupo de Investigación de la Comunicación en la Universidad Miguel Hernández).
