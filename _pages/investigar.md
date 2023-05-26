@@ -38,7 +38,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 ### Artículos en revistas científicas indexadas (31) 
 
 {% for articulos in site.data.articulos %}
-{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, DOI: [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
+{{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
 {% endfor %}
 
 

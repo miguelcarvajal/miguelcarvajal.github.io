@@ -7,12 +7,6 @@
      font-size: 1.05rem;
  }
 
-a {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    word-break: break-all; /* This line helps break the link into multiple lines on iOS */
-}
-
 .article-post img {
     max-width: 100%;
     height: auto;

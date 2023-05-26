@@ -6,6 +6,11 @@ body {
   min-height: 75rem;
 }
 
+a {
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'PT Serif', serif;
   font-weight: 700;
