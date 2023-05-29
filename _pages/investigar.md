@@ -44,7 +44,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporterismo", Naukowy Przegląd Dziennikarski / Journalism Research Review Quarterly, pp. 101-110. 
 
-### Libros (6) y capítulos de libros (20)
+### Libros (6) y capítulos de libros (26)
 
 {% for libros in site.data.libros %}
 {{ libros.autores }} (**{{ libros.ano }}**). _{{ libros.titulo }}_, publicado en editorial {{ libros.editorial }}, {{ libros.ciudad }}, {{ libros.paginas }} páginas, ISBN: {{ libros.ISBN }}, SPI: {{ libros.SPI }}.
