@@ -27,7 +27,7 @@ A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la tra
 
 **Además, he presentado comunicaciones a 28 congresos** (5 nacionales y 23 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 9 han sido en concurrencia competitiva en instituciones de ámbito nacional (5) y europeo (4). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
 
-**Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH.
+**Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH. Co-dirijo el proyecto de investigación "Novacult" (PID 2022), financiado por el Ministerio de Ciencia e Innovación.
 
 Aparte, soy miembro de la **Red de Excelencia del Ciberperiodismo**, evaluador de ANEP y pertenezco a la Asociación Española de Investigación en la Comunicación (AE-IC) y a la Association for Education in Journalism and Mass Communication (AEJMC).
 

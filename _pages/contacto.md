@@ -7,6 +7,7 @@ color: bg-dark
 #### Miguel Carvajal
 - Profesor Titular, Departamento de Ciencias Sociales y Humanas, en la Universidad Miguel Hernández
 - Director del Máster en Innovación en Periodismo
+- Director del [GICOV](https://www.umh.es/contenido/Universidad/:uor_1006_47/datos_es.html)
 
 #### Áreas de conocimiento
 - Economía de los medios y empresa informativa
