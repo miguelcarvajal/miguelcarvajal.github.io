@@ -46,7 +46,7 @@ jobs:
         spreadsheet = client.open_by_key(spreadsheet_id)
         
         # Lista de nombres de las hojas
-        sheet_names = ["articulos", "art_no_index", "libros", "capitulos", "proyectos", "congresos", "peer_review", "comites", "seminarios", "estancias", "docencia", "metricas"]
+        sheet_names = ["articulos", "art_no_index", "libros", "capitulos", "proyectos", "congresos", "peer_review", "comites", "seminarios", "prensa", "docencia", "metricas"]
         
         # Carpeta donde se guardarán los CSVs
         output_folder = "_data"
