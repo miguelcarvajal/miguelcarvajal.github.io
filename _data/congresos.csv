@@ -1,4 +1,5 @@
-fecha,clave,autor,paper,docu,titulo,sede,ciudad,docu
+fecha,clave,autor,paper,docu,titulo,sede,ciudad,docu_1
+2023,Comunicación,"CARVAJAL, Miguel; KALTENBRUNNER, Andy; LUGISTZ, Renée; VALERO, José María ",,,"European Media Management Association 2023 ""Perspectives on Media Trust""",Universidad de Navarra,Pamplona (España),
 2022,Comunicación,"ARIAS, Félix; DE LARA, Alicia; GARCÍA-AVILÉS, José-Alberto; MONDÉJAR, Dámaso; VALERO, José María; CARVAJAL, Miguel",La relación entre tecnología e innovación en el periodismo: el caso de España,Investigacion_Congresos_Comunicacion_2022_SEP_Valencia.pdf,"XXVIII Congreso Internacional de la SEP ""Desinformación y desórdenes informativos""",Universidad de Valencia,Valencia (España),
 2021,Comunicación,"GARCÍA-AVILÉS, José-Alberto; ARIAS, Félix; DE LARA, Alicia; CARVAJAL, Miguel; VALERO, José María; MONDÉJAR, Dámaso",How Covid-19 is revamping journalism: newsroom practices and innovations in the Spanish media,Investigacion_Congresos_Comunicacion_2021_FoJC.pdf,Future of Journalism Conference,Cardiff University,"Cardiff (Gales, RU)",
 2021,Comunicación,"CARVAJAL, Miguel; DE LARA, Alicia; MONDÉJAR, Dámaso; GARCÍA-AVILÉS, José-Alberto; ARIAS, Félix; VALERO, José María",Las innovaciones periodísticas más relevantes (2010-2020): valor aportado e impacto en la industria mediática española,Investigacion_Congresos_Comunicacion_2021_SEP_Sevilla.pdf,"XXVII Congreso Internacional de la SEP ""Digital Transformation!""",Universidad de Sevilla,Sevilla (España),
@@ -27,3 +28,8 @@ fecha,clave,autor,paper,docu,titulo,sede,ciudad,docu
 2007,Comunicación,"CARVAJAL, Miguel; GARCÍA AVILÉS, José Alberto",From newspapers to multimedia groups: business growth strategies of the regional press in Spain,Investigacion_Congresos_Comunicacion_2007_FoJC.pdf,Future of newspapers,Cardiff University,"Cardiff (Gales, RU)",
 2006,Comunicación,"CARVAJAL, Miguel",La prensa tradicional y sus retos,Investigacion_Congresos_Comunicacion_2006_NuevoPer.pdf,I Congreso Internacional de Nuevo Periodismo,"Valencia, CEU",Valencia (España),
 2001,Comunicación,"CARVAJAL, Miguel",Globalización en la industria cinematográfica,Investigación_Congresos_Comunicacion_2001_Univ.pdf,XXXIV Congreso Internacional UNIV,Unversidad de Navarra,Pamplona (España),
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,Nacionales,,,Nacionales,16,,
+,,Internacionales,,,Internacionales,16,,
