@@ -19,13 +19,16 @@ jobs:
 
     - name: Install dependencies
       run: |
+        python -m venv venv
+        source venv/bin/activate
         python -m pip install --upgrade pip
         pip install gspread pandas oauth2client
-
+        
     - name: Download CSVs from Google Sheets
       env:
         GCP_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
       run: |
+        source venv/bin/activate
         import json
         import gspread
         from oauth2client.service_account import ServiceAccountCredentials
@@ -53,12 +56,13 @@ jobs:
 
         # Descargar cada hoja como CSV
         for sheet_name in sheet_names:
-            sheet = spreadsheet.worksheet(sheet_name)
-            data = sheet.get_all_records()
-            df = pd.DataFrame(data)
-            csv_path = os.path.join(output_folder, f"{sheet_name}.csv")
-            print(f"Saving to {csv_path}")
-            df.to_csv(csv_path, index=False)
+          print(f"Processing sheet: {sheet_name}")
+          sheet = spreadsheet.worksheet(sheet_name)
+          data = sheet.get_all_records()
+          df = pd.DataFrame(data)
+          csv_path = os.path.join(output_folder, f"{sheet_name}.csv")
+          print(f"Saving to {csv_path}")
+          df.to_csv(csv_path, index=False)
 
     - name: Commit and push changes
       run: |
