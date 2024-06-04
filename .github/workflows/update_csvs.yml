@@ -20,7 +20,7 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install gspread pandas gspread-dataframe
+        pip install gspread pandas oauth2client
 
     - name: Download CSVs from Google Sheets
       env:
