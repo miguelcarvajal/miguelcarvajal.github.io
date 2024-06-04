@@ -16,21 +16,27 @@ color: bg-dark
 
 **Soy Profesor Titular en la Universidad Miguel Hernández (UMH)**, donde imparto las asignaturas "Proyectos Periodísticos Especializados" y “Media Structure” y dirijo el Máster Universitario en Innovación en Periodismo. Previamente, he sido vicedecano de Proyección del Grado en Periodismo UMH (2015-2019), profesor en la Universidad Católica de Murcia (2005-2006) y ayudante en la Universidad de Navarra (2000-2005).
 
-En 2018 y 2020, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013 y 2013-2017 en el Programa Docentia UMH (Evaluado por ANECA).
+En 2018, 2020 y 2022, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013 y 2013-2017 en el Programa Docentia UMH (Evaluado por ANECA).
 
 ### Asignaturas impartidas
+
+**Profesor de asignaturas del Doble Grado** en Periodismo y Comunicación Audiovisual de la Universidad Miguel Hernández: 
+- 2021-actualidad. Proyectos Periodísticos Especializados I (6 ECTS).
+- 2021-actualidad. Proyectos Periodísticos Especializados II (6 ECTS).
 
 **Profesor responsable de asignaturas del Máster** Universitario en Innovación en Periodismo de la Universidad Miguel Hernández:
 - 2013-actualidad. Nuevos Modelos de Negocio (4,5 ECTS) 
 - 2013-actualidad. Ideación y planificación de Proyectos Periodísticos (6 ECTS)
-- 2013-actualidad. Desarrollo y lanzamiento de proyectos periodísticos  (6 ECTS)
 - 2013-actualidad. Prácticas Externas (8 ECTS)
 - 2013-actualidad. Trabajo Fin de Máster (10 ECTS) 
+- 2013-2023. Desarrollo y lanzamiento de proyectos periodísticos  (6 ECTS)
 
 **Profesor de asignaturas del Grado** en Periodismo de la Universidad Miguel Hernández: 
 - 2013-2019. Redacción Periodística (6 ECTS)
 - 2011-2019. Lenguaje y Técnicas de Periodismo Impreso, (6 ECTS)
-- 2011-actualidad. Estructura del Periodismo (6 ECTS),
+- 2011-actualidad. Estructura del Periodismo (6 ECTS).
+- 2019-actualidad. Proyectos Periodísticos Especializados I (6 ECTS).
+- 2019-actualidad. Proyectos Periodísticos Especializados II (6 ECTS).
 
 **Profesor de asignaturas de Licenciatura** en Periodismo de la Universidad Miguel Hernández:
 - 2008-2011. Lenguaje y Técnicas de Periodismo Escrito (8 ECTS)
@@ -45,9 +51,11 @@ En 2018 y 2020, recibí el _Premio al Talento Docente_ de la Universidad Miguel 
 
 **Docencia impartida en el programa de Doctorado** de Nuevos Modelos Periodísticos durante los cursos 2011-2013. 
 
+**Miembro del claustro de profesores del programa de Doctorado** en Ciencias Sociales y Jurídicas desde 2017. 
+
 ### Dirección de tesis doctorales, TFM Y TFG
 
-**He dirigido un total de 37 TFMs** en el Máster Universitario en Innovación en Periodismo, título oficial de la UMH. También he tutelado **13 Trabajos Fin de Grado** en el Grado en Periodismo de la misma universidad, tres de ellos evaluados con Matrícula de Honor. Actualmente, **co-dirijo tres tesis doctorales** dentro del Programa de Doctorado en Ciencias Sociales y Jurídicas. 
+**He dirigido un total de 37 TFMs** en el Máster Universitario en Innovación en Periodismo, título oficial de la UMH. También he tutelado **13 Trabajos Fin de Grado** en el Grado en Periodismo de la misma universidad, tres de ellos evaluados con Matrícula de Honor. He dirigido  **dos tesis doctorales** dentro del Programa de Doctorado en Ciencias Sociales y Jurídicas, y actualmente co-dirijo una más. 
 
 ### Otros méritos docentes
 **He sido ponente en la Doctoral Summer School** de la Red de Excelencia en Periodismo Digital y Convergencia Mediática (2018 y 2019).
