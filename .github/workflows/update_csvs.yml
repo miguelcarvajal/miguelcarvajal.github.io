@@ -28,8 +28,7 @@ jobs:
       env:
         GCP_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
       run: |
-        source venv/bin/activate
-        python <<EOF
+        echo "
         import json
         import gspread
         from oauth2client.service_account import ServiceAccountCredentials
@@ -64,7 +63,15 @@ jobs:
           csv_path = os.path.join(output_folder, f"{sheet_name}.csv")
           print(f"Saving to {csv_path}")
           df.to_csv(csv_path, index=False)
-          EOF
+          " > update_sheets.py
+    
+    - name: Run Python script
+      env:
+        GCP_CREDENTIALS: ${{ secrets.GCP_CREDENTIALS }}
+      run: |
+        source venv/bin/activate
+        python update_sheets.py
+        
     - name: Commit and push changes
       run: |
         git config --global user.name 'github-actions'
