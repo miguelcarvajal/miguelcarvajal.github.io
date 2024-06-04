@@ -56,7 +56,9 @@ jobs:
             sheet = spreadsheet.worksheet(sheet_name)
             data = sheet.get_all_records()
             df = pd.DataFrame(data)
-            df.to_csv(os.path.join(output_folder, f"{sheet_name}.csv"), index=False)
+            csv_path = os.path.join(output_folder, f"{sheet_name}.csv")
+            print(f"Saving to {csv_path}")
+            df.to_csv(csv_path, index=False)
 
     - name: Commit and push changes
       run: |
