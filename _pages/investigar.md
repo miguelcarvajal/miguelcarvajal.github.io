@@ -16,16 +16,14 @@ color: bg-dark
 
 A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y uno de transferencia (2013-2018), y presentar los siguientes resultados:
 
-- Más de **63** publicaciones científicas
-  - **31** artículos de revistas indexadas
-      - **25** en revistas situadas en los niveles 1 y 2 **(JCR y SJR)** 
-      - **6** en niveles 3 y 4 **(SJR, Latindex, CIRCE)**
+- Más de **64** publicaciones científicas
+  - **27** artículos de revistas indexadas en los niveles 1 y 2 **(JCR, SJR y Latindex)** 
   - **32** publicaciones en libros o capítulos
       - **14** en editoriales recogidas en **Scholarly Publishers Indicators (SPI)**  
 
-**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (16) en Google Académico, con un total de 1613 citas. En Clarivate presento un índice H en WOS de 7 de un total de 23 publicaciones con 227 citas desde 2008 a 2023. En Scopus, tengo indexados 19 publicaciones, con un índice H de 8. 
+**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H (16) en Google Académico, con un total de {% for metricas in site.data.metricas %}{{ metricas.scholarCitations }}{% endfor %} citas. En la Web of Science presento un índice H de {% for metricas in site.data.metricas %}{{ metricas.wosHIndex }}{% endfor %} de un total de {% for metricas in site.data.metricas %}{{ metricas.wosDocuments }}{% endfor %} publicaciones con {% for metricas in site.data.metricas %}{{ metricas.wosCitations }}{% endfor %} citas desde 2008 a {{ "now" | date: "%Y" }}. En Scopus, tengo indexados {% for metricas in site.data.metricas %}{{ metricas.scopusDocuments }}{% endfor %} publicaciones, con un índice H de {% for metricas in site.data.metricas %}{{ metricas.scopusHIndex }}{% endfor %}. 
 
-**Además, he presentado comunicaciones a 28 congresos** (5 nacionales y 23 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 9 han sido en concurrencia competitiva en instituciones de ámbito nacional (5) y europeo (4). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
+**Además, he presentado comunicaciones a {{ site.data.congresos | size }} congresos** (5 nacionales y 23 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 11 han sido en concurrencia competitiva en instituciones de ámbito nacional (6) y europeo (5). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
 
 **Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH. Co-dirijo el proyecto de investigación "Novacult" (PID 2022), financiado por el Ministerio de Ciencia e Innovación.
 
@@ -35,16 +33,21 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 * * *
 
-### Artículos en revistas científicas indexadas (31) 
+### Artículos en revistas científicas indexadas ({{ site.data.articulos | size }}) 
 
 {% for articulos in site.data.articulos %}
 {{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
 {% endfor %}
 
 
-CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporterismo", Naukowy Przegląd Dziennikarski / Journalism Research Review Quarterly, pp. 101-110. 
 
-### Libros (6) y capítulos de libros (26)
+### Artículos en revistas no indexadas ({{ site.data.art_no_index | size }})
+
+{% for art_no_index in site.data.art_no_index %}
+{{ art_no_index.autores }} (**{{ art_no_index.ano }}**). "{{ art_no_index.titulo }}", _{{ art_no_index.revista }}_, {{ art_no_index.volumen }}, pp. {{ art_no_index.desde }}-{{ art_no_index.hasta }}, [{{ art_no_index.doi }}]({{ art_no_index.doi }}){:target="_blank"}.
+{% endfor %}
+
+### Libros ({{ site.data.libros | size }}) y capítulos de libros ({{ site.data.capitulos | size }})
 
 {% for libros in site.data.libros %}
 {{ libros.autores }} (**{{ libros.ano }}**). _{{ libros.titulo }}_, publicado en editorial {{ libros.editorial }}, {{ libros.ciudad }}, {{ libros.paginas }} páginas, ISBN: {{ libros.ISBN }}, SPI: {{ libros.SPI }}.
@@ -56,7 +59,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {{ capitulos.autores }} (**{{ capitulos.ano }}**). En _{{ capitulos.titulo }}_, publicado en editorial {{ capitulos.editorial }}, pp. {{ capitulos.paginas }}, ISBN: {{ capitulos.ISBN }}, SPI: {{ capitulos.SPI }}.
 {% endfor %}
 
-### Miembro de comités científicos de congresos (14)
+### Miembro de comités científicos de congresos ({{ site.data.comites | size }}) 
 
 <ol>
 {% for comites in site.data.comites %}
@@ -66,7 +69,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {% endfor %}
 </ol>
 
-### Comunicaciones en congresos científicos (28)
+### Comunicaciones en congresos científicos ({{ site.data.congresos | size }}) 
 
 <ol>
 {% for congresos in site.data.congresos %}
@@ -76,7 +79,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 {% endfor %}
 </ol>
 
-### Conferencias y ponencias impartidos (13)
+### Conferencias y ponencias impartidos ({{ site.data.seminarios | size }}) 
 
 <ol>
 {% for seminarios in site.data.seminarios %}
@@ -97,7 +100,7 @@ CARVAJAL, Miguel (**2012**). "Nuevos modelos de financiación para el reporteri
 - **2015 - ASISTENCIA** al "II Seminario de Periodismo Emprendedor", organizado por la FAPE. 
 - **2016 - ASISTENCIA** en calidad de ponente a la actividad de trabajo del Proyecto MAPCOM en la Universitat Pompeu Fabra.
 
-### Proyectos (11)
+### Proyectos ({{ site.data.proyectos | size }}) 
 
 **Participación en proyectos de investigación competitivos del Plan Nacional I+D+i o similar**. He participado en 9 proyectos de investigación, de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional y/o europeo correspondientes al Plan Nacional de I+D+i (5) o similar a nivel europeo (4). 
 
