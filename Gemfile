@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.0"
+gem "jekyll", "~> 4.2.0"
 gem "font-awesome-sass", "~> 6.2.1"
-gem "wdm", "~> 0.1.1", :platforms => [:mswin, :mingw, :x64_mingw]
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12.1"
