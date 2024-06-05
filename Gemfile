@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 4.0"
 gem "font-awesome-sass", "~> 6.2.1"
 gem "wdm", "~> 0.1.1", :platforms => [:mswin, :mingw, :x64_mingw]
 
