@@ -1,4 +1,4 @@
-name: Update CSVs from Google Sheets
+name: Update CSVs and Build Site
 
 on:
   schedule:
