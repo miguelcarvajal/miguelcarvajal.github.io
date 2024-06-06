@@ -100,7 +100,11 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add _data/*.csv
-        git commit -m "Update CSVs from Google Sheets"
-        git push
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "Update CSVs from Google Sheets"
+          git push
+        fi
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
