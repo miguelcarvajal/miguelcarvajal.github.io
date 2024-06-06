@@ -2,6 +2,11 @@
 _gh_pages
 _site
 .ruby-version
+.bundle
+.sass-cache
+Gemfile.lock
+_site
+*.gem
 
 # Numerous always-ignore extensions
 *.diff

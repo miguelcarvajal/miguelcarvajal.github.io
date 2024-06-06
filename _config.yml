@@ -58,13 +58,5 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 
-exclude:
-- ".sass-cache"
-- ".netlify"
-- vendor/
-- Gemfile
-- Gemfile.lock
-- README.md
-
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
