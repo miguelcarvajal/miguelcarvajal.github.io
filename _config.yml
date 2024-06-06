@@ -34,14 +34,6 @@ include:
 
 permalink: notas/:year/:month/:day/:title:output_ext
 
-# Archives
-jekyll-archives:
-  enabled:
-    - categories
-  layout: archive
-  permalinks:
-    category: '/category/:name/'
-
 # Compression
 sass:
   sass_dir: _sass
@@ -51,12 +43,10 @@ sass:
 host: localhost
 
 # Plugins 
-plugins:
-- jekyll-feed
-- jekyll-paginate
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
+plugins: [jekyll-paginate]
+permalink:     pretty
+paginate_path: 'page:num'
+paginate: 10
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
