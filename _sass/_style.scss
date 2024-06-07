@@ -229,3 +229,56 @@ code {
   opacity: 0;
   transition: opacity .25s;
 }
+
+/* assets/css/style.css */
+.kg-card {
+  border: 1px solid #e1e4e8;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(27, 31, 35, 0.1);
+  display: flex;
+  margin: 20px 0;
+  overflow: hidden;
+}
+
+.kg-bookmark-container {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+}
+
+.kg-bookmark-content {
+  padding: 16px;
+}
+
+.kg-bookmark-title {
+  font-size: 1.25em;
+  margin-bottom: 8px;
+}
+
+.kg-bookmark-description {
+  font-size: 0.9em;
+  margin-bottom: 16px;
+}
+
+.kg-bookmark-metadata {
+  display: flex;
+  align-items: center;
+  font-size: 0.8em;
+}
+
+.kg-bookmark-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 8px;
+}
+
+.kg-bookmark-thumbnail {
+  flex-shrink: 0;
+  width: 150px;
+}
+
+.kg-bookmark-thumbnail img {
+  width: 100%;
+  height: auto;
+}
