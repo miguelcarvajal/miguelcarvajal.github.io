@@ -35,6 +35,7 @@ jobs:
         from oauth2client.service_account import ServiceAccountCredentials
         import pandas as pd
         import os
+        import difflib
         
         # Autenticación con la API de Google Sheets
         scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -56,6 +57,7 @@ jobs:
             os.makedirs(output_folder)
         
         # Descargar cada hoja como CSV
+        changes_detected = False
         for sheet_name in sheet_names:
             print(f"Processing sheet: {sheet_name}")
             sheet = spreadsheet.worksheet(sheet_name)
@@ -82,10 +84,29 @@ jobs:
             # Convertir a DataFrame
             df = pd.DataFrame(rows[1:], columns=headers)
             
-            # Guardar como CSV
+            # Guardar como CSV temporalmente
+            temp_csv_path = os.path.join(output_folder, f"{sheet_name}_temp.csv")
             csv_path = os.path.join(output_folder, f"{sheet_name}.csv")
-            print(f"Saving to {csv_path}")
-            df.to_csv(csv_path, index=False)
+            df.to_csv(temp_csv_path, index=False)
+            
+            # Comprobar diferencias con el archivo existente
+            if os.path.exists(csv_path):
+                with open(csv_path, 'r') as f1, open(temp_csv_path, 'r') as f2:
+                    diff = list(difflib.unified_diff(f1.readlines(), f2.readlines()))
+                    if diff:
+                        print(f"Changes detected in {sheet_name}.csv")
+                        os.replace(temp_csv_path, csv_path)
+                        changes_detected = True
+                    else:
+                        print(f"No changes in {sheet_name}.csv")
+                        os.remove(temp_csv_path)
+            else:
+                print(f"New file {sheet_name}.csv created")
+                os.replace(temp_csv_path, csv_path)
+                changes_detected = True
+        
+        if not changes_detected:
+            print("No changes detected in any CSV")
         ' > update_sheets.py
 
     - name: Run Python script
@@ -100,6 +121,7 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add _data/*.csv
+        git status # Añadido para depuración
         if git diff --quiet; then
           echo "No changes to commit"
         else
