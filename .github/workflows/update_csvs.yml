@@ -91,7 +91,7 @@ jobs:
             
             # Comprobar diferencias con el archivo existente
             if os.path.exists(csv_path):
-                with open(csv_path, 'r') as f1, open(temp_csv_path, 'r') as f2:
+                with open(csv_path, "r") as f1, open(temp_csv_path, "r") as f2:
                     diff = list(difflib.unified_diff(f1.readlines(), f2.readlines()))
                     if diff:
                         print(f"Changes detected in {sheet_name}.csv")
