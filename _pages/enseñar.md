@@ -16,7 +16,7 @@ color: bg-dark
 
 **Soy Profesor Titular en la Universidad Miguel Hernández (UMH)**, donde imparto las asignaturas "Proyectos Periodísticos Especializados" y “Media Structure” y dirijo el Máster Universitario en Innovación en Periodismo. Previamente, he sido vicedecano de Proyección del Grado en Periodismo UMH (2015-2019), profesor en la Universidad Católica de Murcia (2005-2006) y ayudante en la Universidad de Navarra (2000-2005).
 
-En 2018, 2020 y 2022, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013 y 2013-2017 en el Programa Docentia UMH (Evaluado por ANECA).
+En 2018, 2020, 2022 y 2024, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013, 2013-2017, en el Programa Docentia UMH (Evaluado por ANECA).
 
 ### Asignaturas impartidas
 
@@ -55,7 +55,7 @@ En 2018, 2020 y 2022, recibí el _Premio al Talento Docente_ de la Universidad M
 
 ### Dirección de tesis doctorales, TFM Y TFG
 
-**He dirigido un total de 37 TFMs** en el Máster Universitario en Innovación en Periodismo, título oficial de la UMH. También he tutelado **13 Trabajos Fin de Grado** en el Grado en Periodismo de la misma universidad, tres de ellos evaluados con Matrícula de Honor. He dirigido  **dos tesis doctorales** dentro del Programa de Doctorado en Ciencias Sociales y Jurídicas, y actualmente co-dirijo una más. 
+**He dirigido un total de {% for docencia in site.data.docencia %}{{ docencia.tfms }}{% endfor %} TFMs** en el Máster Universitario en Innovación en Periodismo, título oficial de la UMH. También he tutelado **{% for docencia in site.data.docencia %}{{ docencia.tfgs }}{% endfor %} Trabajos Fin de Grado** en el Grado en Periodismo de la misma universidad, tres de ellos evaluados con Matrícula de Honor. He dirigido  **dos tesis doctorales** dentro del Programa de Doctorado en Ciencias Sociales y Jurídicas, y actualmente co-dirijo una más. 
 
 ### Otros méritos docentes
 **He sido ponente en la Doctoral Summer School** de la Red de Excelencia en Periodismo Digital y Convergencia Mediática (2018 y 2019).
@@ -71,7 +71,7 @@ En 2018, 2020 y 2022, recibí el _Premio al Talento Docente_ de la Universidad M
 
 **He sido Tutor Académico en programa de iniciación a la docencia** de la Universidad Miguel Hernández de Elche.
 
-**He sido Tutor Académico de 213 prácticas curriculares** en el Grado en Periodismo y en el Máster Universitario en Innovación en Periodismo de la Universidad Miguel Hernández de Elche.
+**He sido Tutor Académico de {% for docencia in site.data.docencia %}{{ docencia.tutor_practicas }}{% endfor %} prácticas curriculares** en el Grado en Periodismo y en el Máster Universitario en Innovación en Periodismo de la Universidad Miguel Hernández de Elche.
 
 **He sido ponente y coordinador de las Jornadas de Empleo** del Grado en Periodismo de la Universidad Miguel Hernández desde 2012 hasta 2019.
 
@@ -79,7 +79,7 @@ En 2018, 2020 y 2022, recibí el _Premio al Talento Docente_ de la Universidad M
 
 **Tutor Erasmus** de la Titulación Publicidad y Relaciones Públicas de la Universidad C. San Antonio de Murcia 2005 - 2006. 
 
-**He participado en 3 proyectos de Innovación Docente** como IP financiados en convocatorias competitivas de la Universidad Miguel Hernández y en 2 como miembro del equipo de trabajo.
+**He participado en {% for docencia in site.data.docencia %}{{ docencia.pidoc }}{% endfor %} proyectos de Innovación Docente** como IP financiados en convocatorias competitivas de la Universidad Miguel Hernández y en {% for docencia in site.data.docencia %}{{ docencia.pidocteam }}{% endfor %} como miembro del equipo de trabajo.
 
 **Imparto la asignatura Media Structure en inglés** desde 2013 hasta la actualidad. Se trata de una asignatura optativa de Cuarto Curso del Grado de Periodismo, realizada íntegramente en inglés, como fruto del "Programa de Medidas para el Impulso y el Reconocimiento de la Docencia en Inglés" de la Universidad Miguel Hernández.
 
