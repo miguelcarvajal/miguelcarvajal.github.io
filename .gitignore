@@ -46,3 +46,18 @@ validation-report.json
 node_modules
 bower_components
 venv/
+
+# Security: Credentials and sensitive files
+*.env
+.env.*
+*.key
+*.pem
+*.p12
+# Archivos JSON de credenciales (mantener archivos JSON públicos como manifest.json, search.json)
+credentials.json
+service-account*.json
+*-credentials.json
+*credentials*.json
+GCP_CREDENTIALS
+.secrets
+secrets/

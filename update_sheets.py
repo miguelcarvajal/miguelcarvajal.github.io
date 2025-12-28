@@ -10,8 +10,10 @@ scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/au
 credentials = ServiceAccountCredentials.from_json_keyfile_dict(json.loads(os.environ["GCP_CREDENTIALS"]), scope)
 client = gspread.authorize(credentials)
 
-# ID de tu Google Sheet
-spreadsheet_id = "15sKk88cRmRlp3OWAeBYRwx31pCXjqpR60yeqlBFAduI"
+# ID de tu Google Sheet (desde variable de entorno por seguridad)
+spreadsheet_id = os.environ.get("GOOGLE_SHEET_ID")
+if not spreadsheet_id:
+    raise ValueError("La variable de entorno GOOGLE_SHEET_ID no está definida")
 spreadsheet = client.open_by_key(spreadsheet_id)
 
 # Lista de nombres de las hojas
