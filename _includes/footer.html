@@ -3,3 +3,11 @@
 <script src="{{ site.baseurl }}/assets/js/vendor/lazyload.js"></script>
 {% endif %}
 <script src="{{ site.baseurl }}/assets/js/vendor/search.js"></script>
+<script>
+  document.querySelectorAll('a[target="_blank"]').forEach(function(link) {
+    var rel = (link.getAttribute('rel') || '').toLowerCase();
+    if (!rel.includes('noopener')) {
+      link.setAttribute('rel', (rel + ' noopener noreferrer').trim());
+    }
+  });
+</script>

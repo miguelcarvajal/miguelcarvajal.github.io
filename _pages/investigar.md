@@ -33,7 +33,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 * * *
 
-### Artículos en revistas científicas indexadas ({{ site.data.articulos | size }}) 
+### Artículos en revistas científicas indexadas ({{ site.data.articulos | size }}) {#articulos-indexadas}
 
 {% for articulos in site.data.articulos %}
 {{ articulos.autores }} (**{{ articulos.ano }}**). "{{ articulos.titulo }}", _{{ articulos.revista }}_, {{ articulos.volumen }}, pp. {{ articulos.desde }}-{{ articulos.hasta }}, [{{ articulos.doi }}]({{ articulos.doi }}){:target="_blank"}.
@@ -47,7 +47,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {{ art_no_index.autores }} (**{{ art_no_index.ano }}**). "{{ art_no_index.titulo }}", _{{ art_no_index.revista }}_, {{ art_no_index.volumen }}, pp. {{ art_no_index.desde }}-{{ art_no_index.hasta }}, [{{ art_no_index.doi }}]({{ art_no_index.doi }}){:target="_blank"}.
 {% endfor %}
 
-### Libros ({{ site.data.libros | size }}) y capítulos de libros ({{ site.data.capitulos | size }})
+### Libros ({{ site.data.libros | size }}) y capítulos de libros ({{ site.data.capitulos | size }}) {#libros-capitulos}
 
 {% for libros in site.data.libros %}
 {{ libros.autores }} (**{{ libros.ano }}**). _{{ libros.titulo }}_, publicado en editorial {{ libros.editorial }}, {{ libros.ciudad }}, {{ libros.paginas }} páginas, ISBN: {{ libros.ISBN }}, SPI: {{ libros.SPI }}.
@@ -69,7 +69,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {% endfor %}
 </ol>
 
-### Comunicaciones en congresos científicos ({{ site.data.congresos | size }}) 
+### Comunicaciones en congresos científicos ({{ site.data.congresos | size }}) {#comunicaciones-congresos}
 
 <ol>
 {% for congresos in site.data.congresos %}
@@ -100,7 +100,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 - **2015 - ASISTENCIA** al "II Seminario de Periodismo Emprendedor", organizado por la FAPE. 
 - **2016 - ASISTENCIA** en calidad de ponente a la actividad de trabajo del Proyecto MAPCOM en la Universitat Pompeu Fabra.
 
-### Proyectos ({{ site.data.proyectos | size }}) 
+### Proyectos ({{ site.data.proyectos | size }}) {#proyectos}
 
 **Participación en proyectos de investigación competitivos del Plan Nacional I+D+i o similar**. He participado en 9 proyectos de investigación, de los cuales 6 han sido en concurrencia competitiva en instituciones de ámbito nacional y/o europeo correspondientes al Plan Nacional de I+D+i (5) o similar a nivel europeo (4). 
 
@@ -118,7 +118,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 **También disfruté de una estancia pre-doctoral** con la beca FPU (Ayudas para la formación de profesorado universitario) en la **Universidad de Westminster**, bajo la supervisión del profesor **Colin Sparks**, durante 4 meses, entre junio y septiembre de 2004. 
 
-## Otros méritos de investigación
+## Otros méritos de investigación {#otros-meritos-investigacion}
 
 **Reseñas de libros publicadas en revistas científicas**
 

@@ -19,7 +19,7 @@ color: bg-dark
 <section class="after-loop">
   <div class="row">
     <div class="col-lg-12 col-md-12 mb-lg-0 mx-auto">
-      <a href="http://mip.umh.es/ranking/" target="_blank" class="after-loop-item card bg-secondary border-0 shadow-lg">
+      <a href="https://mip.umh.es/ranking/" target="_blank" class="after-loop-item card bg-secondary border-0 shadow-lg">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-warning">Ranking de Innovación Periodística</h2>
           <p class="w-75 text-white">Ideación y desarrollo del proyecto</p>
@@ -37,7 +37,7 @@ color: bg-dark
 <section class="after-loop">
   <div class="row">
     <div class="col-lg-12 col-md-12 mb-lg-0 mx-auto">
-      <a href="http://diccionariodelcliche.umh.es/" target="_blank" class="after-loop-item card bg-primary border-0 shadow-lg">       
+      <a href="https://diccionariodelcliche.umh.es/" target="_blank" class="after-loop-item card bg-primary border-0 shadow-lg">       
         <div class="card-body d-flex align-items-end flex-column text-right">
         <h2 class="text-white">Diccionario del cliché</h2>
         <p class="w-75 text-warning">Diseño y desarrollo web</p>  
@@ -55,7 +55,7 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
 <section class="after-loop">
   <div class="row">
     <div class="col-lg-12 col-md-12 mb-lg-0 mx-auto">
-      <a href="http://periodistasdedatos.com/" target="_blank" class="after-loop-item card bg-secondary border-0 shadow-lg">
+      <a href="https://periodistasdedatos.com/" target="_blank" class="after-loop-item card bg-secondary border-0 shadow-lg">
         <div class="card-body d-flex align-items-end flex-column text-right">
           <h2 class="text-white">Periodistas de datos</h2>
           <p class="w-75 text-warning">Diseño y desarrollo web</p>  
@@ -66,7 +66,7 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
   </div>
 </section>
 
-**Periodistas de datos** reune la primera gran lista de profesionales que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
+**Periodistas de datos** reúne la primera gran lista de profesionales que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
 
 ### Local Data Lab
 

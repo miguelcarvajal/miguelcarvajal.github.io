@@ -53,11 +53,11 @@ En 2018, 2020, 2022 y 2024, recibí el _Premio al Talento Docente_ de la Univers
 
 **Miembro del claustro de profesores del programa de Doctorado** en Ciencias Sociales y Jurídicas desde 2017. 
 
-### Dirección de tesis doctorales, TFM Y TFG
+### Dirección de tesis doctorales, TFM Y TFG {#direccion-tesis-tfm-tfg}
 
 **He dirigido un total de {% for docencia in site.data.docencia %}{{ docencia.tfms }}{% endfor %} TFMs** en el Máster Universitario en Innovación en Periodismo, título oficial de la UMH. También he tutelado **{% for docencia in site.data.docencia %}{{ docencia.tfgs }}{% endfor %} Trabajos Fin de Grado** en el Grado en Periodismo de la misma universidad, tres de ellos evaluados con Matrícula de Honor. He dirigido  **dos tesis doctorales** dentro del Programa de Doctorado en Ciencias Sociales y Jurídicas, y actualmente co-dirijo una más. 
 
-### Otros méritos docentes
+### Otros méritos docentes {#otros-meritos-docentes}
 **He sido ponente en la Doctoral Summer School** de la Red de Excelencia en Periodismo Digital y Convergencia Mediática (2018 y 2019).
 
 **He sido profesor invitado del Máster Universitario de Profesorado** de la Universidad Miguel Hernández, con el "Taller de escritura" (2012). 
@@ -104,7 +104,7 @@ He cursado el **taller "Herramientas web 2.0 para la docencia e investigación p
 
 He participado en los seminarios sobre **Calidad de la Investigación e Innovación en la Docencia** organizados por el departamento de Ciencias Sociales y Humanas relacionado en los cursos 2015, 2016, 2017 y 2018. 
 
-## Desempeño de cargos en gestión universitaria
+## Desempeño de cargos en gestión universitaria {#gestion-universitaria}
 
 - 2015 - 2019. **Vicedecano** de Proyección del Grado en Periodismo de la Universidad Miguel Hernández.
 - 2012 - actualidad. **Director de Máster Universitario** en Innovación en Periodismo de la Universidad Miguel Hernández.

@@ -5,7 +5,10 @@ url: https://miguelcarvajal.es
 email: mcarvajal@umh.es
 tagline: Profesor Titular de Periodismo
 
-author: Miguel Carvajal
+author:
+  name: Miguel Carvajal
+  twitter: mcarvajal_
+locale: es_ES
 twitter: 
   username: mcarvajal_
   card: summary_large_image
@@ -38,7 +41,7 @@ sass:
   style: compressed
 
 # Host
-host: localhost
+# host: localhost
 
 # Plugins
 plugins:
@@ -53,4 +56,3 @@ paginate: 10
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"
-
