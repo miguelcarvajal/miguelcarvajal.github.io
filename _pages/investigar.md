@@ -41,7 +41,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 
 
-### Artículos en revistas no indexadas ({{ site.data.art_no_index | size }})
+### Artículos en revistas no indexadas ({{ site.data.art_no_index | size }}) {#articulos-no-indexadas}
 
 {% for art_no_index in site.data.art_no_index %}
 {{ art_no_index.autores }} (**{{ art_no_index.ano }}**). "{{ art_no_index.titulo }}", _{{ art_no_index.revista }}_, {{ art_no_index.volumen }}, pp. {{ art_no_index.desde }}-{{ art_no_index.hasta }}, [{{ art_no_index.doi }}]({{ art_no_index.doi }}){:target="_blank"}.
@@ -59,7 +59,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {{ capitulos.autores }} (**{{ capitulos.ano }}**). En _{{ capitulos.titulo }}_, publicado en editorial {{ capitulos.editorial }}, pp. {{ capitulos.paginas }}, ISBN: {{ capitulos.ISBN }}, SPI: {{ capitulos.SPI }}.
 {% endfor %}
 
-### Miembro de comités científicos de congresos ({{ site.data.comites | size }}) 
+### Miembro de comités científicos de congresos ({{ site.data.comites | size }}) {#comites-cientificos-congresos}
 
 <ol>
 {% for comites in site.data.comites %}
@@ -79,7 +79,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {% endfor %}
 </ol>
 
-### Conferencias y ponencias impartidos ({{ site.data.seminarios | size }}) 
+### Conferencias y ponencias impartidos ({{ site.data.seminarios | size }}) {#conferencias-ponencias}
 
 <ol>
 {% for seminarios in site.data.seminarios %}
@@ -89,7 +89,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {% endfor %}
 </ol>
 
-### Participación en congresos (8)
+### Participación en congresos (8) {#participacion-congresos}
 
 - **2010 - MODERADOR** en el I Congreso Internacional de Comunicación y Publicidad, celebrado en la Universidad Miguel Hernández de Elche. 
 - **2018 - MODERADOR** en Comunica2: VIII Congreso Internacional sobre redes sociales, celebrado en la Universitat Politècnica de València. 
@@ -112,7 +112,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 {% endfor %}
 </ol>
 
-### Estancias de investigación en el extranjero
+### Estancias de investigación en el extranjero {#estancias-investigacion-extranjero}
 
 **He realizado una estancia de investigación postdoctoral** financiada por el Programa José Castillejo en el Centro Donald McGannon de la Universidad de Fordham (2010), bajo la supervisión del profesor **Philip Napoli**. 
 

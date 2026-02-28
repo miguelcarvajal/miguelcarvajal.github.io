@@ -50,9 +50,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-permalink:     pretty
-paginate_path: 'page:num'
-paginate: 10
+permalink: pretty
 
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "enabled"

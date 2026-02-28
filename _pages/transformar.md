@@ -14,7 +14,7 @@ color: bg-dark
 
 * * *
 
-### Ranking de Innovación Periodística
+### Ranking de Innovación Periodística {#ranking-innovacion-periodistica}
 
 <section class="after-loop">
   <div class="row">
@@ -32,7 +32,7 @@ color: bg-dark
 
 **El "Ranking en Innovación en Periodismo"** de la Universidad Miguel Hernández recoge los resultados de un proyecto de investigación del GICOV (Grupo de Investigación de la Comunicación) desarrollado a raíz del lanzamiento del Máster Universitario en Innovación en Periodismo. En este trabajo estudiamos las iniciativas y las prácticas más innovadoras en la industria periodística española. 
 
-### Diccionario del Cliché
+### Diccionario del Cliché {#diccionario-del-cliche}
 
 <section class="after-loop">
   <div class="row">
@@ -50,7 +50,7 @@ color: bg-dark
 
 El **Diccionario del Cliché** es un proyecto de innovación docente coordinado por el profesor José Alberto García Avilés que recopila más 3.500 clichés. Con la ayuda de un grupo de alumnos de Periodismo UMH, recogemos todas estas expresiones que se usan de forma reiterada en el periodismo para detectarlas, comprenderlas y evitar también su uso excesivo. 
 
-### Periodistas de datos
+### Periodistas de datos {#periodistas-de-datos}
 
 <section class="after-loop">
   <div class="row">
@@ -68,7 +68,7 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
 
 **Periodistas de datos** reúne la primera gran lista de profesionales que ven en los datos la verdadera materia prima del periodismo. Impulsado por el profesor Félix Arias, la web es la primera fase de una plataforma para visibilizar, estudiar y fomentar la colaboración entre los artífices de la especialidad con más presente y futuro en esta profesión.
 
-### Local Data Lab
+### Local Data Lab {#local-data-lab}
 
 <section class="after-loop">
   <div class="row">
@@ -86,7 +86,7 @@ El **Diccionario del Cliché** es un proyecto de innovación docente coordinado 
 
 El **Local Data Lab** es un grupo de trabajo compuesto por profesionales, profesores y alumnos de Periodismo de la Universidad Miguel Hernández. Nació en febrero de 2019 impulsado por el profesor Félix Arias con el fin de descubrir y poner en práctica el potencial del periodismo de datos en el ámbito local.
 
-### Edición · El País
+### Edición · El País {#edicion-el-pais}
 
 <section class="after-loop">
   <div class="row">
@@ -104,7 +104,7 @@ El **Local Data Lab** es un grupo de trabajo compuesto por profesionales, profes
 
 El bot **elpaisdiff** es un programa desarrollado en Python ([código](https://github.com/DocNow/diffengine)) que analiza el trabajo de edición en la portada de El País. La herramienta compara versiones de los artículos del diario madrileño, captura las diferencias y las comparte en una imagen en Twitter de forma automática. También he instalado un [bot para el diario El Mundo](https://twitter.com/elmundodiff) que realiza el mismo seguimiento.
 
-### Ministeditor
+### Ministeditor {#ministeditor}
 
 <section class="after-loop">
   <div class="row">

@@ -18,7 +18,7 @@ color: bg-dark
 
 En 2018, 2020, 2022 y 2024, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013, 2013-2017, en el Programa Docentia UMH (Evaluado por ANECA).
 
-### Asignaturas impartidas
+### Asignaturas impartidas {#asignaturas-impartidas}
 
 **Profesor de asignaturas del Doble Grado** en Periodismo y Comunicación Audiovisual de la Universidad Miguel Hernández: 
 - 2021-actualidad. Proyectos Periodísticos Especializados I (6 ECTS).
@@ -94,7 +94,7 @@ En 2018, 2020, 2022 y 2024, recibí el _Premio al Talento Docente_ de la Univers
 - Estancia docente en CUNY - City University of New York (Nueva York, Estados Unidos) con una beca Destino PDI de la Universidad Miguel Hernández en 2017. 
 - Estancia docente en la Universidad de Wroclaw (Polonia) con beca Erasmus en 2011. 
 
-### Calidad de la formación docente
+### Calidad de la formación docente {#calidad-formacion-docente}
 
 He cursado el **Programa de Aptitud Pedagógica Universitaria** de la Universidad Miguel Hernández con una duración de 100 horas, desde octubre 2006 a junio 2007. 
 
