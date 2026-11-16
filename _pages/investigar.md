@@ -14,18 +14,18 @@ color: bg-dark
 
 * * *
 
-A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener dos sexenios de investigación CNEAI (2007-2012, 2013-2018) y uno de transferencia (2013-2018), y presentar los siguientes resultados:
+A lo largo de **mi trayectoria investigadora** me he centrado en estudiar la transformación de la industria periodística. Desde hace una década, estoy enfocado en los procesos de innovación en periodismo, especialmente en la búsqueda de modelos de negocio sostenibles. Durante estos años he publicado numerosos estudios sobre esas materias, lo que me ha servido para obtener tres sexenios de investigación CNEAI (2007-2012, 2013-2018, 2019-2024) y uno de transferencia (2013-2018), y presentar los siguientes resultados:
 
-- Más de **64** publicaciones científicas
-  - **27** artículos de revistas indexadas en los niveles 1 y 2 **(JCR, SJR y Latindex)** 
+- Más de **65** publicaciones científicas
+  - **28** artículos de revistas indexadas en los niveles 1 y 2 **(JCR, SJR y Latindex)** 
   - **32** publicaciones en libros o capítulos
       - **14** en editoriales recogidas en **Scholarly Publishers Indicators (SPI)**  
 
-**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H ({% for metricas in site.data.metricas %}{{ metricas.scholarH10Index }}{% endfor %}) en Google Académico, con un total de {% for metricas in site.data.metricas %}{{ metricas.scholarCitations }}{% endfor %} citas. En la Web of Science presento un índice H de {% for metricas in site.data.metricas %}{{ metricas.wosHIndex }}{% endfor %} de un total de {% for metricas in site.data.metricas %}{{ metricas.wosDocuments }}{% endfor %} publicaciones con {% for metricas in site.data.metricas %}{{ metricas.wosCitations }}{% endfor %} citas desde 2008 a {{ "now" | date: "%Y" }}. En Scopus, tengo indexadas {% for metricas in site.data.metricas %}{{ metricas.scopusDocuments }}{% endfor %} publicaciones, con un índice H de {% for metricas in site.data.metricas %}{{ metricas.scopusHIndex }}{% endfor %}. 
+**Mis investigaciones tienen impacto**, como se puede apreciar en un alto índice H ({% for metricas in site.data.metricas %}{{ metricas.scholarHIndex }}{% endfor %}) en Google Académico, con un total de {% for metricas in site.data.metricas %}{{ metricas.scholarCitations }}{% endfor %} citas. En la Web of Science presento un índice H de {% for metricas in site.data.metricas %}{{ metricas.wosHIndex }}{% endfor %} de un total de {% for metricas in site.data.metricas %}{{ metricas.wosDocuments }}{% endfor %} publicaciones con {% for metricas in site.data.metricas %}{{ metricas.wosCitations }}{% endfor %} citas desde 2008 a {{ "now" | date: "%Y" }}. En Scopus, tengo indexadas {% for metricas in site.data.metricas %}{{ metricas.scopusDocuments }}{% endfor %} publicaciones, con un índice H de {% for metricas in site.data.metricas %}{{ metricas.scopusHIndex }}{% endfor %}. 
 
 **Además, he presentado comunicaciones a {{ site.data.congresos | size }} congresos** (5 nacionales y 23 internacionales). Estos trabajos son fruto de mi **participación en proyectos de I+D+i** , de los cuales 11 han sido en concurrencia competitiva en instituciones de ámbito nacional (6) y europeo (5). Además, he realizado una **estancia de investigación postdoctoral en Nueva York** en el Centro Donald McGannon de la Universidad de Fordham (2010), financiada por el Programa José Castillejo. 
 
-**Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH. Co-dirijo el proyecto de investigación "Novacult" (PID 2022), financiado por el Ministerio de Ciencia e Innovación.
+**Soy Director en el Grupo de Investigación** Consolidado de la Universidad Miguel Hernández de Elche ["Grupo de Investigación de la Comunicación en la Comunidad Valenciana"](https://gicov.umh.es/), que cuenta con una evaluación positiva en la convocatoria 2021 que realiza la UMH. Dirijo como investigador principal el proyecto de investigación "Novacult" (PID 2022), financiado por el Ministerio de Ciencia e Innovación.
 
 Aparte, soy miembro de la **Red de Excelencia del Ciberperiodismo**, evaluador de ANEP y pertenezco a la Asociación Española de Investigación en la Comunicación (AE-IC) y a la Association for Education in Journalism and Mass Communication (AEJMC).
 
@@ -134,7 +134,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 - **2008 - Coautor**. "Newsroom convergence in multimedia organisations in Spain and Austria: quality models in the production of news", resultado de un proyecto de I+D+i financiado por el programa de Acciones Integradas del Ministerio de Ciencia e Innovación. 
 - **2002 - Coautor**. Informe "GLOBALISATION OF THE MEDIA INDUSTRY AND POSSIBLE THREATS TO CULTURAL DIVERSITY (Final Study)" para el Parlamento Europeo (STOA Panel), resultado de un proyecto de I+D+i. 
 
-**Evaluaciones positivas sobre la trayectoria investigadora**. Tengo reconocido dos sexenios (2007-2012, 2013-2018). Además, he solicitado un sexenio de transferencia para el período 2013-2018 en la convocatoria extraordinaria realizada por CNEAI este año.
+**Evaluaciones positivas sobre la trayectoria investigadora**. Tengo reconocidos tres sexenios de investigación (2007-2012, 2013-2018, 2019-2024) y uno de transferencia (2013-2018), concedidos por la CNEAI.
 
 **Premios relacionados con la calidad investigadora**. El Plan de Excelencia y Competitividad de la Universidad Miguel Hernández de Elche 2014-2018 pretende aumentar su capacidad formativa, mejorar del talento docente, incrementar la generación de conocimiento y la competitividad de sus recursos humanos, desarrollar su proyección internacional e acrecentar su impacto en el sector socio-económico. Por eso, reconoce la implicación a los profesores que alcancen la excelencia investigadora mediante la concesión de premios, que recibirán la denominación Premios UMH a la Productividad Investigadora. En esta categoría he recibido los siguientes: 
 
@@ -145,7 +145,7 @@ He liderado e ideado junto al equipo del GICOV la creación del **Ranking de Inn
 
 **He sido miembro evaluador de 16 tribunales de Tesis Doctorales**. He participado además en los siguientes comités y tribunales científicos. 
 
-- 2017 - (actualidad) MIEMBRO del Banco de Expertos de la AGENCIA ESTATAL DE INVESTIGACIÓN. 
+- 2017 - (actualidad) MIEMBRO del Banco de Expertos de la AGENCIA ESTATAL DE INVESTIGACIÓN. Miembro de la comisión de evaluación presencial en las convocatorias de 2025 y 2026. 
 - 2009 - (actualidad) MIEMBRO del GICOV (Grupo de Investigación de la Comunicación en la Universidad Miguel Hernández).
 - 2008 - (actualidad) MIEMBRO de la Asociación Española de Investigación en Comunicación (AE - IC). 
 - 2012 - (actualidad) MIEMBRO de comité científico de la revista polaca NAUKOWY PRZEGLAD DZIENNIKARSKI. 

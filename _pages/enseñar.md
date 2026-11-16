@@ -14,7 +14,7 @@ color: bg-dark
 
 * * *
 
-**Soy Profesor Titular en la Universidad Miguel Hernández (UMH)**, donde imparto las asignaturas "Proyectos Periodísticos Especializados" y “Media Structure” y dirijo el Máster Universitario en Innovación en Periodismo. Previamente, he sido vicedecano de Proyección del Grado en Periodismo UMH (2015-2019), profesor en la Universidad Católica de Murcia (2005-2006) y ayudante en la Universidad de Navarra (2000-2005).
+**Soy Catedrático de Periodismo en la Universidad Miguel Hernández (UMH)**, donde imparto las asignaturas "Proyectos Periodísticos Especializados" y “Media Structure” y dirijo el Máster Universitario en Innovación en Periodismo. Previamente, he sido vicedecano de Proyección del Grado en Periodismo UMH (2015-2019), profesor en la Universidad Católica de Murcia (2005-2006) y ayudante en la Universidad de Navarra (2000-2005).
 
 En 2018, 2020, 2022 y 2024, recibí el _Premio al Talento Docente_ de la Universidad Miguel Hernández. Tengo tres quiquenios de docencia reconocidos por la AVAP (2006-2011, 2012-2016, 2017-2021) y cuento con la **evaluación positiva** de la actividad docente en los períodos 2009-2013, 2013-2017, en el Programa Docentia UMH (Evaluado por ANECA).
 
