@@ -33,6 +33,17 @@ markdown: kramdown
 include:
 - _pages
 
+# Archivos internos del repositorio: no se publican
+exclude:
+- AGENTS.md
+- CLAUDE.md
+- README.md
+- update_sheets.py
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor
+
 permalink: notas/:year/:month/:day/:title:output_ext
 
 # Compression
